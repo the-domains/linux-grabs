@@ -4,8 +4,15 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 08:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 08:16:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Many XFS File-System Changes With Linux 4.6 - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Many XFS File-System Changes With Linux 4.6 - Phoronix</h1><p>Many XFS file-system changes can be found in the upcoming Linux 4.6 kernel release. Dave Chinner sent in the XFS updates over night for the Linux 4.6 merge window and it's a heavier pull than normal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/133f3edac26b439141eee7b604da99db01084358.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=XFS-File-System-Linux-4.6</link>
+            <guid isPermaLink="false">f93a270f-4371-4716-957c-8661ea66fe04</guid>
+            <pubDate>Tue, 22 Mar 2016 08:15:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GOL SteamOS & Linux Survey results for February]]></title>
             <description><![CDATA[<article><h1>GOL SteamOS & Linux Survey results for February</h1><p>Here are the latest results from the monthly GOL survey. Wait, you already did February? Previously we were showing the results as the month we presented results, which was wrong (last months posted was amended).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06962d6a135799a9c8c2ec96b1abb1eaedc7037f.png"></article>]]></description>
