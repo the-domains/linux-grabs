@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Linux Grabs]]></title>
         <description><![CDATA[Linux Grabs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 08:11:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 08:15:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GTX 900 3D Support, AMDGPU Reset & Other Exciting DRM Highlights - Phoronix]]></title>
+            <description><![CDATA[<article><h1>GTX 900 3D Support, AMDGPU Reset & Other Exciting DRM Highlights - Phoronix</h1><p>The super exciting DRM subsystem updates for Linux 4.6 have been mailed in and it's one of the most exciting open-source DRM display/graphics driver updates in recent releases. Most notable to the DRM changes for Linux 4.6 is finally having the signed firmware support from NVIDIA Corp for Maxwell.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/133f3edac26b439141eee7b604da99db01084358.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-4.6-DRM-Changes</link>
+            <guid isPermaLink="false">c96fac16-faf9-4ad1-bae6-f2de056dd33d</guid>
+            <pubDate>Tue, 22 Mar 2016 08:15:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Apple's Programming Language Swift 2.2 Released With Linux Support - Phoronix]]></title>
             <description><![CDATA[<article><h1>Apple's Programming Language Swift 2.2 Released With Linux Support - Phoronix</h1><p>As the first major release since Apple open-sourced the Swift programming language and began providing Linux support, Swift 2.2 is now available. Swift 2.2 contains the Linux support (officially for Ubuntu 14.04 and 15.10) while aside from that are some minor language changes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5a33d28432c1b96e52ebe31eed8a736a25aecb9.jpg"></article>]]></description>
