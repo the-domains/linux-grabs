@@ -1,0 +1,28 @@
+name: Linux Grabs
+favicon: null
+layout_spectrum: 0.3223040250595659
+typography_spectrum: 0.1578390086069703
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8882439355365932
+  lightness: 0.818957231938839
+  saturation: 0.9934167398605496
+  rhythmicContrast: 0.3752122246660292
+purpose: []
