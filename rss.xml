@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Linux Grabs]]></title>
+        <description><![CDATA[Linux Grabs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Mar 2016 08:11:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apple's Programming Language Swift 2.2 Released With Linux Support - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Apple's Programming Language Swift 2.2 Released With Linux Support - Phoronix</h1><p>As the first major release since Apple open-sourced the Swift programming language and began providing Linux support, Swift 2.2 is now available. Swift 2.2 contains the Linux support (officially for Ubuntu 14.04 and 15.10) while aside from that are some minor language changes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5a33d28432c1b96e52ebe31eed8a736a25aecb9.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Swift-2.2-Released</link>
+            <guid isPermaLink="false">d45b09f6-bbfe-409e-8b33-e1f8d3ecd2da</guid>
+            <pubDate>Tue, 22 Mar 2016 08:11:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
