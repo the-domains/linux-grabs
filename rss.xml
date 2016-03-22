@@ -4,8 +4,15 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 08:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 08:16:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wine-Staging 1.9.6 Adds Initial Support For Vulkan Windows Programs On Linux - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Wine-Staging 1.9.6 Adds Initial Support For Vulkan Windows Programs On Linux - Phoronix</h1><p>The Wine-Staging 1.9.6 release adds an experimental Vulkan wrapper for running Vulkan Windows binaries on Linux. Recently I wrote about Vulkan support being worked on for Wine and this week's Wine-Staging 1.9.6 release delivers the initial Vulkan wrapper.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/af3533f7c244b144eb87405f027f1653/croprotate.php?cropheight=409&cropwidth=376&degrees=0&input=http%3A%2F%2Fwww.phoronix.net%2Fimage.php%3Fid%3Dsig-gles32-glu%26image%3Dsiggraph15_khronos_1&x=24&y=8"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Wine-Staging-1.9.6</link>
+            <guid isPermaLink="false">df0e08fc-a246-4ba8-a44b-ddf571ad3e08</guid>
+            <pubDate>Tue, 22 Mar 2016 08:15:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Supreme Court could slash Apple's $548M win against Samsung]]></title>
             <description><![CDATA[<article><h1>Supreme Court could slash Apple's $548M win against Samsung</h1><p>View all... If Apple was finally feeling like it had a solid win after getting paid $548 million in patent damages by Samsung-well, now it shouldn't be so sure. The Supreme Court said today it will consider what kind of damages should be warranted when a design patent is found to be infringed as the court takes up the blockbuster Apple v.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64cab23a96691aabd25dc998fc37167eecc0546e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-4.6-DRM-Changes</link>
             <guid isPermaLink="false">c96fac16-faf9-4ad1-bae6-f2de056dd33d</guid>
             <pubDate>Tue, 22 Mar 2016 08:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple's Programming Language Swift 2.2 Released With Linux Support - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Apple's Programming Language Swift 2.2 Released With Linux Support - Phoronix</h1><p>As the first major release since Apple open-sourced the Swift programming language and began providing Linux support, Swift 2.2 is now available. Swift 2.2 contains the Linux support (officially for Ubuntu 14.04 and 15.10) while aside from that are some minor language changes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5a33d28432c1b96e52ebe31eed8a736a25aecb9.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Swift-2.2-Released</link>
-            <guid isPermaLink="false">d45b09f6-bbfe-409e-8b33-e1f8d3ecd2da</guid>
-            <pubDate>Tue, 22 Mar 2016 08:11:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
