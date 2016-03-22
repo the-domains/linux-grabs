@@ -23,6 +23,6 @@ color:
     - '#46b4bc'
   brandStrength: 0
   lightness: 0
-  saturation: 0
+  saturation: 1
   rhythmicContrast: 0.5
 purpose: []
