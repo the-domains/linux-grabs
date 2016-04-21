@@ -4,8 +4,36 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 08:37:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 08:38:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[8-Bit Armies, an awesome looking retro RTS from Petroglyph could come to Linux]]></title>
+            <description><![CDATA[<article><h1>8-Bit Armies, an awesome looking retro RTS from Petroglyph could come to Linux</h1><p>I love RTS games and 8-Bit Armies looks really awesome, the developers have talked about a Linux version, but there's so solid answer. It's time to show how many people want it. The developer said this on the Steam forum: QuoteWe talked about making a Linux-compatible version, but no decision has been made either way yet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7716ed200f481819fb02f00d47f69fc8a7e1e94a.jpg"></article>]]></description>
+            <link>https://www.gamingonlinux.com/articles/8-bit-armies-an-awesome-looking-retro-rts-from-petroglyph-could-come-to-linux.7072</link>
+            <guid isPermaLink="false">4b1ed5b1-58a9-411b-b128-9e702dde00a2</guid>
+            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KDE Announces the Release of KDE Applications 16.04 for KDE Plasma 5 Desktop]]></title>
+            <description><![CDATA[<article><h1>KDE Announces the Release of KDE Applications 16.04 for KDE Plasma 5 Desktop</h1><p>Today, April 20, 2016, KDE has had the great pleasure of announcing the release of the final KDE Applications 16.04 software collection for the KDE Plasma 5 desktop environment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5944db7cbca0b2ef9946db295065ba172322ffdd.jpg"></article>]]></description>
+            <link>http://news.softpedia.com/news/kde-announces-the-release-of-kde-applications-16-04-for-kde-plasma-5-desktop-503224.shtml</link>
+            <guid isPermaLink="false">0b3574ed-e672-4e59-9728-3fab33a7513b</guid>
+            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Radeon Open Compute 1.0 Released - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Radeon Open Compute 1.0 Released - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1e926ed42fe0ff9e47ce87c6c2fe4936ff0a735.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Radeon-Open-Compute-1.0</link>
+            <guid isPermaLink="false">b10160a9-e39a-4930-b2d2-1c28bc4f8726</guid>
+            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four hundred MILLION vulnerable Androids are out there]]></title>
+            <description><![CDATA[<article><h1>Four hundred MILLION vulnerable Androids are out there</h1><p>There's still too many unpatched Android devices, Google reckons: to wit, 29 per cent of mobes and tablets running The Chocolate Factory's operating system are running out-of-date code. In among the self-congratulation in Google's second Android Security Annual Report, we find that only 71 per cent of devices are running Android 4.4.4 or better.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b2f2c84987aa1d227ade0970996e11903044a25.jpg"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/04/20/four_hundred_meelion_vulnerable_androids_out_there/</link>
+            <guid isPermaLink="false">420e69a8-7858-4e3a-9fc2-d901a59c1c50</guid>
+            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Open-Source Project Secretly Funded by CIA]]></title>
             <description><![CDATA[<article><h1>Open-Source Project Secretly Funded by CIA</h1><p>It's fair to say that the interests of governments and the FOSS community are not always aligned. That's not to say that the US government is out to crush every FOSS project or that every FOSS user is on a secret mission to destroy the government. Nonetheless, the relationship is often a strained one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71afb368fbab96d22690ebabc56b184baaeb75ef.png"></article>]]></description>
@@ -46,34 +74,6 @@
             <description><![CDATA[<article><h1>Wine-Staging 1.9.6 Adds Initial Support For Vulkan Windows Programs On Linux - Phoronix</h1><p>The Wine-Staging 1.9.6 release adds an experimental Vulkan wrapper for running Vulkan Windows binaries on Linux. Recently I wrote about Vulkan support being worked on for Wine and this week's Wine-Staging 1.9.6 release delivers the initial Vulkan wrapper.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/af3533f7c244b144eb87405f027f1653/croprotate.php?cropheight=409&cropwidth=376&degrees=0&input=http%3A%2F%2Fwww.phoronix.net%2Fimage.php%3Fid%3Dsig-gles32-glu%26image%3Dsiggraph15_khronos_1&x=24&y=8"></article>]]></description>
             <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Wine-Staging-1.9.6</link>
             <guid isPermaLink="false">df0e08fc-a246-4ba8-a44b-ddf571ad3e08</guid>
-            <pubDate>Tue, 22 Mar 2016 08:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Supreme Court could slash Apple's $548M win against Samsung]]></title>
-            <description><![CDATA[<article><h1>Supreme Court could slash Apple's $548M win against Samsung</h1><p>View all... If Apple was finally feeling like it had a solid win after getting paid $548 million in patent damages by Samsung-well, now it shouldn't be so sure. The Supreme Court said today it will consider what kind of damages should be warranted when a design patent is found to be infringed as the court takes up the blockbuster Apple v.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64cab23a96691aabd25dc998fc37167eecc0546e.jpg"></article>]]></description>
-            <link>http://arstechnica.com/tech-policy/2016/03/supreme-court-could-slash-apples-548m-win-against-samsung/</link>
-            <guid isPermaLink="false">5de32d03-2d5e-4e71-9e40-37e3a830b5f9</guid>
-            <pubDate>Tue, 22 Mar 2016 08:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft still forces companies to pay for its Android patents]]></title>
-            <description><![CDATA[<article><h1>Microsoft still forces companies to pay for its Android patents</h1><p>Microsoft has long sought to build credibility with the open source community, but it continues to shoot itself in the foot by forcing companies to pay for its Android patents. This has led some in the open source community to remain sour on Microsoft and its business practices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cce32a551e52a45d75f123f2d9b4569be4a1e7e.jpg"></article>]]></description>
-            <link>http://www.infoworld.com/article/3046296/linux/microsoft-still-forces-companies-to-pay-for-its-android-patents.html</link>
-            <guid isPermaLink="false">c8a501df-c073-465c-bf54-f91c3392fb7d</guid>
-            <pubDate>Tue, 22 Mar 2016 08:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nvidia 364.12 Linux Driver Out Now with Vulkan 1.0, Wayland, and Mir Support]]></title>
-            <description><![CDATA[<article><h1>Nvidia 364.12 Linux Driver Out Now with Vulkan 1.0, Wayland, and Mir Support</h1><p>Today, March 21, 2016, Nvidia has announced the immediate availability for download of an updated display driver for GNU/Linux, BSD, and Solaris operating systems, Nvidia 364.12. According to the release notes, the Nvidia 364.12 driver brings in major changes, starting with support for the new Vulkan 1.0 API, support for the GeForce 920MX and GeForce 930MX graphics cards, as well as initial support for DRM KMS (Direct Rendering Manager Kernel Modesetting).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7eb6f40d966c6b339646c6f2f867d217a127d019.jpg"></article>]]></description>
-            <link>http://news.softpedia.com/news/nvidia-364-12-linux-driver-out-now-with-vulkan-1-0-support-wayland-improvements-501989.shtml</link>
-            <guid isPermaLink="false">be786f59-0f66-4810-bf7f-098ec8dab2a8</guid>
-            <pubDate>Tue, 22 Mar 2016 08:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Edubuntu Will Not Do A 16.04 LTS Release, Project May Be On Its Final Leg - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Edubuntu Will Not Do A 16.04 LTS Release, Project May Be On Its Final Leg - Phoronix</h1><p>There hasn't been much to report on regarding Edubuntu, the education spin of Ubuntu, in quite some time. Edubuntu had moved to doing only LTS releases every two years, but now it's been confirmed they will not be able to make an Edubuntu 16.04 LTS release to succeed Edubuntu 14.04.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79c2a45282798d56178377fcd90d4b40a1d56666.php"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Edubuntu-16.04</link>
-            <guid isPermaLink="false">3fccbd37-c29e-4baf-bd2d-09598ba63587</guid>
             <pubDate>Tue, 22 Mar 2016 08:15:39 GMT</pubDate>
         </item>
     </channel>
