@@ -4,8 +4,15 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 08:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 08:37:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Canonical Talks Up Ubuntu 16.04 LTS With ZFS, LXD - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Canonical Talks Up Ubuntu 16.04 LTS With ZFS, LXD - Phoronix</h1><p>A day ahead of the launch of Ubuntu 16.04 as the sixth Long Term Support release, Canonical is talking about the new features for this release codenamed the Xenial Xerus.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48ad19853e7674df5ef83f3ffcc6deff/croprotate.jpg?cropheight=80&cropwidth=288&degrees=0&input=http%3A%2F%2Fwww.phoronix.com%2Fassets%2Fcategories%2Fubuntu.jpg&x=8&y=112"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-16.04-Features</link>
+            <guid isPermaLink="false">b2262890-5069-433e-aa5f-7aa02762ba40</guid>
+            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Canonical Now Sells Ubuntu 16.04 LTS on a USB Stick - OMG! Ubuntu!]]></title>
             <description><![CDATA[<article><h1>Canonical Now Sells Ubuntu 16.04 LTS on a USB Stick - OMG! Ubuntu!</h1><p>Hands up if you still have an official Ubuntu CD or DVD gathering dust in a drawer somewhere. I know I have several! At one time the arrival of the official release disc was as integral a milestone to the release cycle as wallpaper contests, feature freezes, and kernel deadlines.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1ddfe204a2e73cdbcdfeaf02e1c937898ca2e23.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>GOL SteamOS & Linux Survey results for February</h1><p>Here are the latest results from the monthly GOL survey. Wait, you already did February? Previously we were showing the results as the month we presented results, which was wrong (last months posted was amended).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06962d6a135799a9c8c2ec96b1abb1eaedc7037f.png"></article>]]></description>
             <link>https://www.gamingonlinux.com/articles/gol-survey-results-for-february.6849</link>
             <guid isPermaLink="false">7c8c4f64-5ad8-40b8-8d56-85db021a13d9</guid>
-            <pubDate>Tue, 22 Mar 2016 08:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Many XFS File-System Changes With Linux 4.6 - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Many XFS File-System Changes With Linux 4.6 - Phoronix</h1><p>Many XFS file-system changes can be found in the upcoming Linux 4.6 kernel release. Dave Chinner sent in the XFS updates over night for the Linux 4.6 merge window and it's a heavier pull than normal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/133f3edac26b439141eee7b604da99db01084358.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=XFS-File-System-Linux-4.6</link>
-            <guid isPermaLink="false">f93a270f-4371-4716-957c-8661ea66fe04</guid>
             <pubDate>Tue, 22 Mar 2016 08:15:39 GMT</pubDate>
         </item>
     </channel>
