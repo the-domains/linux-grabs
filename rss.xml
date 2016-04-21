@@ -4,8 +4,15 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 08:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 08:37:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Open-Source Project Secretly Funded by CIA]]></title>
+            <description><![CDATA[<article><h1>Open-Source Project Secretly Funded by CIA</h1><p>It's fair to say that the interests of governments and the FOSS community are not always aligned. That's not to say that the US government is out to crush every FOSS project or that every FOSS user is on a secret mission to destroy the government. Nonetheless, the relationship is often a strained one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71afb368fbab96d22690ebabc56b184baaeb75ef.png"></article>]]></description>
+            <link>http://www.linuxjournal.com/content/open-source-project-secretly-funded-cia</link>
+            <guid isPermaLink="false">5f42f483-42e7-455a-9c59-beb47acadfa4</guid>
+            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[11 resources for teaching and learning Python]]></title>
             <description><![CDATA[<article><h1>11 resources for teaching and learning Python</h1><p>If you're looking to teach, tutor, or mentor beginning programmers, you've got your work cut out for you. Different learning styles, varying levels of knowledge, and a subject area that's a moving target all conspire to see you run ragged as an instructor. Luckily, there is help available-lots of help.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06db06c200081b458f7c716bef41d9c75bb60192.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Edubuntu Will Not Do A 16.04 LTS Release, Project May Be On Its Final Leg - Phoronix</h1><p>There hasn't been much to report on regarding Edubuntu, the education spin of Ubuntu, in quite some time. Edubuntu had moved to doing only LTS releases every two years, but now it's been confirmed they will not be able to make an Edubuntu 16.04 LTS release to succeed Edubuntu 14.04.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79c2a45282798d56178377fcd90d4b40a1d56666.php"></article>]]></description>
             <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Edubuntu-16.04</link>
             <guid isPermaLink="false">3fccbd37-c29e-4baf-bd2d-09598ba63587</guid>
-            <pubDate>Tue, 22 Mar 2016 08:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NTFS-3G Linux NTFS File-System Driver Updated - Phoronix]]></title>
-            <description><![CDATA[<article><h1>NTFS-3G Linux NTFS File-System Driver Updated - Phoronix</h1><p>Tuxera has published a new stable version of their NTFS read-write driver for Linux. This new NTFS-3G Linux driver is marked as 2016.2.22 while the actual release happened just today (not in February as implied by the version number).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/133f3edac26b439141eee7b604da99db01084358.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=NTFS-3G-March-2016</link>
-            <guid isPermaLink="false">505afefe-2d16-4885-9940-0c25237dd5d4</guid>
             <pubDate>Tue, 22 Mar 2016 08:15:39 GMT</pubDate>
         </item>
     </channel>
