@@ -4,29 +4,8 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 08:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 08:38:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Official: EU goes after Google, alleges it uses Android to kill competition]]></title>
-            <description><![CDATA[<article><h1>Official: EU goes after Google, alleges it uses Android to kill competition</h1><p>The EU's competition authority thinks it has a smoking gun against Google. Consumers suffered because Google's contracts with phone OEMs prevented the market from creating a better Android, the EU Commission alleged today. It has sent a formal Statement of Objections to Google that forces Google to come up with remedies or face penalties.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1dd456f5ff5b6e3dd85ad0bbb9297010bd67f076.jpg"></article>]]></description>
-            <link>http://www.theregister.co.uk/2016/04/20/google_android_eu_statement_of_objections/</link>
-            <guid isPermaLink="false">4b19f399-108a-435f-897e-dbc0fa23789f</guid>
-            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Xubuntu 16.04 LTS Default Wallpapers Revealed Ahead of the April 21 Launch]]></title>
-            <description><![CDATA[<article><h1>Xubuntu 16.04 LTS Default Wallpapers Revealed Ahead of the April 21 Launch</h1><p>The Xubuntu team has announced earlier the winners of the Xubuntu 16.04 wallpaper contest that took place over the last few weeks, which basically means that they've revealed the default wallpapers for the Xenial release.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0a0d550400252bd43523b2c897acc55c/noop.jpg?input=http%3A%2F%2Fi1-news.softpedia-static.com%2Fimages%2Fnews2%2Fxubuntu-16-04-lts-default-wallpapers-revealed-ahead-of-the-april-21-launch-503187-2.jpg"></article>]]></description>
-            <link>http://news.softpedia.com/news/xubuntu-16-04-lts-default-wallpapers-revealed-ahead-of-the-april-21-launch-503187.shtml</link>
-            <guid isPermaLink="false">6ace0490-a9ff-4d5a-b15c-a1c18216fb0d</guid>
-            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8-Bit Armies, an awesome looking retro RTS from Petroglyph could come to Linux]]></title>
-            <description><![CDATA[<article><h1>8-Bit Armies, an awesome looking retro RTS from Petroglyph could come to Linux</h1><p>I love RTS games and 8-Bit Armies looks really awesome, the developers have talked about a Linux version, but there's so solid answer. It's time to show how many people want it. The developer said this on the Steam forum: QuoteWe talked about making a Linux-compatible version, but no decision has been made either way yet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7716ed200f481819fb02f00d47f69fc8a7e1e94a.jpg"></article>]]></description>
-            <link>https://www.gamingonlinux.com/articles/8-bit-armies-an-awesome-looking-retro-rts-from-petroglyph-could-come-to-linux.7072</link>
-            <guid isPermaLink="false">4b1ed5b1-58a9-411b-b128-9e702dde00a2</guid>
-            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[KDE Announces the Release of KDE Applications 16.04 for KDE Plasma 5 Desktop]]></title>
             <description><![CDATA[<article><h1>KDE Announces the Release of KDE Applications 16.04 for KDE Plasma 5 Desktop</h1><p>Today, April 20, 2016, KDE has had the great pleasure of announcing the release of the final KDE Applications 16.04 software collection for the KDE Plasma 5 desktop environment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5944db7cbca0b2ef9946db295065ba172322ffdd.jpg"></article>]]></description>
@@ -75,6 +54,27 @@
             <link>http://www.omgubuntu.co.uk/2016/04/buy-ubuntu-16-04-usb-official</link>
             <guid isPermaLink="false">1ced1b93-88a2-4e8e-b6fa-fc81a3f8a77a</guid>
             <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KDE - KDE Plasma 5.6 Release]]></title>
+            <description><![CDATA[<article><h1>KDE - KDE Plasma 5.6 Release</h1><p>Tuesday, 22 March 2016. Today KDE releases a feature-packed new version of its desktop user interface, Plasma 5.6. This release of Plasma brings many improvements to the task manager, KRunner, activities, and Wayland support as well as a much more refined look and feel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af2f13143767393e3954711a4268683c07f6006e.png"></article>]]></description>
+            <link>https://www.kde.org/announcements/plasma-5.6.0.php</link>
+            <guid isPermaLink="false">87874241-249a-4a26-9d4b-3c77d92ba542</guid>
+            <pubDate>Tue, 22 Mar 2016 17:13:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wine-Staging 1.9.6 Adds Initial Support For Vulkan Windows Programs On Linux - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Wine-Staging 1.9.6 Adds Initial Support For Vulkan Windows Programs On Linux - Phoronix</h1><p>The Wine-Staging 1.9.6 release adds an experimental Vulkan wrapper for running Vulkan Windows binaries on Linux. Recently I wrote about Vulkan support being worked on for Wine and this week's Wine-Staging 1.9.6 release delivers the initial Vulkan wrapper.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/af3533f7c244b144eb87405f027f1653/croprotate.php?cropheight=409&cropwidth=376&degrees=0&input=http%3A%2F%2Fwww.phoronix.net%2Fimage.php%3Fid%3Dsig-gles32-glu%26image%3Dsiggraph15_khronos_1&x=24&y=8"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Wine-Staging-1.9.6</link>
+            <guid isPermaLink="false">df0e08fc-a246-4ba8-a44b-ddf571ad3e08</guid>
+            <pubDate>Tue, 22 Mar 2016 08:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Supreme Court could slash Apple's $548M win against Samsung]]></title>
+            <description><![CDATA[<article><h1>Supreme Court could slash Apple's $548M win against Samsung</h1><p>View all... If Apple was finally feeling like it had a solid win after getting paid $548 million in patent damages by Samsung-well, now it shouldn't be so sure. The Supreme Court said today it will consider what kind of damages should be warranted when a design patent is found to be infringed as the court takes up the blockbuster Apple v.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64cab23a96691aabd25dc998fc37167eecc0546e.jpg"></article>]]></description>
+            <link>http://arstechnica.com/tech-policy/2016/03/supreme-court-could-slash-apples-548m-win-against-samsung/</link>
+            <guid isPermaLink="false">5de32d03-2d5e-4e71-9e40-37e3a830b5f9</guid>
+            <pubDate>Tue, 22 Mar 2016 08:15:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
