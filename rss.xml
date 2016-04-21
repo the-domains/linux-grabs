@@ -4,8 +4,15 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 08:37:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 08:37:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Radeon Open Compute 1.0 Released - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Radeon Open Compute 1.0 Released - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1e926ed42fe0ff9e47ce87c6c2fe4936ff0a735.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Radeon-Open-Compute-1.0</link>
+            <guid isPermaLink="false">b10160a9-e39a-4930-b2d2-1c28bc4f8726</guid>
+            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Four hundred MILLION vulnerable Androids are out there]]></title>
             <description><![CDATA[<article><h1>Four hundred MILLION vulnerable Androids are out there</h1><p>There's still too many unpatched Android devices, Google reckons: to wit, 29 per cent of mobes and tablets running The Chocolate Factory's operating system are running out-of-date code. In among the self-congratulation in Google's second Android Security Annual Report, we find that only 71 per cent of devices are running Android 4.4.4 or better.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b2f2c84987aa1d227ade0970996e11903044a25.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Microsoft still forces companies to pay for its Android patents</h1><p>Microsoft has long sought to build credibility with the open source community, but it continues to shoot itself in the foot by forcing companies to pay for its Android patents. This has led some in the open source community to remain sour on Microsoft and its business practices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cce32a551e52a45d75f123f2d9b4569be4a1e7e.jpg"></article>]]></description>
             <link>http://www.infoworld.com/article/3046296/linux/microsoft-still-forces-companies-to-pay-for-its-android-patents.html</link>
             <guid isPermaLink="false">c8a501df-c073-465c-bf54-f91c3392fb7d</guid>
-            <pubDate>Tue, 22 Mar 2016 08:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nvidia 364.12 Linux Driver Out Now with Vulkan 1.0, Wayland, and Mir Support]]></title>
-            <description><![CDATA[<article><h1>Nvidia 364.12 Linux Driver Out Now with Vulkan 1.0, Wayland, and Mir Support</h1><p>Today, March 21, 2016, Nvidia has announced the immediate availability for download of an updated display driver for GNU/Linux, BSD, and Solaris operating systems, Nvidia 364.12. According to the release notes, the Nvidia 364.12 driver brings in major changes, starting with support for the new Vulkan 1.0 API, support for the GeForce 920MX and GeForce 930MX graphics cards, as well as initial support for DRM KMS (Direct Rendering Manager Kernel Modesetting).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7eb6f40d966c6b339646c6f2f867d217a127d019.jpg"></article>]]></description>
-            <link>http://news.softpedia.com/news/nvidia-364-12-linux-driver-out-now-with-vulkan-1-0-support-wayland-improvements-501989.shtml</link>
-            <guid isPermaLink="false">be786f59-0f66-4810-bf7f-098ec8dab2a8</guid>
             <pubDate>Tue, 22 Mar 2016 08:15:39 GMT</pubDate>
         </item>
     </channel>
