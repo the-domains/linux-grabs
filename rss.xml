@@ -4,22 +4,8 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 08:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 08:38:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Ubuntu 16.04 LTS (Xenial Xerus) Launches Today, Here's How to Prepare Yourself]]></title>
-            <description><![CDATA[<article><h1>Ubuntu 16.04 LTS (Xenial Xerus) Launches Today, Here's How to Prepare Yourself</h1><p>Later today, April 21, 2016, Canonical will unveil the sixth LTS (Long Term Support) release of the popular Ubuntu Linux operating system, Ubuntu 16.04, dubbed Xenial Xerus. Ubuntu 16.04 LTS has been in development for the past six months, during which the community was able to install and test a single development version internally called "Final Beta."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f15e8810522170b658b8f8c0aaba69a6c42ef368.jpg"></article>]]></description>
-            <link>http://news.softpedia.com/news/ubuntu-16-04-lts-xenial-xerus-launches-today-here-s-how-to-prepare-yourself-503240.shtml</link>
-            <guid isPermaLink="false">dd088c3f-ed1c-44ab-a2c3-764629bdd308</guid>
-            <pubDate>Thu, 21 Apr 2016 08:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Official: EU goes after Google, alleges it uses Android to kill competition]]></title>
-            <description><![CDATA[<article><h1>Official: EU goes after Google, alleges it uses Android to kill competition</h1><p>The EU's competition authority thinks it has a smoking gun against Google. Consumers suffered because Google's contracts with phone OEMs prevented the market from creating a better Android, the EU Commission alleged today. It has sent a formal Statement of Objections to Google that forces Google to come up with remedies or face penalties.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1dd456f5ff5b6e3dd85ad0bbb9297010bd67f076.jpg"></article>]]></description>
-            <link>http://www.theregister.co.uk/2016/04/20/google_android_eu_statement_of_objections/</link>
-            <guid isPermaLink="false">4b19f399-108a-435f-897e-dbc0fa23789f</guid>
-            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Xubuntu 16.04 LTS Default Wallpapers Revealed Ahead of the April 21 Launch]]></title>
             <description><![CDATA[<article><h1>Xubuntu 16.04 LTS Default Wallpapers Revealed Ahead of the April 21 Launch</h1><p>The Xubuntu team has announced earlier the winners of the Xubuntu 16.04 wallpaper contest that took place over the last few weeks, which basically means that they've revealed the default wallpapers for the Xenial release.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0a0d550400252bd43523b2c897acc55c/noop.jpg?input=http%3A%2F%2Fi1-news.softpedia-static.com%2Fimages%2Fnews2%2Fxubuntu-16-04-lts-default-wallpapers-revealed-ahead-of-the-april-21-launch-503187-2.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-16.04-Features</link>
             <guid isPermaLink="false">b2262890-5069-433e-aa5f-7aa02762ba40</guid>
             <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canonical Now Sells Ubuntu 16.04 LTS on a USB Stick - OMG! Ubuntu!]]></title>
+            <description><![CDATA[<article><h1>Canonical Now Sells Ubuntu 16.04 LTS on a USB Stick - OMG! Ubuntu!</h1><p>Hands up if you still have an official Ubuntu CD or DVD gathering dust in a drawer somewhere. I know I have several! At one time the arrival of the official release disc was as integral a milestone to the release cycle as wallpaper contests, feature freezes, and kernel deadlines.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1ddfe204a2e73cdbcdfeaf02e1c937898ca2e23.jpg"></article>]]></description>
+            <link>http://www.omgubuntu.co.uk/2016/04/buy-ubuntu-16-04-usb-official</link>
+            <guid isPermaLink="false">1ced1b93-88a2-4e8e-b6fa-fc81a3f8a77a</guid>
+            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KDE - KDE Plasma 5.6 Release]]></title>
+            <description><![CDATA[<article><h1>KDE - KDE Plasma 5.6 Release</h1><p>Tuesday, 22 March 2016. Today KDE releases a feature-packed new version of its desktop user interface, Plasma 5.6. This release of Plasma brings many improvements to the task manager, KRunner, activities, and Wayland support as well as a much more refined look and feel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af2f13143767393e3954711a4268683c07f6006e.png"></article>]]></description>
+            <link>https://www.kde.org/announcements/plasma-5.6.0.php</link>
+            <guid isPermaLink="false">87874241-249a-4a26-9d4b-3c77d92ba542</guid>
+            <pubDate>Tue, 22 Mar 2016 17:13:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
