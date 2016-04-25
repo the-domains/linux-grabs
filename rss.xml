@@ -4,15 +4,8 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 08:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 08:09:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Linux 4.6-rc5 Is Another Fairly Calm Weekly Kernel Update - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Linux 4.6-rc5 Is Another Fairly Calm Weekly Kernel Update - Phoronix</h1><p>Linus Torvalds announced the release of the Linux 4.6-rc5 kernel a brief time ago. Torvalds explained of 4.6-rc5, "Things continue to be fairly calm: rc5 is bigger than rc4 was, but rc4 really was tiny.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/133f3edac26b439141eee7b604da99db01084358.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-4.6-rc5-Kernel-Released</link>
-            <guid isPermaLink="false">7a022d96-52c5-4f6d-b41d-e484058b21de</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:26 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[How to build a Linux router, Internet of Things devices, and more news]]></title>
             <description><![CDATA[<article><h1>How to build a Linux router, Internet of Things devices, and more news</h1><p>In this week's edition of our open source news roundup, we take a look at how to build a Linux router, why Internet of Things devices should be completely open source, and more!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e4346476625cac4cb7ab8af57cf769430079244.png"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>NVIDIA 364.19 Linux Driver Stabilizes The Wayland & Mir Support - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21e48f04d661b671860ef4af903b33d86f551abf.jpg"></article>]]></description>
             <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-364.19-Released</link>
             <guid isPermaLink="false">c2fff9e0-f160-4582-b369-5bc389509902</guid>
+            <pubDate>Mon, 25 Apr 2016 08:08:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Automate your home with openHAB]]></title>
+            <description><![CDATA[<article><h1>Automate your home with openHAB</h1><p>Jason Baker's recent article on open source home automation tools landed in my RSS feed, and because I recently bought a new home, and am interested in automating some things-or lots of things, really-I read with great interest. In the process, I learned about openHAB, and I was hooked right away.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c02f84bcfbc9b42a78d0076ba60a877de4c3533.png"></article>]]></description>
+            <link>https://opensource.com/life/16/4/automating-your-home-openhab</link>
+            <guid isPermaLink="false">5c31a0c7-23ff-42c1-986d-d57eaf43f91a</guid>
             <pubDate>Mon, 25 Apr 2016 08:08:24 GMT</pubDate>
         </item>
     </channel>
