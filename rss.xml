@@ -4,8 +4,15 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 08:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 08:09:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA['I hacked Facebook - and found someone had beaten me to it']]></title>
+            <description><![CDATA[<article><h1>'I hacked Facebook - and found someone had beaten me to it'</h1><p>A bug bounty hunter compromises a Facebook staff server through a sloppy file-sharing webapp - and finds someone's already beaten him to it by backdooring the machine. The pseudo-anonymous penetration tester Orange Tsai, who works for Taiwan-based outfit Devcore, banked $10,000 from Facebook in February for successfully drilling into the vulnerable system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/018ec24a14a70fd8b9ae5311b5cae61babbd3196.jpg"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/04/22/i_hacked_facebook_and_found_someone_had_beaten_me_to_it/</link>
+            <guid isPermaLink="false">4c7f29d1-99bc-49a7-b01f-0aa09c5031f1</guid>
+            <pubDate>Mon, 25 Apr 2016 08:08:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NVIDIA 364.19 Linux Driver Stabilizes The Wayland & Mir Support - Phoronix]]></title>
             <description><![CDATA[<article><h1>NVIDIA 364.19 Linux Driver Stabilizes The Wayland & Mir Support - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21e48f04d661b671860ef4af903b33d86f551abf.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Radeon Open Compute 1.0 Released - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1e926ed42fe0ff9e47ce87c6c2fe4936ff0a735.jpg"></article>]]></description>
             <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Radeon-Open-Compute-1.0</link>
             <guid isPermaLink="false">b10160a9-e39a-4930-b2d2-1c28bc4f8726</guid>
-            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four hundred MILLION vulnerable Androids are out there]]></title>
-            <description><![CDATA[<article><h1>Four hundred MILLION vulnerable Androids are out there</h1><p>There's still too many unpatched Android devices, Google reckons: to wit, 29 per cent of mobes and tablets running The Chocolate Factory's operating system are running out-of-date code. In among the self-congratulation in Google's second Android Security Annual Report, we find that only 71 per cent of devices are running Android 4.4.4 or better.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b2f2c84987aa1d227ade0970996e11903044a25.jpg"></article>]]></description>
-            <link>http://www.theregister.co.uk/2016/04/20/four_hundred_meelion_vulnerable_androids_out_there/</link>
-            <guid isPermaLink="false">420e69a8-7858-4e3a-9fc2-d901a59c1c50</guid>
             <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
         </item>
     </channel>
