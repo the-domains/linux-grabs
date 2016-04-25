@@ -4,15 +4,8 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 08:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 08:09:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Vulkan 1.0.11 Is The Latest, Scripts/XML/Headers Changed To Apache License - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Vulkan 1.0.11 Is The Latest, Scripts/XML/Headers Changed To Apache License - Phoronix</h1><p>There's another weekly point release of the Vulkan high performance graphics API. Vulkan 1.0.11 was released this week with several more clarifications to the documentation, typo fixes, and other relatively mundane changes to the Vulkan 1.0 specification. Likely most noteworthy is the changing of the script/XML/header files (not the specification itself) from the Khronos Free Use License to now the Apache 2.0 license.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0e6daeac2bbd2d18089723569c6e0aa4130c167.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Vulkan-1.0.11-Released</link>
-            <guid isPermaLink="false">712971de-9184-4a2a-9224-8e7f1a0353bf</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://img.linuxscreenshots.org/1280800/Ubuntu%20Studio%2016.04/11.jpg">]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>​Red Hat doubles down on OpenStack | ZDNet</h1><p>You know Red Hat as the world's leading Linux company. Fair enough. What Red Hat wants to be known as these days is the world's leading private cloud company. To make that happen, Red Hat has embraced the open-source OpenStack infrastructure-as-a-service (IaaS) cloud. Red Hat's plan has run into some difficulty.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/770b0280dfa0ddf96585430f63e886bd6fac1583.jpg"></article>]]></description>
             <link>http://www.zdnet.com/article/red-hat-doubles-down-on-openstack/#ftag=RSSbaffb68</link>
             <guid isPermaLink="false">1c3b34c7-dec4-41e2-8f76-2907669d7e75</guid>
+            <pubDate>Thu, 21 Apr 2016 08:37:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu 16.04 LTS (Xenial Xerus) Launches Today, Here's How to Prepare Yourself]]></title>
+            <description><![CDATA[<article><h1>Ubuntu 16.04 LTS (Xenial Xerus) Launches Today, Here's How to Prepare Yourself</h1><p>Later today, April 21, 2016, Canonical will unveil the sixth LTS (Long Term Support) release of the popular Ubuntu Linux operating system, Ubuntu 16.04, dubbed Xenial Xerus. Ubuntu 16.04 LTS has been in development for the past six months, during which the community was able to install and test a single development version internally called "Final Beta."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f15e8810522170b658b8f8c0aaba69a6c42ef368.jpg"></article>]]></description>
+            <link>http://news.softpedia.com/news/ubuntu-16-04-lts-xenial-xerus-launches-today-here-s-how-to-prepare-yourself-503240.shtml</link>
+            <guid isPermaLink="false">dd088c3f-ed1c-44ab-a2c3-764629bdd308</guid>
             <pubDate>Thu, 21 Apr 2016 08:37:16 GMT</pubDate>
         </item>
     </channel>
