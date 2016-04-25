@@ -4,8 +4,15 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 08:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 08:09:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Radeon vs. Modesetting DDX Driver Performance On Ubuntu 16.04 - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Radeon vs. Modesetting DDX Driver Performance On Ubuntu 16.04 - Phoronix</h1><p>Following the quick DRI2 vs. DRI3 rendering tests with Radeon on R600g, I also did tests on the same system of the xf86-video-ati vs. xf86-video-modesetting DDX drivers. Just for curiosity sake, I wanted to see the impact of switching out the default xf86-video-ati X.Org driver on Ubuntu 16.04 LTS for the generic xf86-video-modesetting DDX driver that's been part of the X.Org Server.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48ad19853e7674df5ef83f3ffcc6deff/croprotate.jpg?cropheight=80&cropwidth=288&degrees=0&input=http%3A%2F%2Fwww.phoronix.com%2Fassets%2Fcategories%2Fubuntu.jpg&x=8&y=112"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Radeon-Modesetting-DDX-Xenial</link>
+            <guid isPermaLink="false">733aecd7-e565-448b-a268-dcb01a316b77</guid>
+            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['I hacked Facebook - and found someone had beaten me to it']]></title>
             <description><![CDATA[<article><h1>'I hacked Facebook - and found someone had beaten me to it'</h1><p>A bug bounty hunter compromises a Facebook staff server through a sloppy file-sharing webapp - and finds someone's already beaten him to it by backdooring the machine. The pseudo-anonymous penetration tester Orange Tsai, who works for Taiwan-based outfit Devcore, banked $10,000 from Facebook in February for successfully drilling into the vulnerable system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/018ec24a14a70fd8b9ae5311b5cae61babbd3196.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>KDE Announces the Release of KDE Applications 16.04 for KDE Plasma 5 Desktop</h1><p>Today, April 20, 2016, KDE has had the great pleasure of announcing the release of the final KDE Applications 16.04 software collection for the KDE Plasma 5 desktop environment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5944db7cbca0b2ef9946db295065ba172322ffdd.jpg"></article>]]></description>
             <link>http://news.softpedia.com/news/kde-announces-the-release-of-kde-applications-16-04-for-kde-plasma-5-desktop-503224.shtml</link>
             <guid isPermaLink="false">0b3574ed-e672-4e59-9728-3fab33a7513b</guid>
-            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Radeon Open Compute 1.0 Released - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Radeon Open Compute 1.0 Released - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1e926ed42fe0ff9e47ce87c6c2fe4936ff0a735.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Radeon-Open-Compute-1.0</link>
-            <guid isPermaLink="false">b10160a9-e39a-4930-b2d2-1c28bc4f8726</guid>
             <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
         </item>
     </channel>
