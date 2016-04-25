@@ -4,8 +4,57 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 08:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 08:09:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cinnamon 3.0 Desktop Primed For Release - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Cinnamon 3.0 Desktop Primed For Release - Phoronix</h1><p>The GNOME3-forked Cinnamon Desktop is ready for its 3.0 milestone. Linux Mint lead developer Clement Lefebvre has tagged version 3.0 of Cinnamon within their official Git repository on GitHub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9a4e2f5c51c840e7ddfd03a7d825fb5df28a4ad.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Cinnamon-3.0-Desktop-Git</link>
+            <guid isPermaLink="false">b4a55681-1189-4721-b53c-e40d50834390</guid>
+            <pubDate>Mon, 25 Apr 2016 08:08:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft reveals all about Windows 10's Linux subsystem]]></title>
+            <description><![CDATA[<article><h1>Microsoft reveals all about Windows 10's Linux subsystem</h1><p>The arrival of Bash in Windows 10 took many people by surprise, but it opens up a number of opportunities including the ability to run GUI Linux apps. But it's about much more than just that. Microsoft wants people who are confused about the arrival of (deep breath...)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1de38b11e70790457a82c6170500e0a726237443.jpg"></article>]]></description>
+            <link>http://betanews.com/2016/04/24/windows-10-linux-subsystem/</link>
+            <guid isPermaLink="false">53b6765a-77da-46c7-b126-452edf3fb5cf</guid>
+            <pubDate>Mon, 25 Apr 2016 08:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mozilla Firefox Will Support Ubuntu's New Snap Package Format - OMG! Ubuntu!]]></title>
+            <description><![CDATA[<article><h1>Mozilla Firefox Will Support Ubuntu's New Snap Package Format - OMG! Ubuntu!</h1><p>Today's release of Ubuntu 16.04 LTS brings Canonical's new Snap package system to millions of desktops. Canonical's new packaging format gets some big-name support As we highlighted earlier this week, Snaps can be installed side-by-side with the more familiar .Deb packages, giving users the best of both worlds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a09c0cd576b6cca3d3bdd1aff15fc60cafb90bfd.jpg"></article>]]></description>
+            <link>http://www.omgubuntu.co.uk/2016/04/firefox-ubuntu-snap-package</link>
+            <guid isPermaLink="false">7a5ce03a-b5ef-4441-b2e2-e35882846f71</guid>
+            <pubDate>Mon, 25 Apr 2016 08:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Xubuntu 16.04 LTS and Lubuntu 16.04 LTS Released, Get Three Years of Support]]></title>
+            <description><![CDATA[<article><h1>Xubuntu 16.04 LTS and Lubuntu 16.04 LTS Released, Get Three Years of Support</h1><p>Xubuntu and Lubuntu are the last two official Ubuntu flavors released as part of the massive Ubuntu 16.04 LTS (Xenial Xerus) launch, and we're going to tell you a little about their presence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cf2a55600711ca4fa72b1c7c8bc956f2c9148cb.jpg"></article>]]></description>
+            <link>http://news.softpedia.com/news/xubuntu-16-04-lts-and-lubuntu-16-04-lts-released-get-three-years-of-support-503348.shtml</link>
+            <guid isPermaLink="false">1cf99429-93f8-4245-9c5f-fb1d42e05c08</guid>
+            <pubDate>Mon, 25 Apr 2016 08:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Linux 4.6-rc5 Is Another Fairly Calm Weekly Kernel Update - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Linux 4.6-rc5 Is Another Fairly Calm Weekly Kernel Update - Phoronix</h1><p>Linus Torvalds announced the release of the Linux 4.6-rc5 kernel a brief time ago. Torvalds explained of 4.6-rc5, "Things continue to be fairly calm: rc5 is bigger than rc4 was, but rc4 really was tiny.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/133f3edac26b439141eee7b604da99db01084358.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-4.6-rc5-Kernel-Released</link>
+            <guid isPermaLink="false">7a022d96-52c5-4f6d-b41d-e484058b21de</guid>
+            <pubDate>Mon, 25 Apr 2016 08:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to build a Linux router, Internet of Things devices, and more news]]></title>
+            <description><![CDATA[<article><h1>How to build a Linux router, Internet of Things devices, and more news</h1><p>In this week's edition of our open source news roundup, we take a look at how to build a Linux router, why Internet of Things devices should be completely open source, and more!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e4346476625cac4cb7ab8af57cf769430079244.png"></article>]]></description>
+            <link>https://opensource.com/life/16/4/weekly-news-april-%C2%A023</link>
+            <guid isPermaLink="false">e83d2199-76e4-4b53-a17d-36ef4112d8b2</guid>
+            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vulkan 1.0.11 Is The Latest, Scripts/XML/Headers Changed To Apache License - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Vulkan 1.0.11 Is The Latest, Scripts/XML/Headers Changed To Apache License - Phoronix</h1><p>There's another weekly point release of the Vulkan high performance graphics API. Vulkan 1.0.11 was released this week with several more clarifications to the documentation, typo fixes, and other relatively mundane changes to the Vulkan 1.0 specification. Likely most noteworthy is the changing of the script/XML/header files (not the specification itself) from the Khronos Free Use License to now the Apache 2.0 license.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0e6daeac2bbd2d18089723569c6e0aa4130c167.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Vulkan-1.0.11-Released</link>
+            <guid isPermaLink="false">712971de-9184-4a2a-9224-8e7f1a0353bf</guid>
+            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://img.linuxscreenshots.org/1280800/Ubuntu%20Studio%2016.04/11.jpg">]]></description>
@@ -26,55 +75,6 @@
             <link>http://www.zdnet.com/article/ubuntu-linux-16-04-is-here/#ftag=RSSbaffb68</link>
             <guid isPermaLink="false">512c7e33-2746-40aa-af74-82831ab355ee</guid>
             <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Developer Claims That Canonical's Snap Format Isn't Secure in Ubuntu with X11 - Updated]]></title>
-            <description><![CDATA[<article><h1>Developer Claims That Canonical's Snap Format Isn't Secure in Ubuntu with X11 - Updated</h1><p>Yesterday, April 21, 2016, Canonical unveiled the latest and most advanced version of the popular Ubuntu Linux operating system, Ubuntu 16.04 LTS, dubbed Xenial Xerus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/904f69a1c615d99bccceb7d9bfb587c91aebe090.jpg"></article>]]></description>
-            <link>http://news.softpedia.com/news/developer-claims-that-canonical-s-new-snap-format-isn-t-secure-on-ubuntu-desktop-503287.shtml</link>
-            <guid isPermaLink="false">7419bfc5-f204-49a9-bdb4-1f2580a7e659</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Radeon vs. Modesetting DDX Driver Performance On Ubuntu 16.04 - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Radeon vs. Modesetting DDX Driver Performance On Ubuntu 16.04 - Phoronix</h1><p>Following the quick DRI2 vs. DRI3 rendering tests with Radeon on R600g, I also did tests on the same system of the xf86-video-ati vs. xf86-video-modesetting DDX drivers. Just for curiosity sake, I wanted to see the impact of switching out the default xf86-video-ati X.Org driver on Ubuntu 16.04 LTS for the generic xf86-video-modesetting DDX driver that's been part of the X.Org Server.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48ad19853e7674df5ef83f3ffcc6deff/croprotate.jpg?cropheight=80&cropwidth=288&degrees=0&input=http%3A%2F%2Fwww.phoronix.com%2Fassets%2Fcategories%2Fubuntu.jpg&x=8&y=112"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Radeon-Modesetting-DDX-Xenial</link>
-            <guid isPermaLink="false">733aecd7-e565-448b-a268-dcb01a316b77</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I hacked Facebook - and found someone had beaten me to it']]></title>
-            <description><![CDATA[<article><h1>'I hacked Facebook - and found someone had beaten me to it'</h1><p>A bug bounty hunter compromises a Facebook staff server through a sloppy file-sharing webapp - and finds someone's already beaten him to it by backdooring the machine. The pseudo-anonymous penetration tester Orange Tsai, who works for Taiwan-based outfit Devcore, banked $10,000 from Facebook in February for successfully drilling into the vulnerable system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/018ec24a14a70fd8b9ae5311b5cae61babbd3196.jpg"></article>]]></description>
-            <link>http://www.theregister.co.uk/2016/04/22/i_hacked_facebook_and_found_someone_had_beaten_me_to_it/</link>
-            <guid isPermaLink="false">4c7f29d1-99bc-49a7-b01f-0aa09c5031f1</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NVIDIA 364.19 Linux Driver Stabilizes The Wayland & Mir Support - Phoronix]]></title>
-            <description><![CDATA[<article><h1>NVIDIA 364.19 Linux Driver Stabilizes The Wayland & Mir Support - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21e48f04d661b671860ef4af903b33d86f551abf.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-364.19-Released</link>
-            <guid isPermaLink="false">c2fff9e0-f160-4582-b369-5bc389509902</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Automate your home with openHAB]]></title>
-            <description><![CDATA[<article><h1>Automate your home with openHAB</h1><p>Jason Baker's recent article on open source home automation tools landed in my RSS feed, and because I recently bought a new home, and am interested in automating some things-or lots of things, really-I read with great interest. In the process, I learned about openHAB, and I was hooked right away.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c02f84bcfbc9b42a78d0076ba60a877de4c3533.png"></article>]]></description>
-            <link>https://opensource.com/life/16/4/automating-your-home-openhab</link>
-            <guid isPermaLink="false">5c31a0c7-23ff-42c1-986d-d57eaf43f91a</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[​Red Hat doubles down on OpenStack | ZDNet]]></title>
-            <description><![CDATA[<article><h1>​Red Hat doubles down on OpenStack | ZDNet</h1><p>You know Red Hat as the world's leading Linux company. Fair enough. What Red Hat wants to be known as these days is the world's leading private cloud company. To make that happen, Red Hat has embraced the open-source OpenStack infrastructure-as-a-service (IaaS) cloud. Red Hat's plan has run into some difficulty.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/770b0280dfa0ddf96585430f63e886bd6fac1583.jpg"></article>]]></description>
-            <link>http://www.zdnet.com/article/red-hat-doubles-down-on-openstack/#ftag=RSSbaffb68</link>
-            <guid isPermaLink="false">1c3b34c7-dec4-41e2-8f76-2907669d7e75</guid>
-            <pubDate>Thu, 21 Apr 2016 08:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ubuntu 16.04 LTS (Xenial Xerus) Launches Today, Here's How to Prepare Yourself]]></title>
-            <description><![CDATA[<article><h1>Ubuntu 16.04 LTS (Xenial Xerus) Launches Today, Here's How to Prepare Yourself</h1><p>Later today, April 21, 2016, Canonical will unveil the sixth LTS (Long Term Support) release of the popular Ubuntu Linux operating system, Ubuntu 16.04, dubbed Xenial Xerus. Ubuntu 16.04 LTS has been in development for the past six months, during which the community was able to install and test a single development version internally called "Final Beta."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f15e8810522170b658b8f8c0aaba69a6c42ef368.jpg"></article>]]></description>
-            <link>http://news.softpedia.com/news/ubuntu-16-04-lts-xenial-xerus-launches-today-here-s-how-to-prepare-yourself-503240.shtml</link>
-            <guid isPermaLink="false">dd088c3f-ed1c-44ab-a2c3-764629bdd308</guid>
-            <pubDate>Thu, 21 Apr 2016 08:37:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
