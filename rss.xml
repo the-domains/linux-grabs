@@ -7,6 +7,13 @@
         <lastBuildDate>Mon, 25 Apr 2016 08:09:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[NVIDIA 364.19 Linux Driver Stabilizes The Wayland & Mir Support - Phoronix]]></title>
+            <description><![CDATA[<article><h1>NVIDIA 364.19 Linux Driver Stabilizes The Wayland & Mir Support - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21e48f04d661b671860ef4af903b33d86f551abf.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-364.19-Released</link>
+            <guid isPermaLink="false">c2fff9e0-f160-4582-b369-5bc389509902</guid>
+            <pubDate>Mon, 25 Apr 2016 08:08:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Automate your home with openHAB]]></title>
             <description><![CDATA[<article><h1>Automate your home with openHAB</h1><p>Jason Baker's recent article on open source home automation tools landed in my RSS feed, and because I recently bought a new home, and am interested in automating some things-or lots of things, really-I read with great interest. In the process, I learned about openHAB, and I was hooked right away.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c02f84bcfbc9b42a78d0076ba60a877de4c3533.png"></article>]]></description>
             <link>https://opensource.com/life/16/4/automating-your-home-openhab</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Four hundred MILLION vulnerable Androids are out there</h1><p>There's still too many unpatched Android devices, Google reckons: to wit, 29 per cent of mobes and tablets running The Chocolate Factory's operating system are running out-of-date code. In among the self-congratulation in Google's second Android Security Annual Report, we find that only 71 per cent of devices are running Android 4.4.4 or better.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b2f2c84987aa1d227ade0970996e11903044a25.jpg"></article>]]></description>
             <link>http://www.theregister.co.uk/2016/04/20/four_hundred_meelion_vulnerable_androids_out_there/</link>
             <guid isPermaLink="false">420e69a8-7858-4e3a-9fc2-d901a59c1c50</guid>
-            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Open-Source Project Secretly Funded by CIA]]></title>
-            <description><![CDATA[<article><h1>Open-Source Project Secretly Funded by CIA</h1><p>It's fair to say that the interests of governments and the FOSS community are not always aligned. That's not to say that the US government is out to crush every FOSS project or that every FOSS user is on a secret mission to destroy the government. Nonetheless, the relationship is often a strained one.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71afb368fbab96d22690ebabc56b184baaeb75ef.png"></article>]]></description>
-            <link>http://www.linuxjournal.com/content/open-source-project-secretly-funded-cia</link>
-            <guid isPermaLink="false">5f42f483-42e7-455a-9c59-beb47acadfa4</guid>
             <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
         </item>
     </channel>
