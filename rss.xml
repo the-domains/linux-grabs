@@ -7,6 +7,13 @@
         <lastBuildDate>Mon, 25 Apr 2016 08:09:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Slides From Linux Foundation's 2016 File-System Conference - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Slides From Linux Foundation's 2016 File-System Conference - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=LF-Vault-2016-Slides</link>
+            <guid isPermaLink="false">cfb7196c-73df-475b-ba7f-f7bfacce4161</guid>
+            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[​Ubuntu Linux 16.04 is here | ZDNet]]></title>
             <description><![CDATA[<article><h1>​Ubuntu Linux 16.04 is here | ZDNet</h1><p>Who's ready for the next long-term support version of Ubuntu? There's something new here whether you use Ubuntu on the desktop, server, cloud, smartphone, tablet, or mainframe. Yes, mainframe.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e4ab544b40da774700359de751765abbe905325.jpg"></article>]]></description>
             <link>http://www.zdnet.com/article/ubuntu-linux-16-04-is-here/#ftag=RSSbaffb68</link>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Official: EU goes after Google, alleges it uses Android to kill competition</h1><p>The EU's competition authority thinks it has a smoking gun against Google. Consumers suffered because Google's contracts with phone OEMs prevented the market from creating a better Android, the EU Commission alleged today. It has sent a formal Statement of Objections to Google that forces Google to come up with remedies or face penalties.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1dd456f5ff5b6e3dd85ad0bbb9297010bd67f076.jpg"></article>]]></description>
             <link>http://www.theregister.co.uk/2016/04/20/google_android_eu_statement_of_objections/</link>
             <guid isPermaLink="false">4b19f399-108a-435f-897e-dbc0fa23789f</guid>
-            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Xubuntu 16.04 LTS Default Wallpapers Revealed Ahead of the April 21 Launch]]></title>
-            <description><![CDATA[<article><h1>Xubuntu 16.04 LTS Default Wallpapers Revealed Ahead of the April 21 Launch</h1><p>The Xubuntu team has announced earlier the winners of the Xubuntu 16.04 wallpaper contest that took place over the last few weeks, which basically means that they've revealed the default wallpapers for the Xenial release.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0a0d550400252bd43523b2c897acc55c/noop.jpg?input=http%3A%2F%2Fi1-news.softpedia-static.com%2Fimages%2Fnews2%2Fxubuntu-16-04-lts-default-wallpapers-revealed-ahead-of-the-april-21-launch-503187-2.jpg"></article>]]></description>
-            <link>http://news.softpedia.com/news/xubuntu-16-04-lts-default-wallpapers-revealed-ahead-of-the-april-21-launch-503187.shtml</link>
-            <guid isPermaLink="false">6ace0490-a9ff-4d5a-b15c-a1c18216fb0d</guid>
             <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
         </item>
     </channel>
