@@ -4,43 +4,8 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 08:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 08:09:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How to build a Linux router, Internet of Things devices, and more news]]></title>
-            <description><![CDATA[<article><h1>How to build a Linux router, Internet of Things devices, and more news</h1><p>In this week's edition of our open source news roundup, we take a look at how to build a Linux router, why Internet of Things devices should be completely open source, and more!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e4346476625cac4cb7ab8af57cf769430079244.png"></article>]]></description>
-            <link>https://opensource.com/life/16/4/weekly-news-april-%C2%A023</link>
-            <guid isPermaLink="false">e83d2199-76e4-4b53-a17d-36ef4112d8b2</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vulkan 1.0.11 Is The Latest, Scripts/XML/Headers Changed To Apache License - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Vulkan 1.0.11 Is The Latest, Scripts/XML/Headers Changed To Apache License - Phoronix</h1><p>There's another weekly point release of the Vulkan high performance graphics API. Vulkan 1.0.11 was released this week with several more clarifications to the documentation, typo fixes, and other relatively mundane changes to the Vulkan 1.0 specification. Likely most noteworthy is the changing of the script/XML/header files (not the specification itself) from the Khronos Free Use License to now the Apache 2.0 license.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0e6daeac2bbd2d18089723569c6e0aa4130c167.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Vulkan-1.0.11-Released</link>
-            <guid isPermaLink="false">712971de-9184-4a2a-9224-8e7f1a0353bf</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://img.linuxscreenshots.org/1280800/Ubuntu%20Studio%2016.04/11.jpg">]]></description>
-            <link>https://thegrid.ai/linux-grabs/1246b156-c07b-4cb5-b7ad-ccea0ac77694/index.html</link>
-            <guid isPermaLink="false">1246b156-c07b-4cb5-b7ad-ccea0ac77694</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Slides From Linux Foundation's 2016 File-System Conference - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Slides From Linux Foundation's 2016 File-System Conference - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=LF-Vault-2016-Slides</link>
-            <guid isPermaLink="false">cfb7196c-73df-475b-ba7f-f7bfacce4161</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[​Ubuntu Linux 16.04 is here | ZDNet]]></title>
-            <description><![CDATA[<article><h1>​Ubuntu Linux 16.04 is here | ZDNet</h1><p>Who's ready for the next long-term support version of Ubuntu? There's something new here whether you use Ubuntu on the desktop, server, cloud, smartphone, tablet, or mainframe. Yes, mainframe.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e4ab544b40da774700359de751765abbe905325.jpg"></article>]]></description>
-            <link>http://www.zdnet.com/article/ubuntu-linux-16-04-is-here/#ftag=RSSbaffb68</link>
-            <guid isPermaLink="false">512c7e33-2746-40aa-af74-82831ab355ee</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Developer Claims That Canonical's Snap Format Isn't Secure in Ubuntu with X11 - Updated]]></title>
             <description><![CDATA[<article><h1>Developer Claims That Canonical's Snap Format Isn't Secure in Ubuntu with X11 - Updated</h1><p>Yesterday, April 21, 2016, Canonical unveiled the latest and most advanced version of the popular Ubuntu Linux operating system, Ubuntu 16.04 LTS, dubbed Xenial Xerus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/904f69a1c615d99bccceb7d9bfb587c91aebe090.jpg"></article>]]></description>
@@ -75,6 +40,41 @@
             <link>https://opensource.com/life/16/4/automating-your-home-openhab</link>
             <guid isPermaLink="false">5c31a0c7-23ff-42c1-986d-d57eaf43f91a</guid>
             <pubDate>Mon, 25 Apr 2016 08:08:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[​Red Hat doubles down on OpenStack | ZDNet]]></title>
+            <description><![CDATA[<article><h1>​Red Hat doubles down on OpenStack | ZDNet</h1><p>You know Red Hat as the world's leading Linux company. Fair enough. What Red Hat wants to be known as these days is the world's leading private cloud company. To make that happen, Red Hat has embraced the open-source OpenStack infrastructure-as-a-service (IaaS) cloud. Red Hat's plan has run into some difficulty.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/770b0280dfa0ddf96585430f63e886bd6fac1583.jpg"></article>]]></description>
+            <link>http://www.zdnet.com/article/red-hat-doubles-down-on-openstack/#ftag=RSSbaffb68</link>
+            <guid isPermaLink="false">1c3b34c7-dec4-41e2-8f76-2907669d7e75</guid>
+            <pubDate>Thu, 21 Apr 2016 08:37:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu 16.04 LTS (Xenial Xerus) Launches Today, Here's How to Prepare Yourself]]></title>
+            <description><![CDATA[<article><h1>Ubuntu 16.04 LTS (Xenial Xerus) Launches Today, Here's How to Prepare Yourself</h1><p>Later today, April 21, 2016, Canonical will unveil the sixth LTS (Long Term Support) release of the popular Ubuntu Linux operating system, Ubuntu 16.04, dubbed Xenial Xerus. Ubuntu 16.04 LTS has been in development for the past six months, during which the community was able to install and test a single development version internally called "Final Beta."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f15e8810522170b658b8f8c0aaba69a6c42ef368.jpg"></article>]]></description>
+            <link>http://news.softpedia.com/news/ubuntu-16-04-lts-xenial-xerus-launches-today-here-s-how-to-prepare-yourself-503240.shtml</link>
+            <guid isPermaLink="false">dd088c3f-ed1c-44ab-a2c3-764629bdd308</guid>
+            <pubDate>Thu, 21 Apr 2016 08:37:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Official: EU goes after Google, alleges it uses Android to kill competition]]></title>
+            <description><![CDATA[<article><h1>Official: EU goes after Google, alleges it uses Android to kill competition</h1><p>The EU's competition authority thinks it has a smoking gun against Google. Consumers suffered because Google's contracts with phone OEMs prevented the market from creating a better Android, the EU Commission alleged today. It has sent a formal Statement of Objections to Google that forces Google to come up with remedies or face penalties.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1dd456f5ff5b6e3dd85ad0bbb9297010bd67f076.jpg"></article>]]></description>
+            <link>http://www.theregister.co.uk/2016/04/20/google_android_eu_statement_of_objections/</link>
+            <guid isPermaLink="false">4b19f399-108a-435f-897e-dbc0fa23789f</guid>
+            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Xubuntu 16.04 LTS Default Wallpapers Revealed Ahead of the April 21 Launch]]></title>
+            <description><![CDATA[<article><h1>Xubuntu 16.04 LTS Default Wallpapers Revealed Ahead of the April 21 Launch</h1><p>The Xubuntu team has announced earlier the winners of the Xubuntu 16.04 wallpaper contest that took place over the last few weeks, which basically means that they've revealed the default wallpapers for the Xenial release.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0a0d550400252bd43523b2c897acc55c/noop.jpg?input=http%3A%2F%2Fi1-news.softpedia-static.com%2Fimages%2Fnews2%2Fxubuntu-16-04-lts-default-wallpapers-revealed-ahead-of-the-april-21-launch-503187-2.jpg"></article>]]></description>
+            <link>http://news.softpedia.com/news/xubuntu-16-04-lts-default-wallpapers-revealed-ahead-of-the-april-21-launch-503187.shtml</link>
+            <guid isPermaLink="false">6ace0490-a9ff-4d5a-b15c-a1c18216fb0d</guid>
+            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[8-Bit Armies, an awesome looking retro RTS from Petroglyph could come to Linux]]></title>
+            <description><![CDATA[<article><h1>8-Bit Armies, an awesome looking retro RTS from Petroglyph could come to Linux</h1><p>I love RTS games and 8-Bit Armies looks really awesome, the developers have talked about a Linux version, but there's so solid answer. It's time to show how many people want it. The developer said this on the Steam forum: QuoteWe talked about making a Linux-compatible version, but no decision has been made either way yet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7716ed200f481819fb02f00d47f69fc8a7e1e94a.jpg"></article>]]></description>
+            <link>https://www.gamingonlinux.com/articles/8-bit-armies-an-awesome-looking-retro-rts-from-petroglyph-could-come-to-linux.7072</link>
+            <guid isPermaLink="false">4b1ed5b1-58a9-411b-b128-9e702dde00a2</guid>
+            <pubDate>Thu, 21 Apr 2016 08:37:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
