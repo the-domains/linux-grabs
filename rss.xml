@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 08:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 08:37:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Firefox 46 Released, Finally Brings GTK3 Integration - OMG! Ubuntu!]]></title>
+            <description><![CDATA[<article><h1>Firefox 46 Released, Finally Brings GTK3 Integration - OMG! Ubuntu!</h1><p>A new version of the Mozilla Firefox web browser is available to download. Firefox 46.0 comes (as always) with a modest set of improvements, including GTK3 integration for the Linux desktop builds. This - long promised - change will improve the way Firefox looks and feels on modern Linux desktops.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/435e5c532e52833a4f6cddc0356dac214c51dd50.jpg"></article>]]></description>
+            <link>http://www.omgubuntu.co.uk/2016/04/firefox-46-now-available-download</link>
+            <guid isPermaLink="false">595e0e1f-4e47-4f4c-abaf-810210d72a0e</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wayland 1.11 Planned For Release At The End Of May - Phoronix]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=GNU-Ethical-Code-Host-Ratings</link>
             <guid isPermaLink="false">0077b8dc-398d-4dd2-9599-4c9e17b87e95</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Death of RoboVM]]></title>
-            <description><![CDATA[<article><h1>The Death of RoboVM</h1><p>Microsoft recently made a big noise about its love and support of the Open Source community (especially Linux), but while it's making concrete steps toward improving its support for FOSS projects, its motives may not be entirely altruistic. Microsoft continues to fund legal attacks against open-source projects on multiple fronts, and it has crushed open-source projects when it suits the company.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a2bb367c1cb6a36782b2681a0cd96311c95ae46.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=228724</link>
-            <guid isPermaLink="false">3d2827ae-15cf-47f0-8c93-0113889c4a80</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
