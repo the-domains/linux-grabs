@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 08:36:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 08:36:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,27 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vivaldi 1.1 Web Browser Released - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Vivaldi 1.1 Web Browser Released - Phoronix</h1><p>If you aren't excited by today's Firefox 46 release with GTK3 support but happen to be a fan of the up-and-coming, multi-platform Vivaldi web-browser, there is a new release on that front too. The Opera-inspired Vivaldi web-browser is up to its v1.1 milestone, less than one month after the Vivaldi 1.0 debut.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Vivaldi-1.1-Released</link>
+            <guid isPermaLink="false">f956967f-1872-492b-95b8-652569ab995f</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Meizu Pro 5 Ubuntu Edition Is Now Available To Buy, Ships Free to the US - OMG! Ubuntu!]]></title>
+            <description><![CDATA[<article><h1>The Meizu Pro 5 Ubuntu Edition Is Now Available To Buy, Ships Free to the US - OMG! Ubuntu!</h1><p>Have you been waiting patiently for the Meizu Pro 5 Ubuntu Edition smartphone to go on sale? Well, today your wait is over. A number of OMG! readers pinged us this morning with a link to the Meizu Pro 5 Ubuntu Edition's product page on the English-facing store front of Jd.com (the official stockist for this Ubuntu phone outside of China).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b0659e5138acc8a575e4b2b60f4396861173164.jpg"></article>]]></description>
+            <link>http://www.omgubuntu.co.uk/2016/04/meizu-pro-5-ubuntu-edition-buy</link>
+            <guid isPermaLink="false">c86a52b8-7963-447b-a5da-5f3c8d3fce6e</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing the extra wallpapers for Fedora 24 - Fedora Magazine]]></title>
+            <description><![CDATA[<article><h1>Introducing the extra wallpapers for Fedora 24 - Fedora Magazine</h1><p>In the Fedora 24 alpha release, you could preview an early version of the default wallpaper for Fedora 24. Each release, the Fedora Design team collaborates with the Fedora community to release a set of 16 additional backgrounds to install and use on Fedora.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/572e5d1f42722b610de0a69f63659d38b974c97f.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228721</link>
+            <guid isPermaLink="false">59b4c7cc-1a0c-47d7-bc54-77d3fc12776b</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GNU Rates GitHub & SourceForge With "F" Ratings - Phoronix]]></title>
@@ -53,27 +74,6 @@
             <description><![CDATA[<article><h1>Raspberry Pi cameras jump to 8MP, keep $25 price</h1><p>Apr 25, 2016 - by Eric Brown - 661 views The v2 Raspberry Pi Camera and low-light PiNoIR Camera advance from 5- to 8-megapixels via a Sony IMX219PQ sensor with improved image quality. The Raspberry Pi Foundation has replaced its official 5-megapixel Raspberry Pi Camera and night-vision Raspberry Pi NoIR Camera with improved 8-megapixel models.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30541a17b672fbef400b58e64e5311c70bce265e.jpg"></article>]]></description>
             <link>http://lxer.com/module/newswire/ext_link.php?rid=228728</link>
             <guid isPermaLink="false">05d69341-8d14-4067-97e0-90e6bd7263c4</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vulkan Support Isn't Yet Ready For Mainline Mir - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Vulkan Support Isn't Yet Ready For Mainline Mir - Phoronix</h1><p>While originally Canonical was planning for Vulkan support in Mir by Ubuntu 16.04, that didn't pan out and the support for Vulkan continues to slip. While Mir developers have demoed early support for Vulkan, it doesn't look like it's a high priority item or a lack of manpower is crippling the Vulkan support from passing the finish line.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48ad19853e7674df5ef83f3ffcc6deff/croprotate.jpg?cropheight=80&cropwidth=288&degrees=0&input=http%3A%2F%2Fwww.phoronix.com%2Fassets%2Fcategories%2Fubuntu.jpg&x=8&y=112"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Mir-No-Vulkan-Until-0.23</link>
-            <guid isPermaLink="false">45cb5cd9-6873-4c91-8800-f7b9ba5b83be</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GOL SteamOS & Linux Survey results for March 2016]]></title>
-            <description><![CDATA[<article><h1>GOL SteamOS & Linux Survey results for March 2016</h1><p>Here are the latest results from the monthly GOL survey. These results are from the survey filled out this month in relation to March. Sadly a drop in responses this month, I am still bordering on doing this less frequently to prevent people burning out on it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b9210db403c283ed8d792bc977b67c199b00a3d.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=228703</link>
-            <guid isPermaLink="false">a407f450-3475-4d59-9749-87291aacac7b</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OBS Studio 0.14 Adds NVIDIA NVENC Video Encoding Support - Phoronix]]></title>
-            <description><![CDATA[<article><h1>OBS Studio 0.14 Adds NVIDIA NVENC Video Encoding Support - Phoronix</h1><p>The OBS Studio open-source software for screencasting and recording is now available as a major update. The multi-platform OBS Studio 0.14 release adds support for NVIDIA's NVENC encoder for video encoding on Windows and Linux using the NVIDIA API. There is also Intel QuickSync support for video encoding on Intel hardware, but that's Windows-only for now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=OBS-Studio-0.14-Released</link>
-            <guid isPermaLink="false">c15c4ca9-e5d8-443f-8f08-28512e326aa0</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
         </item>
     </channel>
