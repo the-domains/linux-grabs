@@ -4,8 +4,15 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 08:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 08:19:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wireshark 2.0.3 Free and Popular Network Scanner Released with Over 40 Bug Fixes]]></title>
+            <description><![CDATA[<article><h1>Wireshark 2.0.3 Free and Popular Network Scanner Released with Over 40 Bug Fixes</h1><p>Wireshark, the world's most popular, open-source, free, and cross-platform network protocol analyzer software used by security experts for troubleshooting, development, analysis, and education purposes, has been updated to version 2.0.3.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99ea1daa4a0181736a596c463f898f00c43c381c.jpg"></article>]]></description>
+            <link>http://news.softpedia.com/news/wireshark-2-0-3-free-and-popular-network-scanner-released-with-over-40-bug-fixes-503346.shtml</link>
+            <guid isPermaLink="false">231d0507-3812-4393-947a-1cb1a5543bfc</guid>
+            <pubDate>Wed, 27 Apr 2016 08:18:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to allow incremental file sync for many users on Linux - Xmodulo]]></title>
             <description><![CDATA[<article><h1>How to allow incremental file sync for many users on Linux - Xmodulo</h1><p>Suppose you as a software developer has set up daily builds of your software for testing purposes. Every day you make a new build, users have to re-download the updated build to evaluate it. In this case you may want to enable differential downloads, so that users can download only difference between two builds, thereby ...Continue reading...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a63e6419044742dbb5fba1c617d396110871936c.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Vulkan 1.0.11 Is The Latest, Scripts/XML/Headers Changed To Apache License - Phoronix</h1><p>There's another weekly point release of the Vulkan high performance graphics API. Vulkan 1.0.11 was released this week with several more clarifications to the documentation, typo fixes, and other relatively mundane changes to the Vulkan 1.0 specification. Likely most noteworthy is the changing of the script/XML/header files (not the specification itself) from the Khronos Free Use License to now the Apache 2.0 license.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0e6daeac2bbd2d18089723569c6e0aa4130c167.jpg"></article>]]></description>
             <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Vulkan-1.0.11-Released</link>
             <guid isPermaLink="false">712971de-9184-4a2a-9224-8e7f1a0353bf</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://img.linuxscreenshots.org/1280800/Ubuntu%20Studio%2016.04/11.jpg">]]></description>
-            <link>https://thegrid.ai/linux-grabs/1246b156-c07b-4cb5-b7ad-ccea0ac77694/index.html</link>
-            <guid isPermaLink="false">1246b156-c07b-4cb5-b7ad-ccea0ac77694</guid>
             <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
         </item>
     </channel>
