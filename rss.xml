@@ -4,13 +4,20 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 08:36:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 08:36:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
             <description><![CDATA[<article><h1>This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!</h1><p>Remember that nifty OS X inspired Notes app we wrote about a few months back? Whether you do or you don't, if you're running Ubuntu 16.04 LTS it's now super easy to install. Notes is now available as a Snap, the new Ubuntu package format installed by default in the latest long-term support release.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a10cc47983824efedb6be4afe22ae6af5176eaa1.jpg"></article>]]></description>
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Death of RoboVM]]></title>
+            <description><![CDATA[<article><h1>The Death of RoboVM</h1><p>Microsoft recently made a big noise about its love and support of the Open Source community (especially Linux), but while it's making concrete steps toward improving its support for FOSS projects, its motives may not be entirely altruistic. Microsoft continues to fund legal attacks against open-source projects on multiple fronts, and it has crushed open-source projects when it suits the company.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a2bb367c1cb6a36782b2681a0cd96311c95ae46.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228724</link>
+            <guid isPermaLink="false">3d2827ae-15cf-47f0-8c93-0113889c4a80</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Wireshark 2.0.3 Free and Popular Network Scanner Released with Over 40 Bug Fixes</h1><p>Wireshark, the world's most popular, open-source, free, and cross-platform network protocol analyzer software used by security experts for troubleshooting, development, analysis, and education purposes, has been updated to version 2.0.3.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99ea1daa4a0181736a596c463f898f00c43c381c.jpg"></article>]]></description>
             <link>http://news.softpedia.com/news/wireshark-2-0-3-free-and-popular-network-scanner-released-with-over-40-bug-fixes-503346.shtml</link>
             <guid isPermaLink="false">231d0507-3812-4393-947a-1cb1a5543bfc</guid>
-            <pubDate>Wed, 27 Apr 2016 08:18:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to allow incremental file sync for many users on Linux - Xmodulo]]></title>
-            <description><![CDATA[<article><h1>How to allow incremental file sync for many users on Linux - Xmodulo</h1><p>Suppose you as a software developer has set up daily builds of your software for testing purposes. Every day you make a new build, users have to re-download the updated build to evaluate it. In this case you may want to enable differential downloads, so that users can download only difference between two builds, thereby ...Continue reading...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a63e6419044742dbb5fba1c617d396110871936c.jpg"></article>]]></description>
-            <link>http://xmodulo.com/incremental-file-sync-many-users.html</link>
-            <guid isPermaLink="false">1f82e05e-e48a-4545-9f28-cef721ed1562</guid>
             <pubDate>Wed, 27 Apr 2016 08:18:35 GMT</pubDate>
         </item>
     </channel>
