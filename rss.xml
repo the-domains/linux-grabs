@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 08:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 08:36:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -14,67 +14,67 @@
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vulkan Support Isn't Yet Ready For Mainline Mir - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Vulkan Support Isn't Yet Ready For Mainline Mir - Phoronix</h1><p>While originally Canonical was planning for Vulkan support in Mir by Ubuntu 16.04, that didn't pan out and the support for Vulkan continues to slip. While Mir developers have demoed early support for Vulkan, it doesn't look like it's a high priority item or a lack of manpower is crippling the Vulkan support from passing the finish line.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48ad19853e7674df5ef83f3ffcc6deff/croprotate.jpg?cropheight=80&cropwidth=288&degrees=0&input=http%3A%2F%2Fwww.phoronix.com%2Fassets%2Fcategories%2Fubuntu.jpg&x=8&y=112"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Mir-No-Vulkan-Until-0.23</link>
-            <guid isPermaLink="false">45cb5cd9-6873-4c91-8800-f7b9ba5b83be</guid>
+            <title><![CDATA[Patches For A New /dev/random Linux Random Number Generator Revised - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Patches For A New /dev/random Linux Random Number Generator Revised - Phoronix</h1><p>Stephan Mueller has published his second version of the in-development patches of the Linux Random Number Generator (LRNG) that seeks to provide a new, drop-in replacement for Linux's /dev/random implementation. Mueller describes of his work in V2 form, "The following patch set provides a different approach to /dev/random which I call Linux Random Number Generator (LRNG) to collect entropy within the Linux kernel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/133f3edac26b439141eee7b604da99db01084358.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=LRNG-dev-random-V2</link>
+            <guid isPermaLink="false">0694dc6f-b4b9-44a6-be35-4c701700d5bd</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LibreELEC 7.0 Released For A Kodi 16.1 Experience - Phoronix]]></title>
+            <description><![CDATA[<article><h1>LibreELEC 7.0 Released For A Kodi 16.1 Experience - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93e264e57e9612cb346fb11a2b07edbddbcb3c0f.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=LibreELEC-7.0-Released</link>
+            <guid isPermaLink="false">818630ce-50c2-419d-a017-19e335427c17</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vivaldi 1.1 Web Browser Released - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Vivaldi 1.1 Web Browser Released - Phoronix</h1><p>If you aren't excited by today's Firefox 46 release with GTK3 support but happen to be a fan of the up-and-coming, multi-platform Vivaldi web-browser, there is a new release on that front too. The Opera-inspired Vivaldi web-browser is up to its v1.1 milestone, less than one month after the Vivaldi 1.0 debut.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Vivaldi-1.1-Released</link>
+            <guid isPermaLink="false">f956967f-1872-492b-95b8-652569ab995f</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Meizu Pro 5 Ubuntu Edition Is Now Available To Buy, Ships Free to the US - OMG! Ubuntu!]]></title>
+            <description><![CDATA[<article><h1>The Meizu Pro 5 Ubuntu Edition Is Now Available To Buy, Ships Free to the US - OMG! Ubuntu!</h1><p>Have you been waiting patiently for the Meizu Pro 5 Ubuntu Edition smartphone to go on sale? Well, today your wait is over. A number of OMG! readers pinged us this morning with a link to the Meizu Pro 5 Ubuntu Edition's product page on the English-facing store front of Jd.com (the official stockist for this Ubuntu phone outside of China).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b0659e5138acc8a575e4b2b60f4396861173164.jpg"></article>]]></description>
+            <link>http://www.omgubuntu.co.uk/2016/04/meizu-pro-5-ubuntu-edition-buy</link>
+            <guid isPermaLink="false">c86a52b8-7963-447b-a5da-5f3c8d3fce6e</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing the extra wallpapers for Fedora 24 - Fedora Magazine]]></title>
+            <description><![CDATA[<article><h1>Introducing the extra wallpapers for Fedora 24 - Fedora Magazine</h1><p>In the Fedora 24 alpha release, you could preview an early version of the default wallpaper for Fedora 24. Each release, the Fedora Design team collaborates with the Fedora community to release a set of 16 additional backgrounds to install and use on Fedora.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/572e5d1f42722b610de0a69f63659d38b974c97f.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228721</link>
+            <guid isPermaLink="false">59b4c7cc-1a0c-47d7-bc54-77d3fc12776b</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GNU Rates GitHub & SourceForge With "F" Ratings - Phoronix]]></title>
+            <description><![CDATA[<article><h1>GNU Rates GitHub & SourceForge With "F" Ratings - Phoronix</h1><p>The Free Software Foundation today announced their evaluations of major code repository-hosting services per the standards of the GNU Ethical Criteria for Code Repositories. Ranked as part of the code repository platforms were GNU Savannah, GitLab, GitHub, and SourceForge. The only code hosting platform to receive an A rating for "ethical hosting" was their own GNU Savannah platform.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b429dcab11ddd0d97b918369891ffcc34a92802.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=GNU-Ethical-Code-Host-Ratings</link>
+            <guid isPermaLink="false">0077b8dc-398d-4dd2-9599-4c9e17b87e95</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Death of RoboVM]]></title>
+            <description><![CDATA[<article><h1>The Death of RoboVM</h1><p>Microsoft recently made a big noise about its love and support of the Open Source community (especially Linux), but while it's making concrete steps toward improving its support for FOSS projects, its motives may not be entirely altruistic. Microsoft continues to fund legal attacks against open-source projects on multiple fronts, and it has crushed open-source projects when it suits the company.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a2bb367c1cb6a36782b2681a0cd96311c95ae46.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228724</link>
+            <guid isPermaLink="false">3d2827ae-15cf-47f0-8c93-0113889c4a80</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GOL SteamOS & Linux Survey results for March 2016]]></title>
-            <description><![CDATA[<article><h1>GOL SteamOS & Linux Survey results for March 2016</h1><p>Here are the latest results from the monthly GOL survey. These results are from the survey filled out this month in relation to March. Sadly a drop in responses this month, I am still bordering on doing this less frequently to prevent people burning out on it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b9210db403c283ed8d792bc977b67c199b00a3d.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=228703</link>
-            <guid isPermaLink="false">a407f450-3475-4d59-9749-87291aacac7b</guid>
+            <title><![CDATA[A perfect marriage: YOU and Ubuntu 16.04]]></title>
+            <description><![CDATA[<article><h1>A perfect marriage: YOU and Ubuntu 16.04</h1><p>Before I dive into what's new in Ubuntu 16.04, it's worth pausing to reflect on what's missing: Scopes online search, now off by default. That means no more potentially socially awkward search results when all you really wanted was to open Brasero (speaking of which, Brasero is gone too).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60e90f515bf5eef83d0362a121bcdecafca63f2e.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228705</link>
+            <guid isPermaLink="false">e60f35c4-2f56-45c6-b575-48b72be21c6b</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OBS Studio 0.14 Adds NVIDIA NVENC Video Encoding Support - Phoronix]]></title>
-            <description><![CDATA[<article><h1>OBS Studio 0.14 Adds NVIDIA NVENC Video Encoding Support - Phoronix</h1><p>The OBS Studio open-source software for screencasting and recording is now available as a major update. The multi-platform OBS Studio 0.14 release adds support for NVIDIA's NVENC encoder for video encoding on Windows and Linux using the NVIDIA API. There is also Intel QuickSync support for video encoding on Intel hardware, but that's Windows-only for now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=OBS-Studio-0.14-Released</link>
-            <guid isPermaLink="false">c15c4ca9-e5d8-443f-8f08-28512e326aa0</guid>
+            <title><![CDATA['New' Windows Security Flaw Runs Apps Without Admin Rights | FOSS Force]]></title>
+            <description><![CDATA[<article><h1>'New' Windows Security Flaw Runs Apps Without Admin Rights | FOSS Force</h1><p>Newly discovered Windows security hole bypasses AppLocker and lets apps run without admin rights. Proof-of-concept code published. This is one of those "look what I found while looking for something else" sort of stories. Casey Smith was trying to solve a problem and accidentally discovered a security vulnerability that affects business and server [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58ddf3e3de24fc61df6c9e01655992bc9f16fb31.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228718</link>
+            <guid isPermaLink="false">7709dc05-5db0-4c11-be23-fa8fd65fff1c</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wireshark 2.0.3 Free and Popular Network Scanner Released with Over 40 Bug Fixes]]></title>
-            <description><![CDATA[<article><h1>Wireshark 2.0.3 Free and Popular Network Scanner Released with Over 40 Bug Fixes</h1><p>Wireshark, the world's most popular, open-source, free, and cross-platform network protocol analyzer software used by security experts for troubleshooting, development, analysis, and education purposes, has been updated to version 2.0.3.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99ea1daa4a0181736a596c463f898f00c43c381c.jpg"></article>]]></description>
-            <link>http://news.softpedia.com/news/wireshark-2-0-3-free-and-popular-network-scanner-released-with-over-40-bug-fixes-503346.shtml</link>
-            <guid isPermaLink="false">231d0507-3812-4393-947a-1cb1a5543bfc</guid>
-            <pubDate>Wed, 27 Apr 2016 08:18:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to allow incremental file sync for many users on Linux - Xmodulo]]></title>
-            <description><![CDATA[<article><h1>How to allow incremental file sync for many users on Linux - Xmodulo</h1><p>Suppose you as a software developer has set up daily builds of your software for testing purposes. Every day you make a new build, users have to re-download the updated build to evaluate it. In this case you may want to enable differential downloads, so that users can download only difference between two builds, thereby ...Continue reading...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a63e6419044742dbb5fba1c617d396110871936c.jpg"></article>]]></description>
-            <link>http://xmodulo.com/incremental-file-sync-many-users.html</link>
-            <guid isPermaLink="false">1f82e05e-e48a-4545-9f28-cef721ed1562</guid>
-            <pubDate>Wed, 27 Apr 2016 08:18:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[34 Best Free Linux Backup Software - Linux Links - The Linux Portal Site]]></title>
-            <description><![CDATA[<article><h1>34 Best Free Linux Backup Software - Linux Links - The Linux Portal Site</h1><p>Meta-Description.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdddb1ab037435a12740bcc7b9a523fae6cd8497.png"></article>]]></description>
-            <link>http://www.linuxlinks.com/article/20160424021828491/BackupTools.html</link>
-            <guid isPermaLink="false">8f0cf8ac-8cf9-495b-9ac7-62cf3f984705</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cinnamon 3.0 Desktop Primed For Release - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Cinnamon 3.0 Desktop Primed For Release - Phoronix</h1><p>The GNOME3-forked Cinnamon Desktop is ready for its 3.0 milestone. Linux Mint lead developer Clement Lefebvre has tagged version 3.0 of Cinnamon within their official Git repository on GitHub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9a4e2f5c51c840e7ddfd03a7d825fb5df28a4ad.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Cinnamon-3.0-Desktop-Git</link>
-            <guid isPermaLink="false">b4a55681-1189-4721-b53c-e40d50834390</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft reveals all about Windows 10's Linux subsystem]]></title>
-            <description><![CDATA[<article><h1>Microsoft reveals all about Windows 10's Linux subsystem</h1><p>The arrival of Bash in Windows 10 took many people by surprise, but it opens up a number of opportunities including the ability to run GUI Linux apps. But it's about much more than just that. Microsoft wants people who are confused about the arrival of (deep breath...)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1de38b11e70790457a82c6170500e0a726237443.jpg"></article>]]></description>
-            <link>http://betanews.com/2016/04/24/windows-10-linux-subsystem/</link>
-            <guid isPermaLink="false">53b6765a-77da-46c7-b126-452edf3fb5cf</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mozilla Firefox Will Support Ubuntu's New Snap Package Format - OMG! Ubuntu!]]></title>
-            <description><![CDATA[<article><h1>Mozilla Firefox Will Support Ubuntu's New Snap Package Format - OMG! Ubuntu!</h1><p>Today's release of Ubuntu 16.04 LTS brings Canonical's new Snap package system to millions of desktops. Canonical's new packaging format gets some big-name support As we highlighted earlier this week, Snaps can be installed side-by-side with the more familiar .Deb packages, giving users the best of both worlds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a09c0cd576b6cca3d3bdd1aff15fc60cafb90bfd.jpg"></article>]]></description>
-            <link>http://www.omgubuntu.co.uk/2016/04/firefox-ubuntu-snap-package</link>
-            <guid isPermaLink="false">7a5ce03a-b5ef-4441-b2e2-e35882846f71</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
