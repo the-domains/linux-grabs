@@ -4,8 +4,43 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 08:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 08:18:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to allow incremental file sync for many users on Linux - Xmodulo]]></title>
+            <description><![CDATA[<article><h1>How to allow incremental file sync for many users on Linux - Xmodulo</h1><p>Suppose you as a software developer has set up daily builds of your software for testing purposes. Every day you make a new build, users have to re-download the updated build to evaluate it. In this case you may want to enable differential downloads, so that users can download only difference between two builds, thereby ...Continue reading...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a63e6419044742dbb5fba1c617d396110871936c.jpg"></article>]]></description>
+            <link>http://xmodulo.com/incremental-file-sync-many-users.html</link>
+            <guid isPermaLink="false">1f82e05e-e48a-4545-9f28-cef721ed1562</guid>
+            <pubDate>Wed, 27 Apr 2016 08:18:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[34 Best Free Linux Backup Software - Linux Links - The Linux Portal Site]]></title>
+            <description><![CDATA[<article><h1>34 Best Free Linux Backup Software - Linux Links - The Linux Portal Site</h1><p>Meta-Description.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdddb1ab037435a12740bcc7b9a523fae6cd8497.png"></article>]]></description>
+            <link>http://www.linuxlinks.com/article/20160424021828491/BackupTools.html</link>
+            <guid isPermaLink="false">8f0cf8ac-8cf9-495b-9ac7-62cf3f984705</guid>
+            <pubDate>Mon, 25 Apr 2016 08:08:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cinnamon 3.0 Desktop Primed For Release - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Cinnamon 3.0 Desktop Primed For Release - Phoronix</h1><p>The GNOME3-forked Cinnamon Desktop is ready for its 3.0 milestone. Linux Mint lead developer Clement Lefebvre has tagged version 3.0 of Cinnamon within their official Git repository on GitHub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9a4e2f5c51c840e7ddfd03a7d825fb5df28a4ad.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Cinnamon-3.0-Desktop-Git</link>
+            <guid isPermaLink="false">b4a55681-1189-4721-b53c-e40d50834390</guid>
+            <pubDate>Mon, 25 Apr 2016 08:08:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft reveals all about Windows 10's Linux subsystem]]></title>
+            <description><![CDATA[<article><h1>Microsoft reveals all about Windows 10's Linux subsystem</h1><p>The arrival of Bash in Windows 10 took many people by surprise, but it opens up a number of opportunities including the ability to run GUI Linux apps. But it's about much more than just that. Microsoft wants people who are confused about the arrival of (deep breath...)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1de38b11e70790457a82c6170500e0a726237443.jpg"></article>]]></description>
+            <link>http://betanews.com/2016/04/24/windows-10-linux-subsystem/</link>
+            <guid isPermaLink="false">53b6765a-77da-46c7-b126-452edf3fb5cf</guid>
+            <pubDate>Mon, 25 Apr 2016 08:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mozilla Firefox Will Support Ubuntu's New Snap Package Format - OMG! Ubuntu!]]></title>
+            <description><![CDATA[<article><h1>Mozilla Firefox Will Support Ubuntu's New Snap Package Format - OMG! Ubuntu!</h1><p>Today's release of Ubuntu 16.04 LTS brings Canonical's new Snap package system to millions of desktops. Canonical's new packaging format gets some big-name support As we highlighted earlier this week, Snaps can be installed side-by-side with the more familiar .Deb packages, giving users the best of both worlds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a09c0cd576b6cca3d3bdd1aff15fc60cafb90bfd.jpg"></article>]]></description>
+            <link>http://www.omgubuntu.co.uk/2016/04/firefox-ubuntu-snap-package</link>
+            <guid isPermaLink="false">7a5ce03a-b5ef-4441-b2e2-e35882846f71</guid>
+            <pubDate>Mon, 25 Apr 2016 08:08:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Xubuntu 16.04 LTS and Lubuntu 16.04 LTS Released, Get Three Years of Support]]></title>
             <description><![CDATA[<article><h1>Xubuntu 16.04 LTS and Lubuntu 16.04 LTS Released, Get Three Years of Support</h1><p>Xubuntu and Lubuntu are the last two official Ubuntu flavors released as part of the massive Ubuntu 16.04 LTS (Xenial Xerus) launch, and we're going to tell you a little about their presence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cf2a55600711ca4fa72b1c7c8bc956f2c9148cb.jpg"></article>]]></description>
@@ -40,41 +75,6 @@
             <link>https://thegrid.ai/linux-grabs/1246b156-c07b-4cb5-b7ad-ccea0ac77694/index.html</link>
             <guid isPermaLink="false">1246b156-c07b-4cb5-b7ad-ccea0ac77694</guid>
             <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Slides From Linux Foundation's 2016 File-System Conference - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Slides From Linux Foundation's 2016 File-System Conference - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=LF-Vault-2016-Slides</link>
-            <guid isPermaLink="false">cfb7196c-73df-475b-ba7f-f7bfacce4161</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[​Ubuntu Linux 16.04 is here | ZDNet]]></title>
-            <description><![CDATA[<article><h1>​Ubuntu Linux 16.04 is here | ZDNet</h1><p>Who's ready for the next long-term support version of Ubuntu? There's something new here whether you use Ubuntu on the desktop, server, cloud, smartphone, tablet, or mainframe. Yes, mainframe.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e4ab544b40da774700359de751765abbe905325.jpg"></article>]]></description>
-            <link>http://www.zdnet.com/article/ubuntu-linux-16-04-is-here/#ftag=RSSbaffb68</link>
-            <guid isPermaLink="false">512c7e33-2746-40aa-af74-82831ab355ee</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Developer Claims That Canonical's Snap Format Isn't Secure in Ubuntu with X11 - Updated]]></title>
-            <description><![CDATA[<article><h1>Developer Claims That Canonical's Snap Format Isn't Secure in Ubuntu with X11 - Updated</h1><p>Yesterday, April 21, 2016, Canonical unveiled the latest and most advanced version of the popular Ubuntu Linux operating system, Ubuntu 16.04 LTS, dubbed Xenial Xerus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/904f69a1c615d99bccceb7d9bfb587c91aebe090.jpg"></article>]]></description>
-            <link>http://news.softpedia.com/news/developer-claims-that-canonical-s-new-snap-format-isn-t-secure-on-ubuntu-desktop-503287.shtml</link>
-            <guid isPermaLink="false">7419bfc5-f204-49a9-bdb4-1f2580a7e659</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Radeon vs. Modesetting DDX Driver Performance On Ubuntu 16.04 - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Radeon vs. Modesetting DDX Driver Performance On Ubuntu 16.04 - Phoronix</h1><p>Following the quick DRI2 vs. DRI3 rendering tests with Radeon on R600g, I also did tests on the same system of the xf86-video-ati vs. xf86-video-modesetting DDX drivers. Just for curiosity sake, I wanted to see the impact of switching out the default xf86-video-ati X.Org driver on Ubuntu 16.04 LTS for the generic xf86-video-modesetting DDX driver that's been part of the X.Org Server.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48ad19853e7674df5ef83f3ffcc6deff/croprotate.jpg?cropheight=80&cropwidth=288&degrees=0&input=http%3A%2F%2Fwww.phoronix.com%2Fassets%2Fcategories%2Fubuntu.jpg&x=8&y=112"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Radeon-Modesetting-DDX-Xenial</link>
-            <guid isPermaLink="false">733aecd7-e565-448b-a268-dcb01a316b77</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I hacked Facebook - and found someone had beaten me to it']]></title>
-            <description><![CDATA[<article><h1>'I hacked Facebook - and found someone had beaten me to it'</h1><p>A bug bounty hunter compromises a Facebook staff server through a sloppy file-sharing webapp - and finds someone's already beaten him to it by backdooring the machine. The pseudo-anonymous penetration tester Orange Tsai, who works for Taiwan-based outfit Devcore, banked $10,000 from Facebook in February for successfully drilling into the vulnerable system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/018ec24a14a70fd8b9ae5311b5cae61babbd3196.jpg"></article>]]></description>
-            <link>http://www.theregister.co.uk/2016/04/22/i_hacked_facebook_and_found_someone_had_beaten_me_to_it/</link>
-            <guid isPermaLink="false">4c7f29d1-99bc-49a7-b01f-0aa09c5031f1</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
