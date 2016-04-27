@@ -14,13 +14,6 @@
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA['New' Windows Security Flaw Runs Apps Without Admin Rights | FOSS Force]]></title>
-            <description><![CDATA[<article><h1>'New' Windows Security Flaw Runs Apps Without Admin Rights | FOSS Force</h1><p>Newly discovered Windows security hole bypasses AppLocker and lets apps run without admin rights. Proof-of-concept code published. This is one of those "look what I found while looking for something else" sort of stories. Casey Smith was trying to solve a problem and accidentally discovered a security vulnerability that affects business and server [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58ddf3e3de24fc61df6c9e01655992bc9f16fb31.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=228718</link>
-            <guid isPermaLink="false">7709dc05-5db0-4c11-be23-fa8fd65fff1c</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Things To Do After Installing Ubuntu 16.04 "Xenial Xerus"]]></title>
             <description><![CDATA[<article><h1>Things To Do After Installing Ubuntu 16.04 "Xenial Xerus"</h1><p>Ubuntu 16.04 has brought some interesting features that you must give try if you've upgraded. If you still don't know what's new in Ubuntu 16.04 then check out our article "What's New In Ubuntu 16.04?". In this article I'll show you 10 things to do after</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/caefd4099f1b07136fceeb6575783b4b51ebab7a.jpg"></article>]]></description>
             <link>http://lxer.com/module/newswire/ext_link.php?rid=228704</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>34 Best Free Linux Backup Software - Linux Links - The Linux Portal Site</h1><p>Meta-Description.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdddb1ab037435a12740bcc7b9a523fae6cd8497.png"></article>]]></description>
             <link>http://www.linuxlinks.com/article/20160424021828491/BackupTools.html</link>
             <guid isPermaLink="false">8f0cf8ac-8cf9-495b-9ac7-62cf3f984705</guid>
+            <pubDate>Mon, 25 Apr 2016 08:08:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cinnamon 3.0 Desktop Primed For Release - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Cinnamon 3.0 Desktop Primed For Release - Phoronix</h1><p>The GNOME3-forked Cinnamon Desktop is ready for its 3.0 milestone. Linux Mint lead developer Clement Lefebvre has tagged version 3.0 of Cinnamon within their official Git repository on GitHub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9a4e2f5c51c840e7ddfd03a7d825fb5df28a4ad.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Cinnamon-3.0-Desktop-Git</link>
+            <guid isPermaLink="false">b4a55681-1189-4721-b53c-e40d50834390</guid>
             <pubDate>Mon, 25 Apr 2016 08:08:27 GMT</pubDate>
         </item>
     </channel>
