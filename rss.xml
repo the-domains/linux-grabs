@@ -4,8 +4,15 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 08:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 08:36:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OBS Studio 0.14 Adds NVIDIA NVENC Video Encoding Support - Phoronix]]></title>
+            <description><![CDATA[<article><h1>OBS Studio 0.14 Adds NVIDIA NVENC Video Encoding Support - Phoronix</h1><p>The OBS Studio open-source software for screencasting and recording is now available as a major update. The multi-platform OBS Studio 0.14 release adds support for NVIDIA's NVENC encoder for video encoding on Windows and Linux using the NVIDIA API. There is also Intel QuickSync support for video encoding on Intel hardware, but that's Windows-only for now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=OBS-Studio-0.14-Released</link>
+            <guid isPermaLink="false">c15c4ca9-e5d8-443f-8f08-28512e326aa0</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wireshark 2.0.3 Free and Popular Network Scanner Released with Over 40 Bug Fixes]]></title>
             <description><![CDATA[<article><h1>Wireshark 2.0.3 Free and Popular Network Scanner Released with Over 40 Bug Fixes</h1><p>Wireshark, the world's most popular, open-source, free, and cross-platform network protocol analyzer software used by security experts for troubleshooting, development, analysis, and education purposes, has been updated to version 2.0.3.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99ea1daa4a0181736a596c463f898f00c43c381c.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How to build a Linux router, Internet of Things devices, and more news</h1><p>In this week's edition of our open source news roundup, we take a look at how to build a Linux router, why Internet of Things devices should be completely open source, and more!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e4346476625cac4cb7ab8af57cf769430079244.png"></article>]]></description>
             <link>https://opensource.com/life/16/4/weekly-news-april-%C2%A023</link>
             <guid isPermaLink="false">e83d2199-76e4-4b53-a17d-36ef4112d8b2</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vulkan 1.0.11 Is The Latest, Scripts/XML/Headers Changed To Apache License - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Vulkan 1.0.11 Is The Latest, Scripts/XML/Headers Changed To Apache License - Phoronix</h1><p>There's another weekly point release of the Vulkan high performance graphics API. Vulkan 1.0.11 was released this week with several more clarifications to the documentation, typo fixes, and other relatively mundane changes to the Vulkan 1.0 specification. Likely most noteworthy is the changing of the script/XML/header files (not the specification itself) from the Khronos Free Use License to now the Apache 2.0 license.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0e6daeac2bbd2d18089723569c6e0aa4130c167.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Vulkan-1.0.11-Released</link>
-            <guid isPermaLink="false">712971de-9184-4a2a-9224-8e7f1a0353bf</guid>
             <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
         </item>
     </channel>
