@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 08:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 08:36:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,41 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wayland 1.11 Planned For Release At The End Of May - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Wayland 1.11 Planned For Release At The End Of May - Phoronix</h1><p>Bryce Harrington has laid out plans for shipping the next major version of Wayland (v1.11) around the end of May and of course joined by Weston 1.11. Bryce, employed by Samsung's Open-Source Group, has been serving as the Wayland release manager for a while now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5674a5805f77503bd75a99878c396ec20f337483.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Wayland-1.11-Planning</link>
+            <guid isPermaLink="false">e9bcca7c-0950-4d66-ac59-c78050bbd8c4</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Other Linux Distributions Begin Analyzing Clear Linux's Performance Optimizations - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Other Linux Distributions Begin Analyzing Clear Linux's Performance Optimizations - Phoronix</h1><p>Fedora developers appear to be among those analyzing Intel's Clear Linux distribution for the performance optimizations made. In case you haven't been following our many original performance tests in the past months, Intel's Clear Linux is surprisingly fast. Clear Linux just isn't fast for server/workstation/enterprise workloads but even for Intel graphics performance and other general workloads.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8ef8ba16a3cc0b40a09bb2774036acf302ebc89.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-Looks-At-Clear</link>
+            <guid isPermaLink="false">57772791-cd76-4545-ac6d-e81fa7aa4492</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Patches For A New /dev/random Linux Random Number Generator Revised - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Patches For A New /dev/random Linux Random Number Generator Revised - Phoronix</h1><p>Stephan Mueller has published his second version of the in-development patches of the Linux Random Number Generator (LRNG) that seeks to provide a new, drop-in replacement for Linux's /dev/random implementation. Mueller describes of his work in V2 form, "The following patch set provides a different approach to /dev/random which I call Linux Random Number Generator (LRNG) to collect entropy within the Linux kernel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/133f3edac26b439141eee7b604da99db01084358.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=LRNG-dev-random-V2</link>
+            <guid isPermaLink="false">0694dc6f-b4b9-44a6-be35-4c701700d5bd</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LibreELEC 7.0 Released For A Kodi 16.1 Experience - Phoronix]]></title>
+            <description><![CDATA[<article><h1>LibreELEC 7.0 Released For A Kodi 16.1 Experience - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93e264e57e9612cb346fb11a2b07edbddbcb3c0f.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=LibreELEC-7.0-Released</link>
+            <guid isPermaLink="false">818630ce-50c2-419d-a017-19e335427c17</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vivaldi 1.1 Web Browser Released - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Vivaldi 1.1 Web Browser Released - Phoronix</h1><p>If you aren't excited by today's Firefox 46 release with GTK3 support but happen to be a fan of the up-and-coming, multi-platform Vivaldi web-browser, there is a new release on that front too. The Opera-inspired Vivaldi web-browser is up to its v1.1 milestone, less than one month after the Vivaldi 1.0 debut.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Vivaldi-1.1-Released</link>
+            <guid isPermaLink="false">f956967f-1872-492b-95b8-652569ab995f</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Meizu Pro 5 Ubuntu Edition Is Now Available To Buy, Ships Free to the US - OMG! Ubuntu!]]></title>
@@ -39,41 +74,6 @@
             <description><![CDATA[<article><h1>The Death of RoboVM</h1><p>Microsoft recently made a big noise about its love and support of the Open Source community (especially Linux), but while it's making concrete steps toward improving its support for FOSS projects, its motives may not be entirely altruistic. Microsoft continues to fund legal attacks against open-source projects on multiple fronts, and it has crushed open-source projects when it suits the company.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a2bb367c1cb6a36782b2681a0cd96311c95ae46.jpg"></article>]]></description>
             <link>http://lxer.com/module/newswire/ext_link.php?rid=228724</link>
             <guid isPermaLink="false">3d2827ae-15cf-47f0-8c93-0113889c4a80</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A perfect marriage: YOU and Ubuntu 16.04]]></title>
-            <description><![CDATA[<article><h1>A perfect marriage: YOU and Ubuntu 16.04</h1><p>Before I dive into what's new in Ubuntu 16.04, it's worth pausing to reflect on what's missing: Scopes online search, now off by default. That means no more potentially socially awkward search results when all you really wanted was to open Brasero (speaking of which, Brasero is gone too).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60e90f515bf5eef83d0362a121bcdecafca63f2e.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=228705</link>
-            <guid isPermaLink="false">e60f35c4-2f56-45c6-b575-48b72be21c6b</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['New' Windows Security Flaw Runs Apps Without Admin Rights | FOSS Force]]></title>
-            <description><![CDATA[<article><h1>'New' Windows Security Flaw Runs Apps Without Admin Rights | FOSS Force</h1><p>Newly discovered Windows security hole bypasses AppLocker and lets apps run without admin rights. Proof-of-concept code published. This is one of those "look what I found while looking for something else" sort of stories. Casey Smith was trying to solve a problem and accidentally discovered a security vulnerability that affects business and server [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58ddf3e3de24fc61df6c9e01655992bc9f16fb31.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=228718</link>
-            <guid isPermaLink="false">7709dc05-5db0-4c11-be23-fa8fd65fff1c</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Things To Do After Installing Ubuntu 16.04 "Xenial Xerus"]]></title>
-            <description><![CDATA[<article><h1>Things To Do After Installing Ubuntu 16.04 "Xenial Xerus"</h1><p>Ubuntu 16.04 has brought some interesting features that you must give try if you've upgraded. If you still don't know what's new in Ubuntu 16.04 then check out our article "What's New In Ubuntu 16.04?". In this article I'll show you 10 things to do after</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/caefd4099f1b07136fceeb6575783b4b51ebab7a.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=228704</link>
-            <guid isPermaLink="false">8603a8c7-8c2e-45ef-b5cf-738530ba0956</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raspberry Pi cameras jump to 8MP, keep $25 price]]></title>
-            <description><![CDATA[<article><h1>Raspberry Pi cameras jump to 8MP, keep $25 price</h1><p>Apr 25, 2016 - by Eric Brown - 661 views The v2 Raspberry Pi Camera and low-light PiNoIR Camera advance from 5- to 8-megapixels via a Sony IMX219PQ sensor with improved image quality. The Raspberry Pi Foundation has replaced its official 5-megapixel Raspberry Pi Camera and night-vision Raspberry Pi NoIR Camera with improved 8-megapixel models.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30541a17b672fbef400b58e64e5311c70bce265e.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=228728</link>
-            <guid isPermaLink="false">05d69341-8d14-4067-97e0-90e6bd7263c4</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vulkan Support Isn't Yet Ready For Mainline Mir - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Vulkan Support Isn't Yet Ready For Mainline Mir - Phoronix</h1><p>While originally Canonical was planning for Vulkan support in Mir by Ubuntu 16.04, that didn't pan out and the support for Vulkan continues to slip. While Mir developers have demoed early support for Vulkan, it doesn't look like it's a high priority item or a lack of manpower is crippling the Vulkan support from passing the finish line.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48ad19853e7674df5ef83f3ffcc6deff/croprotate.jpg?cropheight=80&cropwidth=288&degrees=0&input=http%3A%2F%2Fwww.phoronix.com%2Fassets%2Fcategories%2Fubuntu.jpg&x=8&y=112"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Mir-No-Vulkan-Until-0.23</link>
-            <guid isPermaLink="false">45cb5cd9-6873-4c91-8800-f7b9ba5b83be</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
         </item>
     </channel>
