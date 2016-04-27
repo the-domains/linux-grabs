@@ -4,8 +4,50 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 08:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 08:36:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
+            <description><![CDATA[<article><h1>This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!</h1><p>Remember that nifty OS X inspired Notes app we wrote about a few months back? Whether you do or you don't, if you're running Ubuntu 16.04 LTS it's now super easy to install. Notes is now available as a Snap, the new Ubuntu package format installed by default in the latest long-term support release.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a10cc47983824efedb6be4afe22ae6af5176eaa1.jpg"></article>]]></description>
+            <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
+            <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['New' Windows Security Flaw Runs Apps Without Admin Rights | FOSS Force]]></title>
+            <description><![CDATA[<article><h1>'New' Windows Security Flaw Runs Apps Without Admin Rights | FOSS Force</h1><p>Newly discovered Windows security hole bypasses AppLocker and lets apps run without admin rights. Proof-of-concept code published. This is one of those "look what I found while looking for something else" sort of stories. Casey Smith was trying to solve a problem and accidentally discovered a security vulnerability that affects business and server [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58ddf3e3de24fc61df6c9e01655992bc9f16fb31.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228718</link>
+            <guid isPermaLink="false">7709dc05-5db0-4c11-be23-fa8fd65fff1c</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Things To Do After Installing Ubuntu 16.04 "Xenial Xerus"]]></title>
+            <description><![CDATA[<article><h1>Things To Do After Installing Ubuntu 16.04 "Xenial Xerus"</h1><p>Ubuntu 16.04 has brought some interesting features that you must give try if you've upgraded. If you still don't know what's new in Ubuntu 16.04 then check out our article "What's New In Ubuntu 16.04?". In this article I'll show you 10 things to do after</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/caefd4099f1b07136fceeb6575783b4b51ebab7a.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228704</link>
+            <guid isPermaLink="false">8603a8c7-8c2e-45ef-b5cf-738530ba0956</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raspberry Pi cameras jump to 8MP, keep $25 price]]></title>
+            <description><![CDATA[<article><h1>Raspberry Pi cameras jump to 8MP, keep $25 price</h1><p>Apr 25, 2016 - by Eric Brown - 661 views The v2 Raspberry Pi Camera and low-light PiNoIR Camera advance from 5- to 8-megapixels via a Sony IMX219PQ sensor with improved image quality. The Raspberry Pi Foundation has replaced its official 5-megapixel Raspberry Pi Camera and night-vision Raspberry Pi NoIR Camera with improved 8-megapixel models.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30541a17b672fbef400b58e64e5311c70bce265e.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228728</link>
+            <guid isPermaLink="false">05d69341-8d14-4067-97e0-90e6bd7263c4</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vulkan Support Isn't Yet Ready For Mainline Mir - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Vulkan Support Isn't Yet Ready For Mainline Mir - Phoronix</h1><p>While originally Canonical was planning for Vulkan support in Mir by Ubuntu 16.04, that didn't pan out and the support for Vulkan continues to slip. While Mir developers have demoed early support for Vulkan, it doesn't look like it's a high priority item or a lack of manpower is crippling the Vulkan support from passing the finish line.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48ad19853e7674df5ef83f3ffcc6deff/croprotate.jpg?cropheight=80&cropwidth=288&degrees=0&input=http%3A%2F%2Fwww.phoronix.com%2Fassets%2Fcategories%2Fubuntu.jpg&x=8&y=112"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Mir-No-Vulkan-Until-0.23</link>
+            <guid isPermaLink="false">45cb5cd9-6873-4c91-8800-f7b9ba5b83be</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GOL SteamOS & Linux Survey results for March 2016]]></title>
+            <description><![CDATA[<article><h1>GOL SteamOS & Linux Survey results for March 2016</h1><p>Here are the latest results from the monthly GOL survey. These results are from the survey filled out this month in relation to March. Sadly a drop in responses this month, I am still bordering on doing this less frequently to prevent people burning out on it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b9210db403c283ed8d792bc977b67c199b00a3d.png"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228703</link>
+            <guid isPermaLink="false">a407f450-3475-4d59-9749-87291aacac7b</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OBS Studio 0.14 Adds NVIDIA NVENC Video Encoding Support - Phoronix]]></title>
             <description><![CDATA[<article><h1>OBS Studio 0.14 Adds NVIDIA NVENC Video Encoding Support - Phoronix</h1><p>The OBS Studio open-source software for screencasting and recording is now available as a major update. The multi-platform OBS Studio 0.14 release adds support for NVIDIA's NVENC encoder for video encoding on Windows and Linux using the NVIDIA API. There is also Intel QuickSync support for video encoding on Intel hardware, but that's Windows-only for now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
@@ -33,48 +75,6 @@
             <link>http://www.linuxlinks.com/article/20160424021828491/BackupTools.html</link>
             <guid isPermaLink="false">8f0cf8ac-8cf9-495b-9ac7-62cf3f984705</guid>
             <pubDate>Mon, 25 Apr 2016 08:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cinnamon 3.0 Desktop Primed For Release - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Cinnamon 3.0 Desktop Primed For Release - Phoronix</h1><p>The GNOME3-forked Cinnamon Desktop is ready for its 3.0 milestone. Linux Mint lead developer Clement Lefebvre has tagged version 3.0 of Cinnamon within their official Git repository on GitHub.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9a4e2f5c51c840e7ddfd03a7d825fb5df28a4ad.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Cinnamon-3.0-Desktop-Git</link>
-            <guid isPermaLink="false">b4a55681-1189-4721-b53c-e40d50834390</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft reveals all about Windows 10's Linux subsystem]]></title>
-            <description><![CDATA[<article><h1>Microsoft reveals all about Windows 10's Linux subsystem</h1><p>The arrival of Bash in Windows 10 took many people by surprise, but it opens up a number of opportunities including the ability to run GUI Linux apps. But it's about much more than just that. Microsoft wants people who are confused about the arrival of (deep breath...)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1de38b11e70790457a82c6170500e0a726237443.jpg"></article>]]></description>
-            <link>http://betanews.com/2016/04/24/windows-10-linux-subsystem/</link>
-            <guid isPermaLink="false">53b6765a-77da-46c7-b126-452edf3fb5cf</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mozilla Firefox Will Support Ubuntu's New Snap Package Format - OMG! Ubuntu!]]></title>
-            <description><![CDATA[<article><h1>Mozilla Firefox Will Support Ubuntu's New Snap Package Format - OMG! Ubuntu!</h1><p>Today's release of Ubuntu 16.04 LTS brings Canonical's new Snap package system to millions of desktops. Canonical's new packaging format gets some big-name support As we highlighted earlier this week, Snaps can be installed side-by-side with the more familiar .Deb packages, giving users the best of both worlds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a09c0cd576b6cca3d3bdd1aff15fc60cafb90bfd.jpg"></article>]]></description>
-            <link>http://www.omgubuntu.co.uk/2016/04/firefox-ubuntu-snap-package</link>
-            <guid isPermaLink="false">7a5ce03a-b5ef-4441-b2e2-e35882846f71</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Xubuntu 16.04 LTS and Lubuntu 16.04 LTS Released, Get Three Years of Support]]></title>
-            <description><![CDATA[<article><h1>Xubuntu 16.04 LTS and Lubuntu 16.04 LTS Released, Get Three Years of Support</h1><p>Xubuntu and Lubuntu are the last two official Ubuntu flavors released as part of the massive Ubuntu 16.04 LTS (Xenial Xerus) launch, and we're going to tell you a little about their presence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cf2a55600711ca4fa72b1c7c8bc956f2c9148cb.jpg"></article>]]></description>
-            <link>http://news.softpedia.com/news/xubuntu-16-04-lts-and-lubuntu-16-04-lts-released-get-three-years-of-support-503348.shtml</link>
-            <guid isPermaLink="false">1cf99429-93f8-4245-9c5f-fb1d42e05c08</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Linux 4.6-rc5 Is Another Fairly Calm Weekly Kernel Update - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Linux 4.6-rc5 Is Another Fairly Calm Weekly Kernel Update - Phoronix</h1><p>Linus Torvalds announced the release of the Linux 4.6-rc5 kernel a brief time ago. Torvalds explained of 4.6-rc5, "Things continue to be fairly calm: rc5 is bigger than rc4 was, but rc4 really was tiny.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/133f3edac26b439141eee7b604da99db01084358.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-4.6-rc5-Kernel-Released</link>
-            <guid isPermaLink="false">7a022d96-52c5-4f6d-b41d-e484058b21de</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to build a Linux router, Internet of Things devices, and more news]]></title>
-            <description><![CDATA[<article><h1>How to build a Linux router, Internet of Things devices, and more news</h1><p>In this week's edition of our open source news roundup, we take a look at how to build a Linux router, why Internet of Things devices should be completely open source, and more!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e4346476625cac4cb7ab8af57cf769430079244.png"></article>]]></description>
-            <link>https://opensource.com/life/16/4/weekly-news-april-%C2%A023</link>
-            <guid isPermaLink="false">e83d2199-76e4-4b53-a17d-36ef4112d8b2</guid>
-            <pubDate>Mon, 25 Apr 2016 08:08:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
