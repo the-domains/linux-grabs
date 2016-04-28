@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 06:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 06:24:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,34 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Skylake Pico-ITX SBC has optional I/O boards]]></title>
+            <description><![CDATA[<article><h1>Skylake Pico-ITX SBC has optional I/O boards</h1><p>Apr 27, 2016 - by Eric Brown - 0 views Axiomtek's 6th Gen Core "PICO500" Pico-ITX SBC offers extended temperature support, a mini-PCIe slot, and expansion ports with optional I/O cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb3460978116da0735d016609ad1ac7e32b7515b.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228836</link>
+            <guid isPermaLink="false">bf08677d-131c-440e-b1cd-5433b44392aa</guid>
+            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu 16.04 LTS video review]]></title>
+            <description><![CDATA[<article><h1>Ubuntu 16.04 LTS video review</h1><p>Ubuntu 16.04 LTS was recently released, and many Linux users have been wondering what it has to offer and if it's worth installing or upgrading from a previous release of Ubuntu. Not to worry, a YouTuber by the name of Quidsup has a full video review of Ubuntu 16.04 that will walk you through the latest changes to Canonical's popular desktop distribution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/002400b6cb2a8988a40401a44f1bb72b68262e6b.png"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228834</link>
+            <guid isPermaLink="false">ccc94ef3-df36-47a3-b4a5-2665979029d1</guid>
+            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to maintain a "clean" Ubuntu]]></title>
+            <description><![CDATA[<article><h1>How to maintain a "clean" Ubuntu</h1><p>Ubuntu is the most popular GNU/Linux distribution, as it has been the easiest to use for many years now, making it an obvious choice for every newcomer. As most new users don't know if and how they are supposed to maintain they distribution, and since Ubuntu doesn't offer any tools for this job by default, I will provide an overview on the matter through this quick guide.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/259a069910e04f7869a2cc46854a73db0e4aaf22.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228816</link>
+            <guid isPermaLink="false">15cc351b-a1fd-448a-a868-5692b81f6084</guid>
+            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu Linux and OpenStack cloud come to IBM servers | ZDNet]]></title>
+            <description><![CDATA[<article><h1>Ubuntu Linux and OpenStack cloud come to IBM servers | ZDNet</h1><p>AUSTIN, TX -- Last year, IBM introduced LinuxONE, a new pair of IBM mainframes along with Linux and open-source software and services. These new systems are the LinuxONE Emperor, which built on the IBM z13 mainframe and its little brother, Rockhopper. LinuxONE is the heart of IBM's hybrid cloud efforts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0289f9121ae0608b2cafdc934f763ff7106f934.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228793</link>
+            <guid isPermaLink="false">d9cec93b-cb7a-4d26-b7f0-080ce6a28f15</guid>
+            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Open Source and Android: A History of Google's Linux-Based Mobile OS]]></title>
@@ -47,34 +75,6 @@
             <link>http://lxer.com/module/newswire/ext_link.php?rid=228787</link>
             <guid isPermaLink="false">972be35d-e0f7-4bd5-8ca1-9fa87dd46a40</guid>
             <pubDate>Thu, 28 Apr 2016 06:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PulseAudio Adds Memfd Transport Support - Phoronix]]></title>
-            <description><![CDATA[<article><h1>PulseAudio Adds Memfd Transport Support - Phoronix</h1><p>PulseAudio gained support for utilizing the Linux kernel's memfd as a transport mechanism as spearheaded by the systemd/KDBUS crew. PulseAudio now supports using memfd for shared-memory support when the daemon's enable-memfd=yes configuration option is present. Memfd is used in place of POSIX SHM for shared memory.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/133f3edac26b439141eee7b604da99db01084358.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=PulseAudio-Memfd-Support</link>
-            <guid isPermaLink="false">df68ea99-6d34-44a0-8ab6-cd9ecebf1a71</guid>
-            <pubDate>Thu, 28 Apr 2016 06:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The GNOME Foundation welcomes ARM device donations]]></title>
-            <description><![CDATA[<article><h1>The GNOME Foundation welcomes ARM device donations</h1><p>ORINDA, CA. Recently, the GNOME Foundation sent out a request seeking donations of ARM build server hardware so that the GNOME project could improve the support and quality of the GNOME desktop on ARM devices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
-            <link>https://www.gnome.org/news/2016/04/arm_donations_april_2016/</link>
-            <guid isPermaLink="false">dbd2a562-f626-4a47-965f-aac8fd3bf836</guid>
-            <pubDate>Thu, 28 Apr 2016 06:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Power tools: Sorting through the crowded specialized database toolbox]]></title>
-            <description><![CDATA[<article><h1>Power tools: Sorting through the crowded specialized database toolbox</h1><p>View all... When you think of game development, the first thing that comes to mind probably isn't a database. But in the world of Jamaa, the setting for WildWorks' massively multiplayer online kids' game , a database keeps millions of cartoon animal characters frolicking and the cartoon trees from crashing down.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/089af6bf8a0e25a46848adc60d829c148dcd8511.jpg"></article>]]></description>
-            <link>http://arstechnica.com/information-technology/2016/04/power-tools-sorting-through-the-crowded-specialized-database-toolbox/</link>
-            <guid isPermaLink="false">f6d68e93-5b0d-487f-a6ba-21b8d2a1ccd2</guid>
-            <pubDate>Thu, 28 Apr 2016 06:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ubuntu 16.10's YY Codename Revealed - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Ubuntu 16.10's YY Codename Revealed - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48ad19853e7674df5ef83f3ffcc6deff/croprotate.jpg?cropheight=80&cropwidth=288&degrees=0&input=http%3A%2F%2Fwww.phoronix.com%2Fassets%2Fcategories%2Fubuntu.jpg&x=8&y=112"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-16.10-YY</link>
-            <guid isPermaLink="false">a47d5dc0-58ca-46dd-a9ea-0513f14b7452</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
