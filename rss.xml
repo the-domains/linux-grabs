@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 06:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 06:24:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PulseAudio Adds Memfd Transport Support - Phoronix]]></title>
+            <description><![CDATA[<article><h1>PulseAudio Adds Memfd Transport Support - Phoronix</h1><p>PulseAudio gained support for utilizing the Linux kernel's memfd as a transport mechanism as spearheaded by the systemd/KDBUS crew. PulseAudio now supports using memfd for shared-memory support when the daemon's enable-memfd=yes configuration option is present. Memfd is used in place of POSIX SHM for shared memory.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/133f3edac26b439141eee7b604da99db01084358.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=PulseAudio-Memfd-Support</link>
+            <guid isPermaLink="false">df68ea99-6d34-44a0-8ab6-cd9ecebf1a71</guid>
+            <pubDate>Thu, 28 Apr 2016 06:23:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The GNOME Foundation welcomes ARM device donations]]></title>
+            <description><![CDATA[<article><h1>The GNOME Foundation welcomes ARM device donations</h1><p>ORINDA, CA. Recently, the GNOME Foundation sent out a request seeking donations of ARM build server hardware so that the GNOME project could improve the support and quality of the GNOME desktop on ARM devices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
+            <link>https://www.gnome.org/news/2016/04/arm_donations_april_2016/</link>
+            <guid isPermaLink="false">dbd2a562-f626-4a47-965f-aac8fd3bf836</guid>
+            <pubDate>Thu, 28 Apr 2016 06:23:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Power tools: Sorting through the crowded specialized database toolbox]]></title>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>LibreELEC 7.0 Released For A Kodi 16.1 Experience - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93e264e57e9612cb346fb11a2b07edbddbcb3c0f.jpg"></article>]]></description>
             <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=LibreELEC-7.0-Released</link>
             <guid isPermaLink="false">818630ce-50c2-419d-a017-19e335427c17</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vivaldi 1.1 Web Browser Released - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Vivaldi 1.1 Web Browser Released - Phoronix</h1><p>If you aren't excited by today's Firefox 46 release with GTK3 support but happen to be a fan of the up-and-coming, multi-platform Vivaldi web-browser, there is a new release on that front too. The Opera-inspired Vivaldi web-browser is up to its v1.1 milestone, less than one month after the Vivaldi 1.0 debut.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Vivaldi-1.1-Released</link>
-            <guid isPermaLink="false">f956967f-1872-492b-95b8-652569ab995f</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Meizu Pro 5 Ubuntu Edition Is Now Available To Buy, Ships Free to the US - OMG! Ubuntu!]]></title>
-            <description><![CDATA[<article><h1>The Meizu Pro 5 Ubuntu Edition Is Now Available To Buy, Ships Free to the US - OMG! Ubuntu!</h1><p>Have you been waiting patiently for the Meizu Pro 5 Ubuntu Edition smartphone to go on sale? Well, today your wait is over. A number of OMG! readers pinged us this morning with a link to the Meizu Pro 5 Ubuntu Edition's product page on the English-facing store front of Jd.com (the official stockist for this Ubuntu phone outside of China).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b0659e5138acc8a575e4b2b60f4396861173164.jpg"></article>]]></description>
-            <link>http://www.omgubuntu.co.uk/2016/04/meizu-pro-5-ubuntu-edition-buy</link>
-            <guid isPermaLink="false">c86a52b8-7963-447b-a5da-5f3c8d3fce6e</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
         </item>
     </channel>
