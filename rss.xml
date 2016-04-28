@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 06:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 06:24:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,27 +12,6 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[X.Org Members Approve Becoming Part Of The SPI Organization - Phoronix]]></title>
-            <description><![CDATA[<article><h1>X.Org Members Approve Becoming Part Of The SPI Organization - Phoronix</h1><p>The results just are in of the 2016 X.Org Foundation elections and the members have voted to become part of the SPI. The foundation thus is basically becoming dissolved to become part of Software in the Public Interest.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cadcf9af1bb1af59e060df6e357edbe667194a2.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Xorg-SPI-Is-A-Go</link>
-            <guid isPermaLink="false">ade96a09-653c-462e-9ced-b175172eecea</guid>
-            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[See How Your Linux GPU Compares To Various GeForce GPUs With NVIDIA 364.19 - Phoronix]]></title>
-            <description><![CDATA[<article><h1>See How Your Linux GPU Compares To Various GeForce GPUs With NVIDIA 364.19 - Phoronix</h1><p>While waiting for today's release of Tomb Raider on Linux, for which I just posted various NVIDIA Tomb Raider benchmarks on Ubuntu, I was running some other OpenGL benchmarks. One of the benchmark runs I did with various graphics cards this morning while waiting for Tomb Raider was the well known and demanding Unigine Valley demo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21e48f04d661b671860ef4af903b33d86f551abf.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Unigine-Valley-364.19</link>
-            <guid isPermaLink="false">a210f3c4-2696-4254-9f80-0b5acafbfd2f</guid>
-            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tomb Raider Benchmarks On Linux With NVIDIA Graphics - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Tomb Raider Benchmarks On Linux With NVIDIA Graphics - Phoronix</h1><p>With Feral Interactive releasing Tomb Raider for Linux, three years after the premiere of the Windows port, many have been wondering about the Linux performance particularly with regards to the graphics driver situation. Here are our initial benchmarks of Feral's port of Tomb Raider on Ubuntu Linux with using NVIDIA graphics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66cc289f4b7862d46fe76a14bd4568b29e02a9b3.php"></article>]]></description>
-            <link>http://www.phoronix.com/vr.php?view=23098</link>
-            <guid isPermaLink="false">e139577a-31a4-4789-8eca-33016c957036</guid>
-            <pubDate>Thu, 28 Apr 2016 06:23:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[​CoreOS shows OpenStack can be run as a container with Kubernetes | ZDNet]]></title>
@@ -74,6 +53,27 @@
             <description><![CDATA[<article><h1>Firefox 46 Released, Finally Brings GTK3 Integration - OMG! Ubuntu!</h1><p>A new version of the Mozilla Firefox web browser is available to download. Firefox 46.0 comes (as always) with a modest set of improvements, including GTK3 integration for the Linux desktop builds. This - long promised - change will improve the way Firefox looks and feels on modern Linux desktops.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/435e5c532e52833a4f6cddc0356dac214c51dd50.jpg"></article>]]></description>
             <link>http://www.omgubuntu.co.uk/2016/04/firefox-46-now-available-download</link>
             <guid isPermaLink="false">595e0e1f-4e47-4f4c-abaf-810210d72a0e</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wayland 1.11 Planned For Release At The End Of May - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Wayland 1.11 Planned For Release At The End Of May - Phoronix</h1><p>Bryce Harrington has laid out plans for shipping the next major version of Wayland (v1.11) around the end of May and of course joined by Weston 1.11. Bryce, employed by Samsung's Open-Source Group, has been serving as the Wayland release manager for a while now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5674a5805f77503bd75a99878c396ec20f337483.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Wayland-1.11-Planning</link>
+            <guid isPermaLink="false">e9bcca7c-0950-4d66-ac59-c78050bbd8c4</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Other Linux Distributions Begin Analyzing Clear Linux's Performance Optimizations - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Other Linux Distributions Begin Analyzing Clear Linux's Performance Optimizations - Phoronix</h1><p>Fedora developers appear to be among those analyzing Intel's Clear Linux distribution for the performance optimizations made. In case you haven't been following our many original performance tests in the past months, Intel's Clear Linux is surprisingly fast. Clear Linux just isn't fast for server/workstation/enterprise workloads but even for Intel graphics performance and other general workloads.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8ef8ba16a3cc0b40a09bb2774036acf302ebc89.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-Looks-At-Clear</link>
+            <guid isPermaLink="false">57772791-cd76-4545-ac6d-e81fa7aa4492</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Patches For A New /dev/random Linux Random Number Generator Revised - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Patches For A New /dev/random Linux Random Number Generator Revised - Phoronix</h1><p>Stephan Mueller has published his second version of the in-development patches of the Linux Random Number Generator (LRNG) that seeks to provide a new, drop-in replacement for Linux's /dev/random implementation. Mueller describes of his work in V2 form, "The following patch set provides a different approach to /dev/random which I call Linux Random Number Generator (LRNG) to collect entropy within the Linux kernel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/133f3edac26b439141eee7b604da99db01084358.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=LRNG-dev-random-V2</link>
+            <guid isPermaLink="false">0694dc6f-b4b9-44a6-be35-4c701700d5bd</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
         </item>
     </channel>
