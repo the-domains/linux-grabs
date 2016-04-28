@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 06:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 06:24:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu 16.04 LTS video review]]></title>
+            <description><![CDATA[<article><h1>Ubuntu 16.04 LTS video review</h1><p>Ubuntu 16.04 LTS was recently released, and many Linux users have been wondering what it has to offer and if it's worth installing or upgrading from a previous release of Ubuntu. Not to worry, a YouTuber by the name of Quidsup has a full video review of Ubuntu 16.04 that will walk you through the latest changes to Canonical's popular desktop distribution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/002400b6cb2a8988a40401a44f1bb72b68262e6b.png"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228834</link>
+            <guid isPermaLink="false">ccc94ef3-df36-47a3-b4a5-2665979029d1</guid>
+            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to maintain a "clean" Ubuntu]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>PulseAudio Adds Memfd Transport Support - Phoronix</h1><p>PulseAudio gained support for utilizing the Linux kernel's memfd as a transport mechanism as spearheaded by the systemd/KDBUS crew. PulseAudio now supports using memfd for shared-memory support when the daemon's enable-memfd=yes configuration option is present. Memfd is used in place of POSIX SHM for shared memory.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/133f3edac26b439141eee7b604da99db01084358.jpg"></article>]]></description>
             <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=PulseAudio-Memfd-Support</link>
             <guid isPermaLink="false">df68ea99-6d34-44a0-8ab6-cd9ecebf1a71</guid>
-            <pubDate>Thu, 28 Apr 2016 06:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The GNOME Foundation welcomes ARM device donations]]></title>
-            <description><![CDATA[<article><h1>The GNOME Foundation welcomes ARM device donations</h1><p>ORINDA, CA. Recently, the GNOME Foundation sent out a request seeking donations of ARM build server hardware so that the GNOME project could improve the support and quality of the GNOME desktop on ARM devices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
-            <link>https://www.gnome.org/news/2016/04/arm_donations_april_2016/</link>
-            <guid isPermaLink="false">dbd2a562-f626-4a47-965f-aac8fd3bf836</guid>
             <pubDate>Thu, 28 Apr 2016 06:23:16 GMT</pubDate>
         </item>
     </channel>
