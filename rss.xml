@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 06:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 06:24:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,34 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu Linux and OpenStack cloud come to IBM servers | ZDNet]]></title>
+            <description><![CDATA[<article><h1>Ubuntu Linux and OpenStack cloud come to IBM servers | ZDNet</h1><p>AUSTIN, TX -- Last year, IBM introduced LinuxONE, a new pair of IBM mainframes along with Linux and open-source software and services. These new systems are the LinuxONE Emperor, which built on the IBM z13 mainframe and its little brother, Rockhopper. LinuxONE is the heart of IBM's hybrid cloud efforts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0289f9121ae0608b2cafdc934f763ff7106f934.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228793</link>
+            <guid isPermaLink="false">d9cec93b-cb7a-4d26-b7f0-080ce6a28f15</guid>
+            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Open Source and Android: A History of Google's Linux-Based Mobile OS]]></title>
+            <description><![CDATA[<article><h1>Open Source and Android: A History of Google's Linux-Based Mobile OS</h1><p>How open is Android, Google&#39;s Linux-based mobile operating system? That&#39;s a question European regulators are now asking as they level antitrust charges against Alphabet, Google&#39;s parent company. To gain some perspective on the issue, a brief history of Android and its role in the open source ecosystem is in order.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/221cc85bcd5edfba2970c6955bd714c60ec3e49a.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228826</link>
+            <guid isPermaLink="false">b6514bde-39e8-41ee-a7f4-0933f3fd7583</guid>
+            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[X.Org Members Approve Becoming Part Of The SPI Organization - Phoronix]]></title>
+            <description><![CDATA[<article><h1>X.Org Members Approve Becoming Part Of The SPI Organization - Phoronix</h1><p>The results just are in of the 2016 X.Org Foundation elections and the members have voted to become part of the SPI. The foundation thus is basically becoming dissolved to become part of Software in the Public Interest.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cadcf9af1bb1af59e060df6e357edbe667194a2.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Xorg-SPI-Is-A-Go</link>
+            <guid isPermaLink="false">ade96a09-653c-462e-9ced-b175172eecea</guid>
+            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[See How Your Linux GPU Compares To Various GeForce GPUs With NVIDIA 364.19 - Phoronix]]></title>
+            <description><![CDATA[<article><h1>See How Your Linux GPU Compares To Various GeForce GPUs With NVIDIA 364.19 - Phoronix</h1><p>While waiting for today's release of Tomb Raider on Linux, for which I just posted various NVIDIA Tomb Raider benchmarks on Ubuntu, I was running some other OpenGL benchmarks. One of the benchmark runs I did with various graphics cards this morning while waiting for Tomb Raider was the well known and demanding Unigine Valley demo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21e48f04d661b671860ef4af903b33d86f551abf.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Unigine-Valley-364.19</link>
+            <guid isPermaLink="false">a210f3c4-2696-4254-9f80-0b5acafbfd2f</guid>
+            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tomb Raider Benchmarks On Linux With NVIDIA Graphics - Phoronix]]></title>
@@ -47,34 +75,6 @@
             <link>http://arstechnica.com/information-technology/2016/04/power-tools-sorting-through-the-crowded-specialized-database-toolbox/</link>
             <guid isPermaLink="false">f6d68e93-5b0d-487f-a6ba-21b8d2a1ccd2</guid>
             <pubDate>Thu, 28 Apr 2016 06:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ubuntu 16.10's YY Codename Revealed - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Ubuntu 16.10's YY Codename Revealed - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48ad19853e7674df5ef83f3ffcc6deff/croprotate.jpg?cropheight=80&cropwidth=288&degrees=0&input=http%3A%2F%2Fwww.phoronix.com%2Fassets%2Fcategories%2Fubuntu.jpg&x=8&y=112"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-16.10-YY</link>
-            <guid isPermaLink="false">a47d5dc0-58ca-46dd-a9ea-0513f14b7452</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Firefox 46 Released, Finally Brings GTK3 Integration - OMG! Ubuntu!]]></title>
-            <description><![CDATA[<article><h1>Firefox 46 Released, Finally Brings GTK3 Integration - OMG! Ubuntu!</h1><p>A new version of the Mozilla Firefox web browser is available to download. Firefox 46.0 comes (as always) with a modest set of improvements, including GTK3 integration for the Linux desktop builds. This - long promised - change will improve the way Firefox looks and feels on modern Linux desktops.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/435e5c532e52833a4f6cddc0356dac214c51dd50.jpg"></article>]]></description>
-            <link>http://www.omgubuntu.co.uk/2016/04/firefox-46-now-available-download</link>
-            <guid isPermaLink="false">595e0e1f-4e47-4f4c-abaf-810210d72a0e</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wayland 1.11 Planned For Release At The End Of May - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Wayland 1.11 Planned For Release At The End Of May - Phoronix</h1><p>Bryce Harrington has laid out plans for shipping the next major version of Wayland (v1.11) around the end of May and of course joined by Weston 1.11. Bryce, employed by Samsung's Open-Source Group, has been serving as the Wayland release manager for a while now.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5674a5805f77503bd75a99878c396ec20f337483.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Wayland-1.11-Planning</link>
-            <guid isPermaLink="false">e9bcca7c-0950-4d66-ac59-c78050bbd8c4</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Other Linux Distributions Begin Analyzing Clear Linux's Performance Optimizations - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Other Linux Distributions Begin Analyzing Clear Linux's Performance Optimizations - Phoronix</h1><p>Fedora developers appear to be among those analyzing Intel's Clear Linux distribution for the performance optimizations made. In case you haven't been following our many original performance tests in the past months, Intel's Clear Linux is surprisingly fast. Clear Linux just isn't fast for server/workstation/enterprise workloads but even for Intel graphics performance and other general workloads.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8ef8ba16a3cc0b40a09bb2774036acf302ebc89.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-Looks-At-Clear</link>
-            <guid isPermaLink="false">57772791-cd76-4545-ac6d-e81fa7aa4492</guid>
-            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
