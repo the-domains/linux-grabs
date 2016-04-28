@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 06:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 06:24:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ubuntu Linux and OpenStack cloud come to IBM servers | ZDNet]]></title>
-            <description><![CDATA[<article><h1>Ubuntu Linux and OpenStack cloud come to IBM servers | ZDNet</h1><p>AUSTIN, TX -- Last year, IBM introduced LinuxONE, a new pair of IBM mainframes along with Linux and open-source software and services. These new systems are the LinuxONE Emperor, which built on the IBM z13 mainframe and its little brother, Rockhopper. LinuxONE is the heart of IBM's hybrid cloud efforts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0289f9121ae0608b2cafdc934f763ff7106f934.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=228793</link>
-            <guid isPermaLink="false">d9cec93b-cb7a-4d26-b7f0-080ce6a28f15</guid>
-            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Open Source and Android: A History of Google's Linux-Based Mobile OS]]></title>
@@ -75,6 +68,13 @@
             <link>http://arstechnica.com/information-technology/2016/04/power-tools-sorting-through-the-crowded-specialized-database-toolbox/</link>
             <guid isPermaLink="false">f6d68e93-5b0d-487f-a6ba-21b8d2a1ccd2</guid>
             <pubDate>Thu, 28 Apr 2016 06:23:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu 16.10's YY Codename Revealed - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Ubuntu 16.10's YY Codename Revealed - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48ad19853e7674df5ef83f3ffcc6deff/croprotate.jpg?cropheight=80&cropwidth=288&degrees=0&input=http%3A%2F%2Fwww.phoronix.com%2Fassets%2Fcategories%2Fubuntu.jpg&x=8&y=112"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-16.10-YY</link>
+            <guid isPermaLink="false">a47d5dc0-58ca-46dd-a9ea-0513f14b7452</guid>
+            <pubDate>Wed, 27 Apr 2016 08:35:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
