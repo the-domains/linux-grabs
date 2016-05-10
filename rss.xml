@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 10:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 10:37:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Viber for Linux Update Adds End-to-End Encryption of Chats]]></title>
+            <description><![CDATA[<article><h1>Viber for Linux Update Adds End-to-End Encryption of Chats</h1><p>The Viber desktop Linux app has been updated, gaining a new look and new security measures. Your opinion the latest Beyonce album is now secure from prying eyes Part Skype, part WhatsApp, Viber combines traditional VoIP features with encrypted messaging, emoji and stickers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c6f53171826d3acfb1e06715cd41e572f569703.jpg"></article>]]></description>
+            <link>http://www.omgubuntu.co.uk/2016/05/viber-linux-app-updated</link>
+            <guid isPermaLink="false">a1b86870-186a-4461-86ca-f7b905603820</guid>
+            <pubDate>Tue, 10 May 2016 10:37:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Want a good tech job? Report says ​open-source skills are hotter than ever | ZDNet]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>X.Org Members Approve Becoming Part Of The SPI Organization - Phoronix</h1><p>The results just are in of the 2016 X.Org Foundation elections and the members have voted to become part of the SPI. The foundation thus is basically becoming dissolved to become part of Software in the Public Interest.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cadcf9af1bb1af59e060df6e357edbe667194a2.jpg"></article>]]></description>
             <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Xorg-SPI-Is-A-Go</link>
             <guid isPermaLink="false">ade96a09-653c-462e-9ced-b175172eecea</guid>
-            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[See How Your Linux GPU Compares To Various GeForce GPUs With NVIDIA 364.19 - Phoronix]]></title>
-            <description><![CDATA[<article><h1>See How Your Linux GPU Compares To Various GeForce GPUs With NVIDIA 364.19 - Phoronix</h1><p>While waiting for today's release of Tomb Raider on Linux, for which I just posted various NVIDIA Tomb Raider benchmarks on Ubuntu, I was running some other OpenGL benchmarks. One of the benchmark runs I did with various graphics cards this morning while waiting for Tomb Raider was the well known and demanding Unigine Valley demo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21e48f04d661b671860ef4af903b33d86f551abf.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Unigine-Valley-364.19</link>
-            <guid isPermaLink="false">a210f3c4-2696-4254-9f80-0b5acafbfd2f</guid>
             <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
         </item>
     </channel>
