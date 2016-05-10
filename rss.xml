@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 10:37:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 10:37:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,34 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft half-bricks Asus Windows 7 PCs with UEFI boot glitch]]></title>
+            <description><![CDATA[<article><h1>Microsoft half-bricks Asus Windows 7 PCs with UEFI boot glitch</h1><p>A recent Windows 7 update partially bricks computers that have an Asus motherboard fitted, it emerged this week. Windows 7 machines that have installed Microsoft's KB3133977 update may trigger a "secure boot violation" during startup, preventing the PC from loading the operating system, Asus said.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d38bafb17ac26eeb4b2ed3042c254ff581a5e9d3.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229168</link>
+            <guid isPermaLink="false">272a4ea5-d609-4f63-978b-89a12c10419c</guid>
+            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Server Monitoring with Munin and Monit on Ubuntu 16.04 LTS]]></title>
+            <description><![CDATA[<article><h1>Server Monitoring with Munin and Monit on Ubuntu 16.04 LTS</h1><p>This tutorial will show you how to monitor an Ubuntu 16.04 server with Munin and Monit. Munin produces nice graphs about nearly every aspect of your server, whereas Monit checks the availability of services like Apache, MySQL, Postfix and takes the appropriate action such as a restart if it finds a service is not behaving as expected.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05367fcb3ec45190a3366bb38735ec59177164a1.png"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229158</link>
+            <guid isPermaLink="false">903cc63b-bd57-4fca-acdb-742907f561ea</guid>
+            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NVIDIA's GeForce GTX 1080 Sounds Great, Can't Wait To Try It On Linux - Phoronix]]></title>
+            <description><![CDATA[<article><h1>NVIDIA's GeForce GTX 1080 Sounds Great, Can't Wait To Try It On Linux - Phoronix</h1><p>Tonight was NVIDIA's big announcement that indeed was about the Pascal-based GeForce GTX 1000 series. The NVIDIA GeForce GTX 1080 "Pascal" delivers on a slew of new technologies, offers an incredible 2144MHz GPU clock speed, is air-cooled with reportedly only 67C under load, and is said to be faster than two GeForce GTX 980 graphics cards in SLI.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21e48f04d661b671860ef4af903b33d86f551abf.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-GTX-1080-Unveil</link>
+            <guid isPermaLink="false">fc03f7b7-1e90-4e70-9e36-f7ea271fc347</guid>
+            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frozenbyte's Shadwen Will Launch In Two Weeks - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Frozenbyte's Shadwen Will Launch In Two Weeks - Phoronix</h1><p>Frozenbyte's latest title, Shadwen, will be launching in just under two weeks with Linux support. Frozenbyte has announced that Shadwen will be released for PC/Windows, Linux, OS X, and the PlayStation 4 on 17 May. The pricing is just around $15 USD with an early launch sale.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6318e18ca2ea5b72f0d92d3f0c1f7aa7a2de7d2e.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Frozenbyte-Shadwen-May</link>
+            <guid isPermaLink="false">480db9b6-db0e-4acc-aa03-d162c3102553</guid>
+            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ubuntu Touch OTA-11 Takes Shape, Promises Unity 8 Improvements and Miracast]]></title>
@@ -47,34 +75,6 @@
             <link>http://www.omgubuntu.co.uk/2016/05/viber-linux-app-updated</link>
             <guid isPermaLink="false">a1b86870-186a-4461-86ca-f7b905603820</guid>
             <pubDate>Tue, 10 May 2016 10:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Want a good tech job? Report says ​open-source skills are hotter than ever | ZDNet]]></title>
-            <description><![CDATA[<article><h1>Want a good tech job? Report says ​open-source skills are hotter than ever | ZDNet</h1><p>65 percent of HR managers say open-source hiring will increase more than any other part of their business over the next six months.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf97bd3e5068c4fc424a56c95bb56b15662bb823.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229129</link>
-            <guid isPermaLink="false">ea0c56a7-7710-4287-8735-78a8ed9518be</guid>
-            <pubDate>Tue, 10 May 2016 10:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ubuntu 16.10 Developer Summit Videos To Watch This Weekend - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Ubuntu 16.10 Developer Summit Videos To Watch This Weekend - Phoronix</h1><p>This week was the Ubuntu Online Summit for planning about Ubuntu 16.10. Here are some videos for your enjoyment this weekend if you didn't get a chance to watch them live.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b8c84c08b4e79782a38016bb5d5b915d5df5bfd.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=UOS-1605-Video-Recap</link>
-            <guid isPermaLink="false">9244acac-d069-420e-a051-cdfc2ffa494a</guid>
-            <pubDate>Tue, 10 May 2016 10:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Skylake Pico-ITX SBC has optional I/O boards]]></title>
-            <description><![CDATA[<article><h1>Skylake Pico-ITX SBC has optional I/O boards</h1><p>Apr 27, 2016 - by Eric Brown - 0 views Axiomtek's 6th Gen Core "PICO500" Pico-ITX SBC offers extended temperature support, a mini-PCIe slot, and expansion ports with optional I/O cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb3460978116da0735d016609ad1ac7e32b7515b.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=228836</link>
-            <guid isPermaLink="false">bf08677d-131c-440e-b1cd-5433b44392aa</guid>
-            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ubuntu 16.04 LTS video review]]></title>
-            <description><![CDATA[<article><h1>Ubuntu 16.04 LTS video review</h1><p>Ubuntu 16.04 LTS was recently released, and many Linux users have been wondering what it has to offer and if it's worth installing or upgrading from a previous release of Ubuntu. Not to worry, a YouTuber by the name of Quidsup has a full video review of Ubuntu 16.04 that will walk you through the latest changes to Canonical's popular desktop distribution.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/002400b6cb2a8988a40401a44f1bb72b68262e6b.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=228834</link>
-            <guid isPermaLink="false">ccc94ef3-df36-47a3-b4a5-2665979029d1</guid>
-            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
