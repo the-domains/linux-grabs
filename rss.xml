@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 10:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 10:37:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,55 +12,6 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Siri Creators Offer First Demo of 'Viv', The Self-Coding Voice Assistant]]></title>
-            <description><![CDATA[<article><h1>Siri Creators Offer First Demo of 'Viv', The Self-Coding Voice Assistant</h1><p>Siri co-founders Dag Kittlaus and Adam Cheyer have offered their first public demonstration of Viv, the much-anticipated voice assistant that promises an advanced level of human-computer interaction. The demo took place yesterday at TechCrunch 's Disrupt NY event, where Viv's creators wasted no time showing what the new AI bot is capable of.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4904d5d2bae82c56028fd37d4ac9c63fb3e0bc23.jpg"></article>]]></description>
-            <link>http://www.macrumors.com/2016/05/10/siri-creators-demo-viv-voice-assistant/?utm_source=feedly&amp;utm_medium=webfeeds</link>
-            <guid isPermaLink="false">596f70dc-cdcd-4f46-9f85-11fef707f62d</guid>
-            <pubDate>Tue, 10 May 2016 10:37:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mesa 11.2.2 3D Graphics Library Released with Big Endian Support for Radeon]]></title>
-            <description><![CDATA[<article><h1>Mesa 11.2.2 3D Graphics Library Released with Big Endian Support for Radeon</h1><p>Collabora's Emil Velikov has just announced today, May 9, the immediate availability for download of the second maintenance release in the latest stable series of the Mesa 3D Graphics Library. Mesa 3D 11.2.2 is now the most advanced version of the graphical library used by default in numerous GNU/Linux operating systems for providing an open-source implementation of the OpenGL specification, containing video drivers for Nvidia, Intel, and AMD graphics cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54aa06c34ca2af35fe14200f8f6dfbed4de5dc96.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229236</link>
-            <guid isPermaLink="false">3774a9b4-c178-49e3-a3e1-63db73c42bbe</guid>
-            <pubDate>Tue, 10 May 2016 10:37:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Xiaomi's biggest phone yet is the giant MiMax]]></title>
-            <description><![CDATA[<article><h1>Xiaomi's biggest phone yet is the giant MiMax</h1><p>Xiaomi has announced the MiMax, just a few days after Chinese regulatory authorities announced the 6.4-inch phone themselves. It's the company's biggest phone yet, but the claim is that it has a "slim 7.5mm body that fits in your pocket."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7ac120200512857494e82964064888393f69086.jpg"></article>]]></description>
-            <link>http://www.theverge.com/circuitbreaker/2016/5/10/11648034/xiaomi-mimax-announcement-specs-price</link>
-            <guid isPermaLink="false">eb532238-df31-4167-881c-cee30f9aba3c</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LXer: The May 2016 Issue of the PCLinuxOS Magazine]]></title>
-            <description><![CDATA[<article><h1>LXer: The May 2016 Issue of the PCLinuxOS Magazine</h1><p>With the exception of a brief period in 2009, The PCLinuxOS Magazine has been published on a monthly basis since September, 2006. The PCLinuxOS Magazine is a product of the PCLinuxOS community, published by volunteers from the community. The magazine is lead by Paul Arnote, Chief Editor, and Assistant Editor Meemaw.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fab782102c56541fa3054cc30e982384bad50734.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/view/229163/index.html</link>
-            <guid isPermaLink="false">77928793-7f7b-4af8-8439-97744673aeb2</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GCC 4.9 vs. GCC 5.3 vs. GCC 6.1 On A Debian Xeon E5 Linux System - Phoronix]]></title>
-            <description><![CDATA[<article><h1>GCC 4.9 vs. GCC 5.3 vs. GCC 6.1 On A Debian Xeon E5 Linux System - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b7e28e0aed42aa91fe350f83ab4fb27503e6716.php"></article>]]></description>
-            <link>http://www.phoronix.com/vr.php?view=23133</link>
-            <guid isPermaLink="false">10029b95-c0e9-4557-852b-7e95b5ec5b77</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Debian's i386 Builds Now Require 686-Class CPUs - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Debian's i386 Builds Now Require 686-Class CPUs - Phoronix</h1><p>Those running any old VIA C3, AMD K5/K6, or original Intel Pentium CPUs, you'll be losing your Debian support past the current stable (Jessie) series. The Debian i386 architecture builds now require an i686 class processor for Debian testing (affecting Debian Stretch) and future builds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cda6e410c3c7d71a9de4880b232a3a260aa1ef8.php"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Debian-686-For-i386-CPUs</link>
-            <guid isPermaLink="false">cfee82d3-5a43-41ba-9cac-ec55a36b899d</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Is What the New Linux Mint 18 Cinnamon Theme Looks Like]]></title>
-            <description><![CDATA[<article><h1>This Is What the New Linux Mint 18 Cinnamon Theme Looks Like</h1><p>Linux Mint project leader and maintainer Clement Lefebvre dropped some exciting news today about what users should expect from the upcoming Linux Mint 18 "Sarah" operating system. Last month we talked about Linux Mint 18 "Sarah" and about the fact that it will ship with the Cinnamon 3.0 and MATE 1.14 desktop environments, as well as with a brand-new and long-anticipated design, based on the very popular Arc GTK theme.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/054901f568cf50c387307e80ca2e2bfeccc5b483.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229166</link>
-            <guid isPermaLink="false">8832b0ba-3e23-4326-beeb-da260624b27f</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An Early Look At The Features Of PostgreSQL 9.6 - Phoronix]]></title>
@@ -75,6 +26,55 @@
             <link>http://lxer.com/module/newswire/ext_link.php?rid=229168</link>
             <guid isPermaLink="false">272a4ea5-d609-4f63-978b-89a12c10419c</guid>
             <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Server Monitoring with Munin and Monit on Ubuntu 16.04 LTS]]></title>
+            <description><![CDATA[<article><h1>Server Monitoring with Munin and Monit on Ubuntu 16.04 LTS</h1><p>This tutorial will show you how to monitor an Ubuntu 16.04 server with Munin and Monit. Munin produces nice graphs about nearly every aspect of your server, whereas Monit checks the availability of services like Apache, MySQL, Postfix and takes the appropriate action such as a restart if it finds a service is not behaving as expected.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05367fcb3ec45190a3366bb38735ec59177164a1.png"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229158</link>
+            <guid isPermaLink="false">903cc63b-bd57-4fca-acdb-742907f561ea</guid>
+            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NVIDIA's GeForce GTX 1080 Sounds Great, Can't Wait To Try It On Linux - Phoronix]]></title>
+            <description><![CDATA[<article><h1>NVIDIA's GeForce GTX 1080 Sounds Great, Can't Wait To Try It On Linux - Phoronix</h1><p>Tonight was NVIDIA's big announcement that indeed was about the Pascal-based GeForce GTX 1000 series. The NVIDIA GeForce GTX 1080 "Pascal" delivers on a slew of new technologies, offers an incredible 2144MHz GPU clock speed, is air-cooled with reportedly only 67C under load, and is said to be faster than two GeForce GTX 980 graphics cards in SLI.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21e48f04d661b671860ef4af903b33d86f551abf.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-GTX-1080-Unveil</link>
+            <guid isPermaLink="false">fc03f7b7-1e90-4e70-9e36-f7ea271fc347</guid>
+            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frozenbyte's Shadwen Will Launch In Two Weeks - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Frozenbyte's Shadwen Will Launch In Two Weeks - Phoronix</h1><p>Frozenbyte's latest title, Shadwen, will be launching in just under two weeks with Linux support. Frozenbyte has announced that Shadwen will be released for PC/Windows, Linux, OS X, and the PlayStation 4 on 17 May. The pricing is just around $15 USD with an early launch sale.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6318e18ca2ea5b72f0d92d3f0c1f7aa7a2de7d2e.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Frozenbyte-Shadwen-May</link>
+            <guid isPermaLink="false">480db9b6-db0e-4acc-aa03-d162c3102553</guid>
+            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu Touch OTA-11 Takes Shape, Promises Unity 8 Improvements and Miracast]]></title>
+            <description><![CDATA[<article><h1>Ubuntu Touch OTA-11 Takes Shape, Promises Unity 8 Improvements and Miracast</h1><p>It has been a while since we discussed here something about the development of the next major Ubuntu Touch OTA update, the OTA-11, and at the request of many of you, we'll post the following information to keep you guys up to date.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85d77989cc5922b2aaec2bd0f86a3a7047045619.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229139</link>
+            <guid isPermaLink="false">8b4d806d-a612-4570-8e09-76a066a25561</guid>
+            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PBS Digital Studios Asks 'Should Everything Be Open Source?' | FOSS Force]]></title>
+            <description><![CDATA[<article><h1>PBS Digital Studios Asks 'Should Everything Be Open Source?' | FOSS Force</h1><p>Trending Articles on FOSS Force The DMCA doesn't just make it illegal for you to circumvent DRM to rip and burn a DVD of 'War Games' or to install a pirated copy of Windows. It also can make it illegal for you to repair or modify things you own.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d8de9705fab0c5e1828bf221130413375e83b7d.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229141</link>
+            <guid isPermaLink="false">8d8e2fe1-7312-4db6-a8a4-ab2d86626897</guid>
+            <pubDate>Tue, 10 May 2016 10:37:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Qualcomm patches widespread vulnerability, but most phones will remain at risk]]></title>
+            <description><![CDATA[<article><h1>Qualcomm patches widespread vulnerability, but most phones will remain at risk</h1><p>Qualcomm has patched a vulnerability in netd (network_manager), which for the last five years has left devices vulnerable to having their text message and contact databases compromised. Qualcomm sent OEMs a fix for this problem back in March, but the gap in Android versions on the market means that most users are going to be out of luck.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f3dcd5cdf9487c3ba4051c8502555f4f6161a6b.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229156</link>
+            <guid isPermaLink="false">c0760007-dd15-45f6-9b35-a7842acad05a</guid>
+            <pubDate>Tue, 10 May 2016 10:37:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu Plans To Make Scopes Even Better - Here's How - OMG! Ubuntu!]]></title>
+            <description><![CDATA[<article><h1>Ubuntu Plans To Make Scopes Even Better - Here's How - OMG! Ubuntu!</h1><p>More details about the 'design evolution of Ubuntu Scopes' was shared by the Canonical design and engineering teams at the Ubuntu Online Summit. Why the need for a change? The usual mix of user-testing, developer feedback, design review.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecff95c7c5a78d2f7cc9bb1e9b345b26b42b8129.jpg"></article>]]></description>
+            <link>http://www.omgubuntu.co.uk/2016/05/ubuntu-touch-scopes-even-better-dash-browser</link>
+            <guid isPermaLink="false">4abd6952-d2d0-4e12-92b2-8a65278b159b</guid>
+            <pubDate>Tue, 10 May 2016 10:37:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
