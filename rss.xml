@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 10:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 10:38:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,34 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LXer: The May 2016 Issue of the PCLinuxOS Magazine]]></title>
+            <description><![CDATA[<article><h1>LXer: The May 2016 Issue of the PCLinuxOS Magazine</h1><p>With the exception of a brief period in 2009, The PCLinuxOS Magazine has been published on a monthly basis since September, 2006. The PCLinuxOS Magazine is a product of the PCLinuxOS community, published by volunteers from the community. The magazine is lead by Paul Arnote, Chief Editor, and Assistant Editor Meemaw.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fab782102c56541fa3054cc30e982384bad50734.png"></article>]]></description>
+            <link>http://lxer.com/module/newswire/view/229163/index.html</link>
+            <guid isPermaLink="false">77928793-7f7b-4af8-8439-97744673aeb2</guid>
+            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GCC 4.9 vs. GCC 5.3 vs. GCC 6.1 On A Debian Xeon E5 Linux System - Phoronix]]></title>
+            <description><![CDATA[<article><h1>GCC 4.9 vs. GCC 5.3 vs. GCC 6.1 On A Debian Xeon E5 Linux System - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b7e28e0aed42aa91fe350f83ab4fb27503e6716.php"></article>]]></description>
+            <link>http://www.phoronix.com/vr.php?view=23133</link>
+            <guid isPermaLink="false">10029b95-c0e9-4557-852b-7e95b5ec5b77</guid>
+            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Debian's i386 Builds Now Require 686-Class CPUs - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Debian's i386 Builds Now Require 686-Class CPUs - Phoronix</h1><p>Those running any old VIA C3, AMD K5/K6, or original Intel Pentium CPUs, you'll be losing your Debian support past the current stable (Jessie) series. The Debian i386 architecture builds now require an i686 class processor for Debian testing (affecting Debian Stretch) and future builds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cda6e410c3c7d71a9de4880b232a3a260aa1ef8.php"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Debian-686-For-i386-CPUs</link>
+            <guid isPermaLink="false">cfee82d3-5a43-41ba-9cac-ec55a36b899d</guid>
+            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This Is What the New Linux Mint 18 Cinnamon Theme Looks Like]]></title>
+            <description><![CDATA[<article><h1>This Is What the New Linux Mint 18 Cinnamon Theme Looks Like</h1><p>Linux Mint project leader and maintainer Clement Lefebvre dropped some exciting news today about what users should expect from the upcoming Linux Mint 18 "Sarah" operating system. Last month we talked about Linux Mint 18 "Sarah" and about the fact that it will ship with the Cinnamon 3.0 and MATE 1.14 desktop environments, as well as with a brand-new and long-anticipated design, based on the very popular Arc GTK theme.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/054901f568cf50c387307e80ca2e2bfeccc5b483.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229166</link>
+            <guid isPermaLink="false">8832b0ba-3e23-4326-beeb-da260624b27f</guid>
+            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An Early Look At The Features Of PostgreSQL 9.6 - Phoronix]]></title>
@@ -47,34 +75,6 @@
             <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Frozenbyte-Shadwen-May</link>
             <guid isPermaLink="false">480db9b6-db0e-4acc-aa03-d162c3102553</guid>
             <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ubuntu Touch OTA-11 Takes Shape, Promises Unity 8 Improvements and Miracast]]></title>
-            <description><![CDATA[<article><h1>Ubuntu Touch OTA-11 Takes Shape, Promises Unity 8 Improvements and Miracast</h1><p>It has been a while since we discussed here something about the development of the next major Ubuntu Touch OTA update, the OTA-11, and at the request of many of you, we'll post the following information to keep you guys up to date.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85d77989cc5922b2aaec2bd0f86a3a7047045619.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229139</link>
-            <guid isPermaLink="false">8b4d806d-a612-4570-8e09-76a066a25561</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PBS Digital Studios Asks 'Should Everything Be Open Source?' | FOSS Force]]></title>
-            <description><![CDATA[<article><h1>PBS Digital Studios Asks 'Should Everything Be Open Source?' | FOSS Force</h1><p>Trending Articles on FOSS Force The DMCA doesn't just make it illegal for you to circumvent DRM to rip and burn a DVD of 'War Games' or to install a pirated copy of Windows. It also can make it illegal for you to repair or modify things you own.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d8de9705fab0c5e1828bf221130413375e83b7d.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229141</link>
-            <guid isPermaLink="false">8d8e2fe1-7312-4db6-a8a4-ab2d86626897</guid>
-            <pubDate>Tue, 10 May 2016 10:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Qualcomm patches widespread vulnerability, but most phones will remain at risk]]></title>
-            <description><![CDATA[<article><h1>Qualcomm patches widespread vulnerability, but most phones will remain at risk</h1><p>Qualcomm has patched a vulnerability in netd (network_manager), which for the last five years has left devices vulnerable to having their text message and contact databases compromised. Qualcomm sent OEMs a fix for this problem back in March, but the gap in Android versions on the market means that most users are going to be out of luck.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f3dcd5cdf9487c3ba4051c8502555f4f6161a6b.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229156</link>
-            <guid isPermaLink="false">c0760007-dd15-45f6-9b35-a7842acad05a</guid>
-            <pubDate>Tue, 10 May 2016 10:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ubuntu Plans To Make Scopes Even Better - Here's How - OMG! Ubuntu!]]></title>
-            <description><![CDATA[<article><h1>Ubuntu Plans To Make Scopes Even Better - Here's How - OMG! Ubuntu!</h1><p>More details about the 'design evolution of Ubuntu Scopes' was shared by the Canonical design and engineering teams at the Ubuntu Online Summit. Why the need for a change? The usual mix of user-testing, developer feedback, design review.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecff95c7c5a78d2f7cc9bb1e9b345b26b42b8129.jpg"></article>]]></description>
-            <link>http://www.omgubuntu.co.uk/2016/05/ubuntu-touch-scopes-even-better-dash-browser</link>
-            <guid isPermaLink="false">4abd6952-d2d0-4e12-92b2-8a65278b159b</guid>
-            <pubDate>Tue, 10 May 2016 10:37:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
