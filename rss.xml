@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 10:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 10:37:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -14,8 +14,29 @@
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ubuntu Plans To Make Scopes Even Better - Here's How - OMG! Ubuntu!]]></title>
+            <description><![CDATA[<article><h1>Ubuntu Plans To Make Scopes Even Better - Here's How - OMG! Ubuntu!</h1><p>More details about the 'design evolution of Ubuntu Scopes' was shared by the Canonical design and engineering teams at the Ubuntu Online Summit. Why the need for a change? The usual mix of user-testing, developer feedback, design review.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecff95c7c5a78d2f7cc9bb1e9b345b26b42b8129.jpg"></article>]]></description>
+            <link>http://www.omgubuntu.co.uk/2016/05/ubuntu-touch-scopes-even-better-dash-browser</link>
+            <guid isPermaLink="false">4abd6952-d2d0-4e12-92b2-8a65278b159b</guid>
+            <pubDate>Tue, 10 May 2016 10:37:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Viber for Linux Update Adds End-to-End Encryption of Chats]]></title>
+            <description><![CDATA[<article><h1>Viber for Linux Update Adds End-to-End Encryption of Chats</h1><p>The Viber desktop Linux app has been updated, gaining a new look and new security measures. Your opinion the latest Beyonce album is now secure from prying eyes Part Skype, part WhatsApp, Viber combines traditional VoIP features with encrypted messaging, emoji and stickers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c6f53171826d3acfb1e06715cd41e572f569703.jpg"></article>]]></description>
+            <link>http://www.omgubuntu.co.uk/2016/05/viber-linux-app-updated</link>
+            <guid isPermaLink="false">a1b86870-186a-4461-86ca-f7b905603820</guid>
+            <pubDate>Tue, 10 May 2016 10:37:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Want a good tech job? Report says ​open-source skills are hotter than ever | ZDNet]]></title>
+            <description><![CDATA[<article><h1>Want a good tech job? Report says ​open-source skills are hotter than ever | ZDNet</h1><p>65 percent of HR managers say open-source hiring will increase more than any other part of their business over the next six months.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf97bd3e5068c4fc424a56c95bb56b15662bb823.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229129</link>
+            <guid isPermaLink="false">ea0c56a7-7710-4287-8735-78a8ed9518be</guid>
+            <pubDate>Tue, 10 May 2016 10:37:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ubuntu 16.10 Developer Summit Videos To Watch This Weekend - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Ubuntu 16.10 Developer Summit Videos To Watch This Weekend - Phoronix</h1><p>This week was the Ubuntu Online Summit for planning about Ubuntu 16.10. Here are some videos for your enjoyment this weekend if you didn't get a chance to watch them live.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48ad19853e7674df5ef83f3ffcc6deff/croprotate.jpg?cropheight=80&cropwidth=288&degrees=0&input=http%3A%2F%2Fwww.phoronix.com%2Fassets%2Fcategories%2Fubuntu.jpg&x=8&y=112"></article>]]></description>
+            <description><![CDATA[<article><h1>Ubuntu 16.10 Developer Summit Videos To Watch This Weekend - Phoronix</h1><p>This week was the Ubuntu Online Summit for planning about Ubuntu 16.10. Here are some videos for your enjoyment this weekend if you didn't get a chance to watch them live.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b8c84c08b4e79782a38016bb5d5b915d5df5bfd.jpg"></article>]]></description>
             <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=UOS-1605-Video-Recap</link>
             <guid isPermaLink="false">9244acac-d069-420e-a051-cdfc2ffa494a</guid>
             <pubDate>Tue, 10 May 2016 10:37:04 GMT</pubDate>
@@ -54,27 +75,6 @@
             <link>http://lxer.com/module/newswire/ext_link.php?rid=228826</link>
             <guid isPermaLink="false">b6514bde-39e8-41ee-a7f4-0933f3fd7583</guid>
             <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[X.Org Members Approve Becoming Part Of The SPI Organization - Phoronix]]></title>
-            <description><![CDATA[<article><h1>X.Org Members Approve Becoming Part Of The SPI Organization - Phoronix</h1><p>The results just are in of the 2016 X.Org Foundation elections and the members have voted to become part of the SPI. The foundation thus is basically becoming dissolved to become part of Software in the Public Interest.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cadcf9af1bb1af59e060df6e357edbe667194a2.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Xorg-SPI-Is-A-Go</link>
-            <guid isPermaLink="false">ade96a09-653c-462e-9ced-b175172eecea</guid>
-            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[See How Your Linux GPU Compares To Various GeForce GPUs With NVIDIA 364.19 - Phoronix]]></title>
-            <description><![CDATA[<article><h1>See How Your Linux GPU Compares To Various GeForce GPUs With NVIDIA 364.19 - Phoronix</h1><p>While waiting for today's release of Tomb Raider on Linux, for which I just posted various NVIDIA Tomb Raider benchmarks on Ubuntu, I was running some other OpenGL benchmarks. One of the benchmark runs I did with various graphics cards this morning while waiting for Tomb Raider was the well known and demanding Unigine Valley demo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21e48f04d661b671860ef4af903b33d86f551abf.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Unigine-Valley-364.19</link>
-            <guid isPermaLink="false">a210f3c4-2696-4254-9f80-0b5acafbfd2f</guid>
-            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tomb Raider Benchmarks On Linux With NVIDIA Graphics - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Tomb Raider Benchmarks On Linux With NVIDIA Graphics - Phoronix</h1><p>With Feral Interactive releasing Tomb Raider for Linux, three years after the premiere of the Windows port, many have been wondering about the Linux performance particularly with regards to the graphics driver situation. Here are our initial benchmarks of Feral's port of Tomb Raider on Ubuntu Linux with using NVIDIA graphics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66cc289f4b7862d46fe76a14bd4568b29e02a9b3.php"></article>]]></description>
-            <link>http://www.phoronix.com/vr.php?view=23098</link>
-            <guid isPermaLink="false">e139577a-31a4-4789-8eca-33016c957036</guid>
-            <pubDate>Thu, 28 Apr 2016 06:23:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
