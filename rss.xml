@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 10:38:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 10:38:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LXer: The May 2016 Issue of the PCLinuxOS Magazine]]></title>
-            <description><![CDATA[<article><h1>LXer: The May 2016 Issue of the PCLinuxOS Magazine</h1><p>With the exception of a brief period in 2009, The PCLinuxOS Magazine has been published on a monthly basis since September, 2006. The PCLinuxOS Magazine is a product of the PCLinuxOS community, published by volunteers from the community. The magazine is lead by Paul Arnote, Chief Editor, and Assistant Editor Meemaw.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fab782102c56541fa3054cc30e982384bad50734.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/view/229163/index.html</link>
-            <guid isPermaLink="false">77928793-7f7b-4af8-8439-97744673aeb2</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GCC 4.9 vs. GCC 5.3 vs. GCC 6.1 On A Debian Xeon E5 Linux System - Phoronix]]></title>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>Frozenbyte's Shadwen Will Launch In Two Weeks - Phoronix</h1><p>Frozenbyte's latest title, Shadwen, will be launching in just under two weeks with Linux support. Frozenbyte has announced that Shadwen will be released for PC/Windows, Linux, OS X, and the PlayStation 4 on 17 May. The pricing is just around $15 USD with an early launch sale.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6318e18ca2ea5b72f0d92d3f0c1f7aa7a2de7d2e.jpg"></article>]]></description>
             <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Frozenbyte-Shadwen-May</link>
             <guid isPermaLink="false">480db9b6-db0e-4acc-aa03-d162c3102553</guid>
+            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu Touch OTA-11 Takes Shape, Promises Unity 8 Improvements and Miracast]]></title>
+            <description><![CDATA[<article><h1>Ubuntu Touch OTA-11 Takes Shape, Promises Unity 8 Improvements and Miracast</h1><p>It has been a while since we discussed here something about the development of the next major Ubuntu Touch OTA update, the OTA-11, and at the request of many of you, we'll post the following information to keep you guys up to date.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85d77989cc5922b2aaec2bd0f86a3a7047045619.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229139</link>
+            <guid isPermaLink="false">8b4d806d-a612-4570-8e09-76a066a25561</guid>
             <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
         </item>
     </channel>
