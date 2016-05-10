@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 06:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 10:37:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ubuntu 16.10 Developer Summit Videos To Watch This Weekend - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Ubuntu 16.10 Developer Summit Videos To Watch This Weekend - Phoronix</h1><p>This week was the Ubuntu Online Summit for planning about Ubuntu 16.10. Here are some videos for your enjoyment this weekend if you didn't get a chance to watch them live.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48ad19853e7674df5ef83f3ffcc6deff/croprotate.jpg?cropheight=80&cropwidth=288&degrees=0&input=http%3A%2F%2Fwww.phoronix.com%2Fassets%2Fcategories%2Fubuntu.jpg&x=8&y=112"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=UOS-1605-Video-Recap</link>
+            <guid isPermaLink="false">9244acac-d069-420e-a051-cdfc2ffa494a</guid>
+            <pubDate>Tue, 10 May 2016 10:37:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Skylake Pico-ITX SBC has optional I/O boards]]></title>
+            <description><![CDATA[<article><h1>Skylake Pico-ITX SBC has optional I/O boards</h1><p>Apr 27, 2016 - by Eric Brown - 0 views Axiomtek's 6th Gen Core "PICO500" Pico-ITX SBC offers extended temperature support, a mini-PCIe slot, and expansion ports with optional I/O cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb3460978116da0735d016609ad1ac7e32b7515b.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=228836</link>
+            <guid isPermaLink="false">bf08677d-131c-440e-b1cd-5433b44392aa</guid>
+            <pubDate>Thu, 28 Apr 2016 06:23:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ubuntu 16.04 LTS video review]]></title>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Tomb Raider Benchmarks On Linux With NVIDIA Graphics - Phoronix</h1><p>With Feral Interactive releasing Tomb Raider for Linux, three years after the premiere of the Windows port, many have been wondering about the Linux performance particularly with regards to the graphics driver situation. Here are our initial benchmarks of Feral's port of Tomb Raider on Ubuntu Linux with using NVIDIA graphics.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66cc289f4b7862d46fe76a14bd4568b29e02a9b3.php"></article>]]></description>
             <link>http://www.phoronix.com/vr.php?view=23098</link>
             <guid isPermaLink="false">e139577a-31a4-4789-8eca-33016c957036</guid>
-            <pubDate>Thu, 28 Apr 2016 06:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[​CoreOS shows OpenStack can be run as a container with Kubernetes | ZDNet]]></title>
-            <description><![CDATA[<article><h1>​CoreOS shows OpenStack can be run as a container with Kubernetes | ZDNet</h1><p>AUSTIN, Texas --At the OpenStack Summit, CoreOS CEO Alex Polvi took the risk of running a live demo of OpenStack in a container managed by Kubernetes, Google's container management system. He won his bet. It ran flawlessly before the audience of approximately 7,000 developers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e99e5f80ee734f55bf342ee73936e5b4d2a6a35.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=228787</link>
-            <guid isPermaLink="false">972be35d-e0f7-4bd5-8ca1-9fa87dd46a40</guid>
-            <pubDate>Thu, 28 Apr 2016 06:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PulseAudio Adds Memfd Transport Support - Phoronix]]></title>
-            <description><![CDATA[<article><h1>PulseAudio Adds Memfd Transport Support - Phoronix</h1><p>PulseAudio gained support for utilizing the Linux kernel's memfd as a transport mechanism as spearheaded by the systemd/KDBUS crew. PulseAudio now supports using memfd for shared-memory support when the daemon's enable-memfd=yes configuration option is present. Memfd is used in place of POSIX SHM for shared memory.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/133f3edac26b439141eee7b604da99db01084358.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=PulseAudio-Memfd-Support</link>
-            <guid isPermaLink="false">df68ea99-6d34-44a0-8ab6-cd9ecebf1a71</guid>
             <pubDate>Thu, 28 Apr 2016 06:23:16 GMT</pubDate>
         </item>
     </channel>
