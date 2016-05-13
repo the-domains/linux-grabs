@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 07:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 07:51:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -25,6 +25,13 @@
             <description><![CDATA[<article><h1>Open Source Projects Are Transforming Machine Learning and AI</h1><p>Machine learning and artificial intelligence have quickly gained traction with the public through applications such as Apple's Siri and Microsoft's Cortana. The true promise of these disciplines, though, extends far beyond simple speech recognition performed on our smartphones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6506fb638948c71d73300c0f36cb6e3ee49faea3.jpg"></article>]]></description>
             <link>http://lxer.com/module/newswire/ext_link.php?rid=229301</link>
             <guid isPermaLink="false">88df9eff-ace8-41ad-9b2f-9376c56406fc</guid>
+            <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[$12 Orange Pi variant swaps Ethernet for WiFi]]></title>
+            <description><![CDATA[<article><h1>$12 Orange Pi variant swaps Ethernet for WiFi</h1><p>May 9, 2016 - by Eric Brown - 1,097 views Shenzhen Xunlong has launched an open-spec, $12 "Orange Pi Lite" SBC with a with a quad-core Cortex-A7 SoC, 40-pin RPi expansion, camera input, and WiFi. Shenzhen Xunlong continues to churn out new versions of old boards with slight adjustments in features and prices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf0dac91c6568d7b538a1aab5e5a6d1e5f2038b3.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229258</link>
+            <guid isPermaLink="false">a164134e-8531-476d-977c-d58df5b4d94a</guid>
             <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>On the Rise: Six Unsung Apache Big Data Projects</h1><p>Countless organizations around the world are now working with data sets so large and complex that traditional data processing applications can no longer drive optimized analytics and insights. That's the problem that the new wave of Big Data applications aims to solve, and the Apache Software Foundation (ASF) has recently graduated a slew of interesting open source Big Data projects to Top-Level status.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/263e6ae8638a0027fd3b24a01a39fd8fb639977e.jpg"></article>]]></description>
             <link>http://lxer.com/module/newswire/ext_link.php?rid=229335</link>
             <guid isPermaLink="false">90db1a00-40ca-4ab0-b1cf-eec86d5d2e47</guid>
-            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Linux will be the major operating system of 21st century cars | ZDNet]]></title>
-            <description><![CDATA[<article><h1>Linux will be the major operating system of 21st century cars | ZDNet</h1><p>Linux doesn't just run your servers and, via Android, your phones. It also runs your cars. Of course, no one has ever bought a car for its operating system. But Linux is already powering the infotainment, heads-up display and connected car 4G and Wi-Fi systems for such major car manufacturers as Toyota, Nissan, and Jaguar Land Rover and Linux is on its way to Ford, Mazda, Mitsubishi, and Subaru cars.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2347ca7f07ed39e261c3bbd8bac7af0c47f013bf.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229332</link>
-            <guid isPermaLink="false">70979e66-0514-4a09-8c31-f90a4877bfae</guid>
             <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
         </item>
     </channel>
