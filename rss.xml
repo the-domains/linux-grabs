@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 07:51:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 07:51:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Goldman Sachs Talks Open Source | FOSS Force]]></title>
+            <description><![CDATA[<article><h1>Goldman Sachs Talks Open Source | FOSS Force</h1><p>The Video Screening Room As you might expect for someone who is constantly surrounded by bankers, Don Duet uses the term "intellectual property" a lot - but it's good to know that Wall Street is investing in sharing. Goldman Sachs doesn't get a lot of positive press these days (for good reason), but [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5b1ceb07ff7aa078abbc73ba947be4837793992.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229304</link>
+            <guid isPermaLink="false">da359ab5-0a62-46b9-8036-264d0bb63ba1</guid>
+            <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Open Source Projects Are Transforming Machine Learning and AI]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Linux will be the major operating system of 21st century cars | ZDNet</h1><p>Linux doesn't just run your servers and, via Android, your phones. It also runs your cars. Of course, no one has ever bought a car for its operating system. But Linux is already powering the infotainment, heads-up display and connected car 4G and Wi-Fi systems for such major car manufacturers as Toyota, Nissan, and Jaguar Land Rover and Linux is on its way to Ford, Mazda, Mitsubishi, and Subaru cars.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2347ca7f07ed39e261c3bbd8bac7af0c47f013bf.jpg"></article>]]></description>
             <link>http://lxer.com/module/newswire/ext_link.php?rid=229332</link>
             <guid isPermaLink="false">70979e66-0514-4a09-8c31-f90a4877bfae</guid>
-            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mozilla Thunderbird 45.1.0 Released for GNU/Linux, Windows, and Mac OS X]]></title>
-            <description><![CDATA[<article><h1>Mozilla Thunderbird 45.1.0 Released for GNU/Linux, Windows, and Mac OS X</h1><p>Today, May 11, 2016, Mozilla quietly pushed the first maintenance version of the Mozilla Thunderbird 45 email, news, and calendar client to users of Linux, OS X, and Windows operating systems. Mozilla Thunderbird 45.1.0 arrives exactly one month after the release of the major Thunderbird 45.0 version, which finally brought GTK3 integration for GNU/Linux systems, as well as multiple improvements and new capabilities, to address a total of seven issues reported by users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd0cfef2ffd8c4a264f2ee54094b2155a2bc3b5b.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229385</link>
-            <guid isPermaLink="false">367dd5d6-1bf5-42f2-8df2-91c3a968b56f</guid>
             <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
         </item>
     </channel>
