@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 07:51:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 07:51:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Open Source Projects Are Transforming Machine Learning and AI]]></title>
+            <description><![CDATA[<article><h1>Open Source Projects Are Transforming Machine Learning and AI</h1><p>Machine learning and artificial intelligence have quickly gained traction with the public through applications such as Apple's Siri and Microsoft's Cortana. The true promise of these disciplines, though, extends far beyond simple speech recognition performed on our smartphones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6506fb638948c71d73300c0f36cb6e3ee49faea3.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229301</link>
+            <guid isPermaLink="false">88df9eff-ace8-41ad-9b2f-9376c56406fc</guid>
+            <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The AMDGPU Additions For Linux 4.7 Are Enormous - Phoronix]]></title>
+            <description><![CDATA[<article><h1>The AMDGPU Additions For Linux 4.7 Are Enormous - Phoronix</h1><p>More AMDGPU DRM driver changes have been queued up for the Linux 4.7 kernel merge window that's expected to open next week. Last week was when AMD's Alex Deucher aligned the first PR of Radeon/AMDGPU updates for Linux 4.7.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1e926ed42fe0ff9e47ce87c6c2fe4936ff0a735.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=AMDGPU-Linux-4.7-Is-Big</link>
+            <guid isPermaLink="false">a67c11e7-7d79-4ac8-9e1b-e288a58493c5</guid>
+            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Italian Military to Save Up to 29 Million Euro by Migrating to LibreOffice]]></title>
@@ -61,20 +75,6 @@
             <link>http://lxer.com/module/newswire/ext_link.php?rid=229385</link>
             <guid isPermaLink="false">367dd5d6-1bf5-42f2-8df2-91c3a968b56f</guid>
             <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is what a root debug backdoor in a Linux kernel looks like]]></title>
-            <description><![CDATA[<article><h1>This is what a root debug backdoor in a Linux kernel looks like</h1><p>A root backdoor for debugging ARM-powered Android gadgets managed to end up in shipped firmware - and we're surprised this sort of colossal blunder doesn't happen more often. The howler is the work of Chinese ARM SoC-maker Allwinner, which wrote its own kernel code underneath a custom Android build for its devices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76c0916798333a01b23313c09748248311c91753.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229267</link>
-            <guid isPermaLink="false">dad469cd-9b25-4edd-8a19-61ad5b956505</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ODPi Won't Fork Hadoop, Pledges Support for Apache Software Foundation with New Gold Sponsorship]]></title>
-            <description><![CDATA[<article><h1>ODPi Won't Fork Hadoop, Pledges Support for Apache Software Foundation with New Gold Sponsorship</h1><p>The folks at the Open Data Platform Initiative (ODPi) have heard the concerns and the criticisms of the Hadoop community, and today John Mertic, the standards organization's Director of Program Management, took to Apache Big Data in Vancouver to clear the air.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e638b87a27d4c45a2d4f16cd7e2610e09fcc96b.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229382</link>
-            <guid isPermaLink="false">4549b207-6f42-4556-94cc-c02bfbe199a9</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
