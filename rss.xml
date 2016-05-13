@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 07:49:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 07:50:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,34 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Long Will Desktop Linux Last?]]></title>
+            <description><![CDATA[<article><h1>How Long Will Desktop Linux Last?</h1><p>I've been a desktop Linux user for seventeen years. For eight of those years, I haven't had a copy of Windows installed on any machine in the house. Under the circumstances, I can easily drift into thinking that Linux and free software represent the whole of computing, and possibly its future as well.</p></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229411</link>
+            <guid isPermaLink="false">bfefacfd-b689-40d5-989b-da867475c9f8</guid>
+            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plasma 5.6 Makes KDE Plasma Desktop Environment More Powerful, Beautiful And Useful﻿]]></title>
+            <description><![CDATA[<article><h1>Plasma 5.6 Makes KDE Plasma Desktop Environment More Powerful, Beautiful And Useful﻿</h1><p>Plasma has always been the talk of the town for its sleek and cutting edge look. KDE Plasma among all other Linux Desktop Environments have always stood out for its continuous development. The latest release of KDE Plasma is 5.6 which includes some new features, tweaks and fixes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05b753d29af62cfb2713f57a26361ded593b2246.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229406</link>
+            <guid isPermaLink="false">e3ef8da1-04b5-459c-94cc-3e694ecd1384</guid>
+            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD Open-Sources Compressonator Project - Phoronix]]></title>
+            <description><![CDATA[<article><h1>AMD Open-Sources Compressonator Project - Phoronix</h1><p>The latest open-source fruits of AMD's GPUOpen project is the Compressonator. AMD Compressonator is also known formerly as just "AMD Compress" and was a closed-source compression tool available to developers. Compressonator is about compressing textures and creating mip-map levels. The tool is designed around DXTn/S3TC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1e926ed42fe0ff9e47ce87c6c2fe4936ff0a735.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Compress-Open-Source</link>
+            <guid isPermaLink="false">fe3a70be-87f8-4a36-aae8-a5c6cc76ba94</guid>
+            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GNOME 3.20.2 Released As Last Update To GNOME 3.20 - Phoronix]]></title>
+            <description><![CDATA[<article><h1>GNOME 3.20.2 Released As Last Update To GNOME 3.20 - Phoronix</h1><p>Frederic Peters announced the release today of GNOME 3.20.2 as the second and last planned point release for the GNOME 3.20 series. GNOME 3.20.2 has fixes for NetworkManager, Epiphany, file-roller, GNOME Shell, Mutter, Nautilus, GTK+, and more. Beyond the many bug fixes throughout the stack are also a number of translation updates.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/520ee13271ab02515bc652f8d6220a4dfb281d18.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=GNOME-3.20.2-Released</link>
+            <guid isPermaLink="false">eb1eea88-9e2c-4f9f-912a-d654b4aeef3e</guid>
+            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Streams vs. GBM: The Fight Continues Over NVIDIA's Proposed Wayland Route - Phoronix]]></title>
@@ -47,34 +75,6 @@
             <link>http://lxer.com/module/newswire/ext_link.php?rid=229428</link>
             <guid isPermaLink="false">1b728e1d-58f7-4a27-93ee-03d093fb0eca</guid>
             <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Siri Creators Offer First Demo of 'Viv', The Self-Coding Voice Assistant]]></title>
-            <description><![CDATA[<article><h1>Siri Creators Offer First Demo of 'Viv', The Self-Coding Voice Assistant</h1><p>Siri co-founders Dag Kittlaus and Adam Cheyer have offered their first public demonstration of Viv, the much-anticipated voice assistant that promises an advanced level of human-computer interaction. The demo took place yesterday at TechCrunch 's Disrupt NY event, where Viv's creators wasted no time showing what the new AI bot is capable of.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4904d5d2bae82c56028fd37d4ac9c63fb3e0bc23.jpg"></article>]]></description>
-            <link>http://www.macrumors.com/2016/05/10/siri-creators-demo-viv-voice-assistant/?utm_source=feedly&amp;utm_medium=webfeeds</link>
-            <guid isPermaLink="false">596f70dc-cdcd-4f46-9f85-11fef707f62d</guid>
-            <pubDate>Tue, 10 May 2016 10:37:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mesa 11.2.2 3D Graphics Library Released with Big Endian Support for Radeon]]></title>
-            <description><![CDATA[<article><h1>Mesa 11.2.2 3D Graphics Library Released with Big Endian Support for Radeon</h1><p>Collabora's Emil Velikov has just announced today, May 9, the immediate availability for download of the second maintenance release in the latest stable series of the Mesa 3D Graphics Library. Mesa 3D 11.2.2 is now the most advanced version of the graphical library used by default in numerous GNU/Linux operating systems for providing an open-source implementation of the OpenGL specification, containing video drivers for Nvidia, Intel, and AMD graphics cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54aa06c34ca2af35fe14200f8f6dfbed4de5dc96.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229236</link>
-            <guid isPermaLink="false">3774a9b4-c178-49e3-a3e1-63db73c42bbe</guid>
-            <pubDate>Tue, 10 May 2016 10:37:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Xiaomi's biggest phone yet is the giant MiMax]]></title>
-            <description><![CDATA[<article><h1>Xiaomi's biggest phone yet is the giant MiMax</h1><p>Xiaomi has announced the MiMax, just a few days after Chinese regulatory authorities announced the 6.4-inch phone themselves. It's the company's biggest phone yet, but the claim is that it has a "slim 7.5mm body that fits in your pocket."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7ac120200512857494e82964064888393f69086.jpg"></article>]]></description>
-            <link>http://www.theverge.com/circuitbreaker/2016/5/10/11648034/xiaomi-mimax-announcement-specs-price</link>
-            <guid isPermaLink="false">eb532238-df31-4167-881c-cee30f9aba3c</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LXer: The May 2016 Issue of the PCLinuxOS Magazine]]></title>
-            <description><![CDATA[<article><h1>LXer: The May 2016 Issue of the PCLinuxOS Magazine</h1><p>With the exception of a brief period in 2009, The PCLinuxOS Magazine has been published on a monthly basis since September, 2006. The PCLinuxOS Magazine is a product of the PCLinuxOS community, published by volunteers from the community. The magazine is lead by Paul Arnote, Chief Editor, and Assistant Editor Meemaw.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fab782102c56541fa3054cc30e982384bad50734.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/view/229163/index.html</link>
-            <guid isPermaLink="false">77928793-7f7b-4af8-8439-97744673aeb2</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
