@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 07:50:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 07:50:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -14,67 +14,67 @@
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Plasma 5.6 Makes KDE Plasma Desktop Environment More Powerful, Beautiful And Useful﻿]]></title>
-            <description><![CDATA[<article><h1>Plasma 5.6 Makes KDE Plasma Desktop Environment More Powerful, Beautiful And Useful﻿</h1><p>Plasma has always been the talk of the town for its sleek and cutting edge look. KDE Plasma among all other Linux Desktop Environments have always stood out for its continuous development. The latest release of KDE Plasma is 5.6 which includes some new features, tweaks and fixes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05b753d29af62cfb2713f57a26361ded593b2246.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229406</link>
-            <guid isPermaLink="false">e3ef8da1-04b5-459c-94cc-3e694ecd1384</guid>
+            <title><![CDATA[Intel Is Preparing A Major Restructuring Of Their Graphics Driver - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Intel Is Preparing A Major Restructuring Of Their Graphics Driver - Phoronix</h1><p>Intel is brewing a makeover of their graphics driver stack through a large restructuring and consolidating initiative that will be formally announced in the coming weeks. Up to now Intel's Windows and Linux graphics drivers have been isolated from one another with being developed by different teams at the company.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a79605cf0df367f245bde902dd9e887394ae81b.php"></article>]]></description>
+            <link>http://www.phoronix.com/vr.php?view=23163</link>
+            <guid isPermaLink="false">549d61b8-f040-4edf-87be-d854732f51ab</guid>
+            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the Rise: Six Unsung Apache Big Data Projects]]></title>
+            <description><![CDATA[<article><h1>On the Rise: Six Unsung Apache Big Data Projects</h1><p>Countless organizations around the world are now working with data sets so large and complex that traditional data processing applications can no longer drive optimized analytics and insights. That's the problem that the new wave of Big Data applications aims to solve, and the Apache Software Foundation (ASF) has recently graduated a slew of interesting open source Big Data projects to Top-Level status.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/263e6ae8638a0027fd3b24a01a39fd8fb639977e.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229335</link>
+            <guid isPermaLink="false">90db1a00-40ca-4ab0-b1cf-eec86d5d2e47</guid>
+            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Linux will be the major operating system of 21st century cars | ZDNet]]></title>
+            <description><![CDATA[<article><h1>Linux will be the major operating system of 21st century cars | ZDNet</h1><p>Linux doesn't just run your servers and, via Android, your phones. It also runs your cars. Of course, no one has ever bought a car for its operating system. But Linux is already powering the infotainment, heads-up display and connected car 4G and Wi-Fi systems for such major car manufacturers as Toyota, Nissan, and Jaguar Land Rover and Linux is on its way to Ford, Mazda, Mitsubishi, and Subaru cars.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2347ca7f07ed39e261c3bbd8bac7af0c47f013bf.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229332</link>
+            <guid isPermaLink="false">70979e66-0514-4a09-8c31-f90a4877bfae</guid>
+            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mozilla Thunderbird 45.1.0 Released for GNU/Linux, Windows, and Mac OS X]]></title>
+            <description><![CDATA[<article><h1>Mozilla Thunderbird 45.1.0 Released for GNU/Linux, Windows, and Mac OS X</h1><p>Today, May 11, 2016, Mozilla quietly pushed the first maintenance version of the Mozilla Thunderbird 45 email, news, and calendar client to users of Linux, OS X, and Windows operating systems. Mozilla Thunderbird 45.1.0 arrives exactly one month after the release of the major Thunderbird 45.0 version, which finally brought GTK3 integration for GNU/Linux systems, as well as multiple improvements and new capabilities, to address a total of seven issues reported by users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd0cfef2ffd8c4a264f2ee54094b2155a2bc3b5b.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229385</link>
+            <guid isPermaLink="false">367dd5d6-1bf5-42f2-8df2-91c3a968b56f</guid>
+            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is what a root debug backdoor in a Linux kernel looks like]]></title>
+            <description><![CDATA[<article><h1>This is what a root debug backdoor in a Linux kernel looks like</h1><p>A root backdoor for debugging ARM-powered Android gadgets managed to end up in shipped firmware - and we're surprised this sort of colossal blunder doesn't happen more often. The howler is the work of Chinese ARM SoC-maker Allwinner, which wrote its own kernel code underneath a custom Android build for its devices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76c0916798333a01b23313c09748248311c91753.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229267</link>
+            <guid isPermaLink="false">dad469cd-9b25-4edd-8a19-61ad5b956505</guid>
             <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AMD Open-Sources Compressonator Project - Phoronix]]></title>
-            <description><![CDATA[<article><h1>AMD Open-Sources Compressonator Project - Phoronix</h1><p>The latest open-source fruits of AMD's GPUOpen project is the Compressonator. AMD Compressonator is also known formerly as just "AMD Compress" and was a closed-source compression tool available to developers. Compressonator is about compressing textures and creating mip-map levels. The tool is designed around DXTn/S3TC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1e926ed42fe0ff9e47ce87c6c2fe4936ff0a735.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Compress-Open-Source</link>
-            <guid isPermaLink="false">fe3a70be-87f8-4a36-aae8-a5c6cc76ba94</guid>
+            <title><![CDATA[ODPi Won't Fork Hadoop, Pledges Support for Apache Software Foundation with New Gold Sponsorship]]></title>
+            <description><![CDATA[<article><h1>ODPi Won't Fork Hadoop, Pledges Support for Apache Software Foundation with New Gold Sponsorship</h1><p>The folks at the Open Data Platform Initiative (ODPi) have heard the concerns and the criticisms of the Hadoop community, and today John Mertic, the standards organization's Director of Program Management, took to Apache Big Data in Vancouver to clear the air.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e638b87a27d4c45a2d4f16cd7e2610e09fcc96b.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229382</link>
+            <guid isPermaLink="false">4549b207-6f42-4556-94cc-c02bfbe199a9</guid>
             <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[GNOME 3.20.2 Released As Last Update To GNOME 3.20 - Phoronix]]></title>
-            <description><![CDATA[<article><h1>GNOME 3.20.2 Released As Last Update To GNOME 3.20 - Phoronix</h1><p>Frederic Peters announced the release today of GNOME 3.20.2 as the second and last planned point release for the GNOME 3.20 series. GNOME 3.20.2 has fixes for NetworkManager, Epiphany, file-roller, GNOME Shell, Mutter, Nautilus, GTK+, and more. Beyond the many bug fixes throughout the stack are also a number of translation updates.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/520ee13271ab02515bc652f8d6220a4dfb281d18.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=GNOME-3.20.2-Released</link>
-            <guid isPermaLink="false">eb1eea88-9e2c-4f9f-912a-d654b4aeef3e</guid>
+            <title><![CDATA[On the stand, Google's Eric Schmidt says Sun had no problems with Android]]></title>
+            <description><![CDATA[<article><h1>On the stand, Google's Eric Schmidt says Sun had no problems with Android</h1><p>SAN FRANCISCO-Alphabet Chairman and former Google CEO Eric Schmidt testified in a federal court here today, hoping to overcome a lawsuit from Oracle accusing his company of violating copyright law. During an hour of questioning by Google lawyer Robert Van Nest, Schmidt discussed his early days at Google and the beginnings of Android.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bda9ecc0ae65bd8053f66ee0ec7995391309926.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229380</link>
+            <guid isPermaLink="false">995810df-792e-4384-bd03-2c2587b14c2e</guid>
             <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Streams vs. GBM: The Fight Continues Over NVIDIA's Proposed Wayland Route - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Streams vs. GBM: The Fight Continues Over NVIDIA's Proposed Wayland Route - Phoronix</h1><p>It's been over one month since NVIDIA presented their proposed Weston patches for supporting Wayland with NVIDIA's Linux binary driver but the discussion over their proposed approach remains heated. NVIDIA's proposed changes for Wayland compositors has been rather controversial and largely comes down to the current compositors relying upon the GBM (Generic Buffer Manager) versus the approach preferred by NVIDIA of utilizing EGLStreams and friends.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5674a5805f77503bd75a99878c396ec20f337483.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Streams-vs-GBM-Toolkits</link>
-            <guid isPermaLink="false">666b22df-5891-428d-9fb8-cc52a3b31ae2</guid>
-            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
+            <title><![CDATA[Firefox for iOS Makes it Faster and Easier to Use the Mobile Web the Way You Want]]></title>
+            <description><![CDATA[<article><h1>Firefox for iOS Makes it Faster and Easier to Use the Mobile Web the Way You Want</h1><p>We're always focused on making the best Firefox experience we can offer. We want to give you complete control over your web experience, while also making sure to protect your privacy and security the best we can.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62c078ad00538ab20c3cca9f80782150fac7f197.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229376</link>
+            <guid isPermaLink="false">c955d3a3-070e-48c9-9ce9-948965cd16eb</guid>
+            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Intel Loses Another Longtime Open-Source Graphics Driver Developer - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Intel Loses Another Longtime Open-Source Graphics Driver Developer - Phoronix</h1><p>When working on the story this week about Intel Is Preparing A Major Restructuring Of Their Graphics Driver, I found out another bit of information worth relaying: a longtime contributor to the Intel Linux graphics driver stack has left the company to focus on a new venture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d66dfc8794eaea1a4d01114ed8a008f5c3d19048.php"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=JBarnes-No-Longer-At-Intel</link>
-            <guid isPermaLink="false">ef889621-f627-4f3a-96b7-6fd581fbe526</guid>
-            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here are the 10 New Ubuntu 16.04 LTS Features Every Ubuntu User Should Know - Ubuntu Portal]]></title>
-            <description><![CDATA[<article><h1>Here are the 10 New Ubuntu 16.04 LTS Features Every Ubuntu User Should Know - Ubuntu Portal</h1><p>Ubuntu 16.04 LTS Codenamed "Xenial Xerus" has arrived. After Six month developments, Canonical officially releases the new Ubuntu 16.04 LTS on April 21, 2016. It now available to download and install on PCs, laptops and netbooks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3a1fb00006497adbd7ab0b0db1b9819ad103d11.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229353</link>
-            <guid isPermaLink="false">bbfcc17e-5b61-4b6d-9978-9be89fabc922</guid>
-            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Self-Paced Online Course Preps SysAdmins for Linux Foundation Advanced Certification]]></title>
-            <description><![CDATA[<article><h1>New Self-Paced Online Course Preps SysAdmins for Linux Foundation Advanced Certification</h1><p>The Linux Foundation has launched a new self-paced, online course to help senior Linux sysadmins prepare for the advanced Linux Foundation Certified Engineer (LFCE) exam. The Linux Networking and Administration (LFS211) course gives students access to 40-50 hours of coursework, and more than 50 hands-on labs -- practical experience that translates to real-world situations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93a0e597bcb7bb5e0f1c7dc81cd29e92df6c2025.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229431</link>
-            <guid isPermaLink="false">2206351f-7a7b-4d86-b74d-1d2a0d984b05</guid>
-            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[$35 open source RK3288 hacker SBC hits Indiegogo]]></title>
-            <description><![CDATA[<article><h1>$35 open source RK3288 hacker SBC hits Indiegogo</h1><p>May 12, 2016 - by Eric Brown - 60 views A tiny open source "MiQi" SBC that runs Linux or Android on a Rockchip RK3288, with HDMI, GbE, four USB ports, and expansion headers has launched on Indiegogo. A Shenzhen startup led by Benn Huang called MQMaker launched an Indiegogo campaign for a MiQi hacker board.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c8faa92195d0b9bd7bd5876ea9543703e2cf6c4.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229428</link>
-            <guid isPermaLink="false">1b728e1d-58f7-4a27-93ee-03d093fb0eca</guid>
-            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Siri Creators Offer First Demo of 'Viv', The Self-Coding Voice Assistant]]></title>
-            <description><![CDATA[<article><h1>Siri Creators Offer First Demo of 'Viv', The Self-Coding Voice Assistant</h1><p>Siri co-founders Dag Kittlaus and Adam Cheyer have offered their first public demonstration of Viv, the much-anticipated voice assistant that promises an advanced level of human-computer interaction. The demo took place yesterday at TechCrunch 's Disrupt NY event, where Viv's creators wasted no time showing what the new AI bot is capable of.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4904d5d2bae82c56028fd37d4ac9c63fb3e0bc23.jpg"></article>]]></description>
-            <link>http://www.macrumors.com/2016/05/10/siri-creators-demo-viv-voice-assistant/?utm_source=feedly&amp;utm_medium=webfeeds</link>
-            <guid isPermaLink="false">596f70dc-cdcd-4f46-9f85-11fef707f62d</guid>
-            <pubDate>Tue, 10 May 2016 10:37:06 GMT</pubDate>
+            <title><![CDATA[PostgreSQL 9.6 Now In Beta With Parallel Queries - Phoronix]]></title>
+            <description><![CDATA[<article><h1>PostgreSQL 9.6 Now In Beta With Parallel Queries - Phoronix</h1><p>PostgreSQL 9.6 is now up to its beta stage with a number of new features. Recently I provided an early look at PostgreSQL 9.6 features. PostgreSQL 9.6 brings parallel query support, synchronous replication now supports multiple standby servers, full-text search for phrases, support for remote joins/sorts/updates, "substantial" performance improvements (especially for many-core servers), no more repetitive scans of old data by auto vacuum, and much more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=PostgreSQL-9.6-Beta</link>
+            <guid isPermaLink="false">108695ec-0b62-4e63-a0dc-20a14a8e24bc</guid>
+            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
