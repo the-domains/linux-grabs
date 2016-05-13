@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 07:50:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 07:51:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,55 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Italian Military to Save Up to 29 Million Euro by Migrating to LibreOffice]]></title>
+            <description><![CDATA[<article><h1>Italian Military to Save Up to 29 Million Euro by Migrating to LibreOffice</h1><p>Following on last year's bold announcement that they will attempt to migrate from proprietary Microsoft Office products to an open-source alternative like LibreOffice, Italy's Ministry of Defense now expects to save up to 29 million Euro with this move. We said it before, and we'll say it again, this is the smartest choice a government institution can do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc28a21dd273949f0049925fa8360d87d6bfa4f3.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229360</link>
+            <guid isPermaLink="false">0a0d87dc-d2a1-4f83-aec2-54f8746e8828</guid>
+            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An introduction to data processing with Cassandra and Spark]]></title>
+            <description><![CDATA[<article><h1>An introduction to data processing with Cassandra and Spark</h1><p>There's been a huge surge of interest around the Apache Cassandra database due to the increasing uptime and performance demands of modern cloud applications. So, what is Apache Cassandra? A distributed OLTP database built for high availability and linear scalability. When people ask what Cassandra is used for, think about the type of system you want close to the customer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da05f848c9187c0e3c7a7f46cd83968437d02a0e.png"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229356</link>
+            <guid isPermaLink="false">7e788176-422b-403d-993e-4d26b943ed7f</guid>
+            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unity3D working on SDL, Wayland and Mir support]]></title>
+            <description><![CDATA[<article><h1>Unity3D working on SDL, Wayland and Mir support</h1><p>The folks Unity3D are currently doing a "HackWeek" when they work on special projects. It looks like the Linux team are working on using SDL instead of X11 directly which will bring Mir & Wayland support amongst other things.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29fdd158f19d4565c4fef23f0c907e4085ab9318.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229361</link>
+            <guid isPermaLink="false">9242826b-61b5-471b-9ad4-c2131580266d</guid>
+            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Intel Is Preparing A Major Restructuring Of Their Graphics Driver - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Intel Is Preparing A Major Restructuring Of Their Graphics Driver - Phoronix</h1><p>Intel is brewing a makeover of their graphics driver stack through a large restructuring and consolidating initiative that will be formally announced in the coming weeks. Up to now Intel's Windows and Linux graphics drivers have been isolated from one another with being developed by different teams at the company.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a79605cf0df367f245bde902dd9e887394ae81b.php"></article>]]></description>
+            <link>http://www.phoronix.com/vr.php?view=23163</link>
+            <guid isPermaLink="false">549d61b8-f040-4edf-87be-d854732f51ab</guid>
+            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the Rise: Six Unsung Apache Big Data Projects]]></title>
+            <description><![CDATA[<article><h1>On the Rise: Six Unsung Apache Big Data Projects</h1><p>Countless organizations around the world are now working with data sets so large and complex that traditional data processing applications can no longer drive optimized analytics and insights. That's the problem that the new wave of Big Data applications aims to solve, and the Apache Software Foundation (ASF) has recently graduated a slew of interesting open source Big Data projects to Top-Level status.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/263e6ae8638a0027fd3b24a01a39fd8fb639977e.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229335</link>
+            <guid isPermaLink="false">90db1a00-40ca-4ab0-b1cf-eec86d5d2e47</guid>
+            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Linux will be the major operating system of 21st century cars | ZDNet]]></title>
+            <description><![CDATA[<article><h1>Linux will be the major operating system of 21st century cars | ZDNet</h1><p>Linux doesn't just run your servers and, via Android, your phones. It also runs your cars. Of course, no one has ever bought a car for its operating system. But Linux is already powering the infotainment, heads-up display and connected car 4G and Wi-Fi systems for such major car manufacturers as Toyota, Nissan, and Jaguar Land Rover and Linux is on its way to Ford, Mazda, Mitsubishi, and Subaru cars.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2347ca7f07ed39e261c3bbd8bac7af0c47f013bf.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229332</link>
+            <guid isPermaLink="false">70979e66-0514-4a09-8c31-f90a4877bfae</guid>
+            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mozilla Thunderbird 45.1.0 Released for GNU/Linux, Windows, and Mac OS X]]></title>
+            <description><![CDATA[<article><h1>Mozilla Thunderbird 45.1.0 Released for GNU/Linux, Windows, and Mac OS X</h1><p>Today, May 11, 2016, Mozilla quietly pushed the first maintenance version of the Mozilla Thunderbird 45 email, news, and calendar client to users of Linux, OS X, and Windows operating systems. Mozilla Thunderbird 45.1.0 arrives exactly one month after the release of the major Thunderbird 45.0 version, which finally brought GTK3 integration for GNU/Linux systems, as well as multiple improvements and new capabilities, to address a total of seven issues reported by users.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd0cfef2ffd8c4a264f2ee54094b2155a2bc3b5b.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229385</link>
+            <guid isPermaLink="false">367dd5d6-1bf5-42f2-8df2-91c3a968b56f</guid>
+            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This is what a root debug backdoor in a Linux kernel looks like]]></title>
@@ -25,55 +74,6 @@
             <description><![CDATA[<article><h1>ODPi Won't Fork Hadoop, Pledges Support for Apache Software Foundation with New Gold Sponsorship</h1><p>The folks at the Open Data Platform Initiative (ODPi) have heard the concerns and the criticisms of the Hadoop community, and today John Mertic, the standards organization's Director of Program Management, took to Apache Big Data in Vancouver to clear the air.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e638b87a27d4c45a2d4f16cd7e2610e09fcc96b.jpg"></article>]]></description>
             <link>http://lxer.com/module/newswire/ext_link.php?rid=229382</link>
             <guid isPermaLink="false">4549b207-6f42-4556-94cc-c02bfbe199a9</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On the stand, Google's Eric Schmidt says Sun had no problems with Android]]></title>
-            <description><![CDATA[<article><h1>On the stand, Google's Eric Schmidt says Sun had no problems with Android</h1><p>SAN FRANCISCO-Alphabet Chairman and former Google CEO Eric Schmidt testified in a federal court here today, hoping to overcome a lawsuit from Oracle accusing his company of violating copyright law. During an hour of questioning by Google lawyer Robert Van Nest, Schmidt discussed his early days at Google and the beginnings of Android.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bda9ecc0ae65bd8053f66ee0ec7995391309926.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229380</link>
-            <guid isPermaLink="false">995810df-792e-4384-bd03-2c2587b14c2e</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Firefox for iOS Makes it Faster and Easier to Use the Mobile Web the Way You Want]]></title>
-            <description><![CDATA[<article><h1>Firefox for iOS Makes it Faster and Easier to Use the Mobile Web the Way You Want</h1><p>We're always focused on making the best Firefox experience we can offer. We want to give you complete control over your web experience, while also making sure to protect your privacy and security the best we can.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62c078ad00538ab20c3cca9f80782150fac7f197.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229376</link>
-            <guid isPermaLink="false">c955d3a3-070e-48c9-9ce9-948965cd16eb</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PostgreSQL 9.6 Now In Beta With Parallel Queries - Phoronix]]></title>
-            <description><![CDATA[<article><h1>PostgreSQL 9.6 Now In Beta With Parallel Queries - Phoronix</h1><p>PostgreSQL 9.6 is now up to its beta stage with a number of new features. Recently I provided an early look at PostgreSQL 9.6 features. PostgreSQL 9.6 brings parallel query support, synchronous replication now supports multiple standby servers, full-text search for phrases, support for remote joins/sorts/updates, "substantial" performance improvements (especially for many-core servers), no more repetitive scans of old data by auto vacuum, and much more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=PostgreSQL-9.6-Beta</link>
-            <guid isPermaLink="false">108695ec-0b62-4e63-a0dc-20a14a8e24bc</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FP64 / OpenGL 4.2 Is Close To Being Finished Up In Intel Mesa - Phoronix]]></title>
-            <description><![CDATA[<article><h1>FP64 / OpenGL 4.2 Is Close To Being Finished Up In Intel Mesa - Phoronix</h1><p>The latest patches from Igalia have been published for finishing up the ARB_gpu_shader_fp64 implementation within Intel's Mesa driver, which would bring it into supporting OpenGL 4.2 (thanks to the other extensions already being completed) for the latest generations of Intel hardware.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d18e4ea81c3ef1f341007da4cbe9a3363542e8b4.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-V2-FP64-Mesa-GL-4.2</link>
-            <guid isPermaLink="false">c4d57a4b-78f1-432a-a16e-18849246755e</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Long Will Desktop Linux Last?]]></title>
-            <description><![CDATA[<article><h1>How Long Will Desktop Linux Last?</h1><p>I've been a desktop Linux user for seventeen years. For eight of those years, I haven't had a copy of Windows installed on any machine in the house. Under the circumstances, I can easily drift into thinking that Linux and free software represent the whole of computing, and possibly its future as well.</p></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229411</link>
-            <guid isPermaLink="false">bfefacfd-b689-40d5-989b-da867475c9f8</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Threaded Input Has Been Revised Again For The X.Org Server - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Threaded Input Has Been Revised Again For The X.Org Server - Phoronix</h1><p>Going back six years has been work on bringing threaded input to the X.Org Server whereby the input event code would run on its own CPU thread. The work has yet to be merged in full, but Keith Packard has now revised the patches.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cadcf9af1bb1af59e060df6e357edbe667194a2.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Xorg-Threaded-Input-2016</link>
-            <guid isPermaLink="false">ef335af7-41cc-45d6-8a97-e2ba2a3b7cf1</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Plasma 5.6 Makes KDE Plasma Desktop Environment More Powerful, Beautiful And Useful﻿]]></title>
-            <description><![CDATA[<article><h1>Plasma 5.6 Makes KDE Plasma Desktop Environment More Powerful, Beautiful And Useful﻿</h1><p>Plasma has always been the talk of the town for its sleek and cutting edge look. KDE Plasma among all other Linux Desktop Environments have always stood out for its continuous development. The latest release of KDE Plasma is 5.6 which includes some new features, tweaks and fixes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05b753d29af62cfb2713f57a26361ded593b2246.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229406</link>
-            <guid isPermaLink="false">e3ef8da1-04b5-459c-94cc-3e694ecd1384</guid>
             <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
         </item>
     </channel>
