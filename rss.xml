@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 10:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 07:49:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -14,10 +14,38 @@
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Here are the 10 New Ubuntu 16.04 LTS Features Every Ubuntu User Should Know - Ubuntu Portal]]></title>
+            <description><![CDATA[<article><h1>Here are the 10 New Ubuntu 16.04 LTS Features Every Ubuntu User Should Know - Ubuntu Portal</h1><p>Ubuntu 16.04 LTS Codenamed "Xenial Xerus" has arrived. After Six month developments, Canonical officially releases the new Ubuntu 16.04 LTS on April 21, 2016. It now available to download and install on PCs, laptops and netbooks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3a1fb00006497adbd7ab0b0db1b9819ad103d11.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229353</link>
+            <guid isPermaLink="false">bbfcc17e-5b61-4b6d-9978-9be89fabc922</guid>
+            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Self-Paced Online Course Preps SysAdmins for Linux Foundation Advanced Certification]]></title>
+            <description><![CDATA[<article><h1>New Self-Paced Online Course Preps SysAdmins for Linux Foundation Advanced Certification</h1><p>The Linux Foundation has launched a new self-paced, online course to help senior Linux sysadmins prepare for the advanced Linux Foundation Certified Engineer (LFCE) exam. The Linux Networking and Administration (LFS211) course gives students access to 40-50 hours of coursework, and more than 50 hands-on labs -- practical experience that translates to real-world situations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93a0e597bcb7bb5e0f1c7dc81cd29e92df6c2025.png"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229431</link>
+            <guid isPermaLink="false">2206351f-7a7b-4d86-b74d-1d2a0d984b05</guid>
+            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[$35 open source RK3288 hacker SBC hits Indiegogo]]></title>
+            <description><![CDATA[<article><h1>$35 open source RK3288 hacker SBC hits Indiegogo</h1><p>May 12, 2016 - by Eric Brown - 60 views A tiny open source "MiQi" SBC that runs Linux or Android on a Rockchip RK3288, with HDMI, GbE, four USB ports, and expansion headers has launched on Indiegogo. A Shenzhen startup led by Benn Huang called MQMaker launched an Indiegogo campaign for a MiQi hacker board.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c8faa92195d0b9bd7bd5876ea9543703e2cf6c4.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229428</link>
+            <guid isPermaLink="false">1b728e1d-58f7-4a27-93ee-03d093fb0eca</guid>
+            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Siri Creators Offer First Demo of 'Viv', The Self-Coding Voice Assistant]]></title>
             <description><![CDATA[<article><h1>Siri Creators Offer First Demo of 'Viv', The Self-Coding Voice Assistant</h1><p>Siri co-founders Dag Kittlaus and Adam Cheyer have offered their first public demonstration of Viv, the much-anticipated voice assistant that promises an advanced level of human-computer interaction. The demo took place yesterday at TechCrunch 's Disrupt NY event, where Viv's creators wasted no time showing what the new AI bot is capable of.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4904d5d2bae82c56028fd37d4ac9c63fb3e0bc23.jpg"></article>]]></description>
             <link>http://www.macrumors.com/2016/05/10/siri-creators-demo-viv-voice-assistant/?utm_source=feedly&amp;utm_medium=webfeeds</link>
             <guid isPermaLink="false">596f70dc-cdcd-4f46-9f85-11fef707f62d</guid>
+            <pubDate>Tue, 10 May 2016 10:37:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mesa 11.2.2 3D Graphics Library Released with Big Endian Support for Radeon]]></title>
+            <description><![CDATA[<article><h1>Mesa 11.2.2 3D Graphics Library Released with Big Endian Support for Radeon</h1><p>Collabora's Emil Velikov has just announced today, May 9, the immediate availability for download of the second maintenance release in the latest stable series of the Mesa 3D Graphics Library. Mesa 3D 11.2.2 is now the most advanced version of the graphical library used by default in numerous GNU/Linux operating systems for providing an open-source implementation of the OpenGL specification, containing video drivers for Nvidia, Intel, and AMD graphics cards.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54aa06c34ca2af35fe14200f8f6dfbed4de5dc96.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229236</link>
+            <guid isPermaLink="false">3774a9b4-c178-49e3-a3e1-63db73c42bbe</guid>
             <pubDate>Tue, 10 May 2016 10:37:06 GMT</pubDate>
         </item>
         <item>
@@ -46,34 +74,6 @@
             <description><![CDATA[<article><h1>Debian's i386 Builds Now Require 686-Class CPUs - Phoronix</h1><p>Those running any old VIA C3, AMD K5/K6, or original Intel Pentium CPUs, you'll be losing your Debian support past the current stable (Jessie) series. The Debian i386 architecture builds now require an i686 class processor for Debian testing (affecting Debian Stretch) and future builds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cda6e410c3c7d71a9de4880b232a3a260aa1ef8.php"></article>]]></description>
             <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Debian-686-For-i386-CPUs</link>
             <guid isPermaLink="false">cfee82d3-5a43-41ba-9cac-ec55a36b899d</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Is What the New Linux Mint 18 Cinnamon Theme Looks Like]]></title>
-            <description><![CDATA[<article><h1>This Is What the New Linux Mint 18 Cinnamon Theme Looks Like</h1><p>Linux Mint project leader and maintainer Clement Lefebvre dropped some exciting news today about what users should expect from the upcoming Linux Mint 18 "Sarah" operating system. Last month we talked about Linux Mint 18 "Sarah" and about the fact that it will ship with the Cinnamon 3.0 and MATE 1.14 desktop environments, as well as with a brand-new and long-anticipated design, based on the very popular Arc GTK theme.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/054901f568cf50c387307e80ca2e2bfeccc5b483.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229166</link>
-            <guid isPermaLink="false">8832b0ba-3e23-4326-beeb-da260624b27f</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Early Look At The Features Of PostgreSQL 9.6 - Phoronix]]></title>
-            <description><![CDATA[<article><h1>An Early Look At The Features Of PostgreSQL 9.6 - Phoronix</h1><p>PostgreSQL 9.6 isn't being released until later this year, but with it moving along, the release notes are starting to be assembled for this next major update to this open-source SQL server implementation. This week added to PostgreSQL Git was the start of the 9.6 release notes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=PostgreSQL-9.6-Early-Look</link>
-            <guid isPermaLink="false">562b0df0-b9ea-4d80-a4f6-e6e2148f76b6</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft half-bricks Asus Windows 7 PCs with UEFI boot glitch]]></title>
-            <description><![CDATA[<article><h1>Microsoft half-bricks Asus Windows 7 PCs with UEFI boot glitch</h1><p>A recent Windows 7 update partially bricks computers that have an Asus motherboard fitted, it emerged this week. Windows 7 machines that have installed Microsoft's KB3133977 update may trigger a "secure boot violation" during startup, preventing the PC from loading the operating system, Asus said.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d38bafb17ac26eeb4b2ed3042c254ff581a5e9d3.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229168</link>
-            <guid isPermaLink="false">272a4ea5-d609-4f63-978b-89a12c10419c</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Server Monitoring with Munin and Monit on Ubuntu 16.04 LTS]]></title>
-            <description><![CDATA[<article><h1>Server Monitoring with Munin and Monit on Ubuntu 16.04 LTS</h1><p>This tutorial will show you how to monitor an Ubuntu 16.04 server with Munin and Monit. Munin produces nice graphs about nearly every aspect of your server, whereas Monit checks the availability of services like Apache, MySQL, Postfix and takes the appropriate action such as a restart if it finds a service is not behaving as expected.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/05367fcb3ec45190a3366bb38735ec59177164a1.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229158</link>
-            <guid isPermaLink="false">903cc63b-bd57-4fca-acdb-742907f561ea</guid>
             <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
         </item>
     </channel>
