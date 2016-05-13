@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 07:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 07:50:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,27 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ODPi Won't Fork Hadoop, Pledges Support for Apache Software Foundation with New Gold Sponsorship]]></title>
+            <description><![CDATA[<article><h1>ODPi Won't Fork Hadoop, Pledges Support for Apache Software Foundation with New Gold Sponsorship</h1><p>The folks at the Open Data Platform Initiative (ODPi) have heard the concerns and the criticisms of the Hadoop community, and today John Mertic, the standards organization's Director of Program Management, took to Apache Big Data in Vancouver to clear the air.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e638b87a27d4c45a2d4f16cd7e2610e09fcc96b.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229382</link>
+            <guid isPermaLink="false">4549b207-6f42-4556-94cc-c02bfbe199a9</guid>
+            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the stand, Google's Eric Schmidt says Sun had no problems with Android]]></title>
+            <description><![CDATA[<article><h1>On the stand, Google's Eric Schmidt says Sun had no problems with Android</h1><p>SAN FRANCISCO-Alphabet Chairman and former Google CEO Eric Schmidt testified in a federal court here today, hoping to overcome a lawsuit from Oracle accusing his company of violating copyright law. During an hour of questioning by Google lawyer Robert Van Nest, Schmidt discussed his early days at Google and the beginnings of Android.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bda9ecc0ae65bd8053f66ee0ec7995391309926.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229380</link>
+            <guid isPermaLink="false">995810df-792e-4384-bd03-2c2587b14c2e</guid>
+            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Firefox for iOS Makes it Faster and Easier to Use the Mobile Web the Way You Want]]></title>
+            <description><![CDATA[<article><h1>Firefox for iOS Makes it Faster and Easier to Use the Mobile Web the Way You Want</h1><p>We're always focused on making the best Firefox experience we can offer. We want to give you complete control over your web experience, while also making sure to protect your privacy and security the best we can.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62c078ad00538ab20c3cca9f80782150fac7f197.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229376</link>
+            <guid isPermaLink="false">c955d3a3-070e-48c9-9ce9-948965cd16eb</guid>
+            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PostgreSQL 9.6 Now In Beta With Parallel Queries - Phoronix]]></title>
@@ -54,27 +75,6 @@
             <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Compress-Open-Source</link>
             <guid isPermaLink="false">fe3a70be-87f8-4a36-aae8-a5c6cc76ba94</guid>
             <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GNOME 3.20.2 Released As Last Update To GNOME 3.20 - Phoronix]]></title>
-            <description><![CDATA[<article><h1>GNOME 3.20.2 Released As Last Update To GNOME 3.20 - Phoronix</h1><p>Frederic Peters announced the release today of GNOME 3.20.2 as the second and last planned point release for the GNOME 3.20 series. GNOME 3.20.2 has fixes for NetworkManager, Epiphany, file-roller, GNOME Shell, Mutter, Nautilus, GTK+, and more. Beyond the many bug fixes throughout the stack are also a number of translation updates.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/520ee13271ab02515bc652f8d6220a4dfb281d18.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=GNOME-3.20.2-Released</link>
-            <guid isPermaLink="false">eb1eea88-9e2c-4f9f-912a-d654b4aeef3e</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Streams vs. GBM: The Fight Continues Over NVIDIA's Proposed Wayland Route - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Streams vs. GBM: The Fight Continues Over NVIDIA's Proposed Wayland Route - Phoronix</h1><p>It's been over one month since NVIDIA presented their proposed Weston patches for supporting Wayland with NVIDIA's Linux binary driver but the discussion over their proposed approach remains heated. NVIDIA's proposed changes for Wayland compositors has been rather controversial and largely comes down to the current compositors relying upon the GBM (Generic Buffer Manager) versus the approach preferred by NVIDIA of utilizing EGLStreams and friends.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5674a5805f77503bd75a99878c396ec20f337483.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Streams-vs-GBM-Toolkits</link>
-            <guid isPermaLink="false">666b22df-5891-428d-9fb8-cc52a3b31ae2</guid>
-            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Intel Loses Another Longtime Open-Source Graphics Driver Developer - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Intel Loses Another Longtime Open-Source Graphics Driver Developer - Phoronix</h1><p>When working on the story this week about Intel Is Preparing A Major Restructuring Of Their Graphics Driver, I found out another bit of information worth relaying: a longtime contributor to the Intel Linux graphics driver stack has left the company to focus on a new venture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d66dfc8794eaea1a4d01114ed8a008f5c3d19048.php"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=JBarnes-No-Longer-At-Intel</link>
-            <guid isPermaLink="false">ef889621-f627-4f3a-96b7-6fd581fbe526</guid>
-            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
