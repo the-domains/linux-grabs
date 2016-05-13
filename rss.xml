@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 07:49:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 07:49:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,48 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD Open-Sources Compressonator Project - Phoronix]]></title>
+            <description><![CDATA[<article><h1>AMD Open-Sources Compressonator Project - Phoronix</h1><p>The latest open-source fruits of AMD's GPUOpen project is the Compressonator. AMD Compressonator is also known formerly as just "AMD Compress" and was a closed-source compression tool available to developers. Compressonator is about compressing textures and creating mip-map levels. The tool is designed around DXTn/S3TC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1e926ed42fe0ff9e47ce87c6c2fe4936ff0a735.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Compress-Open-Source</link>
+            <guid isPermaLink="false">fe3a70be-87f8-4a36-aae8-a5c6cc76ba94</guid>
+            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GNOME 3.20.2 Released As Last Update To GNOME 3.20 - Phoronix]]></title>
+            <description><![CDATA[<article><h1>GNOME 3.20.2 Released As Last Update To GNOME 3.20 - Phoronix</h1><p>Frederic Peters announced the release today of GNOME 3.20.2 as the second and last planned point release for the GNOME 3.20 series. GNOME 3.20.2 has fixes for NetworkManager, Epiphany, file-roller, GNOME Shell, Mutter, Nautilus, GTK+, and more. Beyond the many bug fixes throughout the stack are also a number of translation updates.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/520ee13271ab02515bc652f8d6220a4dfb281d18.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=GNOME-3.20.2-Released</link>
+            <guid isPermaLink="false">eb1eea88-9e2c-4f9f-912a-d654b4aeef3e</guid>
+            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Streams vs. GBM: The Fight Continues Over NVIDIA's Proposed Wayland Route - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Streams vs. GBM: The Fight Continues Over NVIDIA's Proposed Wayland Route - Phoronix</h1><p>It's been over one month since NVIDIA presented their proposed Weston patches for supporting Wayland with NVIDIA's Linux binary driver but the discussion over their proposed approach remains heated. NVIDIA's proposed changes for Wayland compositors has been rather controversial and largely comes down to the current compositors relying upon the GBM (Generic Buffer Manager) versus the approach preferred by NVIDIA of utilizing EGLStreams and friends.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5674a5805f77503bd75a99878c396ec20f337483.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Streams-vs-GBM-Toolkits</link>
+            <guid isPermaLink="false">666b22df-5891-428d-9fb8-cc52a3b31ae2</guid>
+            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Intel Loses Another Longtime Open-Source Graphics Driver Developer - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Intel Loses Another Longtime Open-Source Graphics Driver Developer - Phoronix</h1><p>When working on the story this week about Intel Is Preparing A Major Restructuring Of Their Graphics Driver, I found out another bit of information worth relaying: a longtime contributor to the Intel Linux graphics driver stack has left the company to focus on a new venture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d66dfc8794eaea1a4d01114ed8a008f5c3d19048.php"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=JBarnes-No-Longer-At-Intel</link>
+            <guid isPermaLink="false">ef889621-f627-4f3a-96b7-6fd581fbe526</guid>
+            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here are the 10 New Ubuntu 16.04 LTS Features Every Ubuntu User Should Know - Ubuntu Portal]]></title>
+            <description><![CDATA[<article><h1>Here are the 10 New Ubuntu 16.04 LTS Features Every Ubuntu User Should Know - Ubuntu Portal</h1><p>Ubuntu 16.04 LTS Codenamed "Xenial Xerus" has arrived. After Six month developments, Canonical officially releases the new Ubuntu 16.04 LTS on April 21, 2016. It now available to download and install on PCs, laptops and netbooks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3a1fb00006497adbd7ab0b0db1b9819ad103d11.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229353</link>
+            <guid isPermaLink="false">bbfcc17e-5b61-4b6d-9978-9be89fabc922</guid>
+            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Self-Paced Online Course Preps SysAdmins for Linux Foundation Advanced Certification]]></title>
+            <description><![CDATA[<article><h1>New Self-Paced Online Course Preps SysAdmins for Linux Foundation Advanced Certification</h1><p>The Linux Foundation has launched a new self-paced, online course to help senior Linux sysadmins prepare for the advanced Linux Foundation Certified Engineer (LFCE) exam. The Linux Networking and Administration (LFS211) course gives students access to 40-50 hours of coursework, and more than 50 hands-on labs -- practical experience that translates to real-world situations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93a0e597bcb7bb5e0f1c7dc81cd29e92df6c2025.png"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229431</link>
+            <guid isPermaLink="false">2206351f-7a7b-4d86-b74d-1d2a0d984b05</guid>
+            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[$35 open source RK3288 hacker SBC hits Indiegogo]]></title>
@@ -33,48 +75,6 @@
             <link>http://lxer.com/module/newswire/ext_link.php?rid=229236</link>
             <guid isPermaLink="false">3774a9b4-c178-49e3-a3e1-63db73c42bbe</guid>
             <pubDate>Tue, 10 May 2016 10:37:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Xiaomi's biggest phone yet is the giant MiMax]]></title>
-            <description><![CDATA[<article><h1>Xiaomi's biggest phone yet is the giant MiMax</h1><p>Xiaomi has announced the MiMax, just a few days after Chinese regulatory authorities announced the 6.4-inch phone themselves. It's the company's biggest phone yet, but the claim is that it has a "slim 7.5mm body that fits in your pocket."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7ac120200512857494e82964064888393f69086.jpg"></article>]]></description>
-            <link>http://www.theverge.com/circuitbreaker/2016/5/10/11648034/xiaomi-mimax-announcement-specs-price</link>
-            <guid isPermaLink="false">eb532238-df31-4167-881c-cee30f9aba3c</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LXer: The May 2016 Issue of the PCLinuxOS Magazine]]></title>
-            <description><![CDATA[<article><h1>LXer: The May 2016 Issue of the PCLinuxOS Magazine</h1><p>With the exception of a brief period in 2009, The PCLinuxOS Magazine has been published on a monthly basis since September, 2006. The PCLinuxOS Magazine is a product of the PCLinuxOS community, published by volunteers from the community. The magazine is lead by Paul Arnote, Chief Editor, and Assistant Editor Meemaw.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fab782102c56541fa3054cc30e982384bad50734.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/view/229163/index.html</link>
-            <guid isPermaLink="false">77928793-7f7b-4af8-8439-97744673aeb2</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GCC 4.9 vs. GCC 5.3 vs. GCC 6.1 On A Debian Xeon E5 Linux System - Phoronix]]></title>
-            <description><![CDATA[<article><h1>GCC 4.9 vs. GCC 5.3 vs. GCC 6.1 On A Debian Xeon E5 Linux System - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b7e28e0aed42aa91fe350f83ab4fb27503e6716.php"></article>]]></description>
-            <link>http://www.phoronix.com/vr.php?view=23133</link>
-            <guid isPermaLink="false">10029b95-c0e9-4557-852b-7e95b5ec5b77</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Debian's i386 Builds Now Require 686-Class CPUs - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Debian's i386 Builds Now Require 686-Class CPUs - Phoronix</h1><p>Those running any old VIA C3, AMD K5/K6, or original Intel Pentium CPUs, you'll be losing your Debian support past the current stable (Jessie) series. The Debian i386 architecture builds now require an i686 class processor for Debian testing (affecting Debian Stretch) and future builds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cda6e410c3c7d71a9de4880b232a3a260aa1ef8.php"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Debian-686-For-i386-CPUs</link>
-            <guid isPermaLink="false">cfee82d3-5a43-41ba-9cac-ec55a36b899d</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Is What the New Linux Mint 18 Cinnamon Theme Looks Like]]></title>
-            <description><![CDATA[<article><h1>This Is What the New Linux Mint 18 Cinnamon Theme Looks Like</h1><p>Linux Mint project leader and maintainer Clement Lefebvre dropped some exciting news today about what users should expect from the upcoming Linux Mint 18 "Sarah" operating system. Last month we talked about Linux Mint 18 "Sarah" and about the fact that it will ship with the Cinnamon 3.0 and MATE 1.14 desktop environments, as well as with a brand-new and long-anticipated design, based on the very popular Arc GTK theme.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/054901f568cf50c387307e80ca2e2bfeccc5b483.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229166</link>
-            <guid isPermaLink="false">8832b0ba-3e23-4326-beeb-da260624b27f</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Early Look At The Features Of PostgreSQL 9.6 - Phoronix]]></title>
-            <description><![CDATA[<article><h1>An Early Look At The Features Of PostgreSQL 9.6 - Phoronix</h1><p>PostgreSQL 9.6 isn't being released until later this year, but with it moving along, the release notes are starting to be assembled for this next major update to this open-source SQL server implementation. This week added to PostgreSQL Git was the start of the 9.6 release notes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=PostgreSQL-9.6-Early-Look</link>
-            <guid isPermaLink="false">562b0df0-b9ea-4d80-a4f6-e6e2148f76b6</guid>
-            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
