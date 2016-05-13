@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 07:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 07:49:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,20 +12,6 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMD Open-Sources Compressonator Project - Phoronix]]></title>
-            <description><![CDATA[<article><h1>AMD Open-Sources Compressonator Project - Phoronix</h1><p>The latest open-source fruits of AMD's GPUOpen project is the Compressonator. AMD Compressonator is also known formerly as just "AMD Compress" and was a closed-source compression tool available to developers. Compressonator is about compressing textures and creating mip-map levels. The tool is designed around DXTn/S3TC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1e926ed42fe0ff9e47ce87c6c2fe4936ff0a735.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Compress-Open-Source</link>
-            <guid isPermaLink="false">fe3a70be-87f8-4a36-aae8-a5c6cc76ba94</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GNOME 3.20.2 Released As Last Update To GNOME 3.20 - Phoronix]]></title>
-            <description><![CDATA[<article><h1>GNOME 3.20.2 Released As Last Update To GNOME 3.20 - Phoronix</h1><p>Frederic Peters announced the release today of GNOME 3.20.2 as the second and last planned point release for the GNOME 3.20 series. GNOME 3.20.2 has fixes for NetworkManager, Epiphany, file-roller, GNOME Shell, Mutter, Nautilus, GTK+, and more. Beyond the many bug fixes throughout the stack are also a number of translation updates.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/520ee13271ab02515bc652f8d6220a4dfb281d18.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=GNOME-3.20.2-Released</link>
-            <guid isPermaLink="false">eb1eea88-9e2c-4f9f-912a-d654b4aeef3e</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Streams vs. GBM: The Fight Continues Over NVIDIA's Proposed Wayland Route - Phoronix]]></title>
@@ -75,6 +61,20 @@
             <link>http://lxer.com/module/newswire/ext_link.php?rid=229236</link>
             <guid isPermaLink="false">3774a9b4-c178-49e3-a3e1-63db73c42bbe</guid>
             <pubDate>Tue, 10 May 2016 10:37:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Xiaomi's biggest phone yet is the giant MiMax]]></title>
+            <description><![CDATA[<article><h1>Xiaomi's biggest phone yet is the giant MiMax</h1><p>Xiaomi has announced the MiMax, just a few days after Chinese regulatory authorities announced the 6.4-inch phone themselves. It's the company's biggest phone yet, but the claim is that it has a "slim 7.5mm body that fits in your pocket."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7ac120200512857494e82964064888393f69086.jpg"></article>]]></description>
+            <link>http://www.theverge.com/circuitbreaker/2016/5/10/11648034/xiaomi-mimax-announcement-specs-price</link>
+            <guid isPermaLink="false">eb532238-df31-4167-881c-cee30f9aba3c</guid>
+            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LXer: The May 2016 Issue of the PCLinuxOS Magazine]]></title>
+            <description><![CDATA[<article><h1>LXer: The May 2016 Issue of the PCLinuxOS Magazine</h1><p>With the exception of a brief period in 2009, The PCLinuxOS Magazine has been published on a monthly basis since September, 2006. The PCLinuxOS Magazine is a product of the PCLinuxOS community, published by volunteers from the community. The magazine is lead by Paul Arnote, Chief Editor, and Assistant Editor Meemaw.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fab782102c56541fa3054cc30e982384bad50734.png"></article>]]></description>
+            <link>http://lxer.com/module/newswire/view/229163/index.html</link>
+            <guid isPermaLink="false">77928793-7f7b-4af8-8439-97744673aeb2</guid>
+            <pubDate>Tue, 10 May 2016 10:37:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
