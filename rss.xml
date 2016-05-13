@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 07:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 07:50:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,48 +12,6 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On the stand, Google's Eric Schmidt says Sun had no problems with Android]]></title>
-            <description><![CDATA[<article><h1>On the stand, Google's Eric Schmidt says Sun had no problems with Android</h1><p>SAN FRANCISCO-Alphabet Chairman and former Google CEO Eric Schmidt testified in a federal court here today, hoping to overcome a lawsuit from Oracle accusing his company of violating copyright law. During an hour of questioning by Google lawyer Robert Van Nest, Schmidt discussed his early days at Google and the beginnings of Android.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bda9ecc0ae65bd8053f66ee0ec7995391309926.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229380</link>
-            <guid isPermaLink="false">995810df-792e-4384-bd03-2c2587b14c2e</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Firefox for iOS Makes it Faster and Easier to Use the Mobile Web the Way You Want]]></title>
-            <description><![CDATA[<article><h1>Firefox for iOS Makes it Faster and Easier to Use the Mobile Web the Way You Want</h1><p>We're always focused on making the best Firefox experience we can offer. We want to give you complete control over your web experience, while also making sure to protect your privacy and security the best we can.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62c078ad00538ab20c3cca9f80782150fac7f197.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229376</link>
-            <guid isPermaLink="false">c955d3a3-070e-48c9-9ce9-948965cd16eb</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PostgreSQL 9.6 Now In Beta With Parallel Queries - Phoronix]]></title>
-            <description><![CDATA[<article><h1>PostgreSQL 9.6 Now In Beta With Parallel Queries - Phoronix</h1><p>PostgreSQL 9.6 is now up to its beta stage with a number of new features. Recently I provided an early look at PostgreSQL 9.6 features. PostgreSQL 9.6 brings parallel query support, synchronous replication now supports multiple standby servers, full-text search for phrases, support for remote joins/sorts/updates, "substantial" performance improvements (especially for many-core servers), no more repetitive scans of old data by auto vacuum, and much more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=PostgreSQL-9.6-Beta</link>
-            <guid isPermaLink="false">108695ec-0b62-4e63-a0dc-20a14a8e24bc</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FP64 / OpenGL 4.2 Is Close To Being Finished Up In Intel Mesa - Phoronix]]></title>
-            <description><![CDATA[<article><h1>FP64 / OpenGL 4.2 Is Close To Being Finished Up In Intel Mesa - Phoronix</h1><p>The latest patches from Igalia have been published for finishing up the ARB_gpu_shader_fp64 implementation within Intel's Mesa driver, which would bring it into supporting OpenGL 4.2 (thanks to the other extensions already being completed) for the latest generations of Intel hardware.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d18e4ea81c3ef1f341007da4cbe9a3363542e8b4.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-V2-FP64-Mesa-GL-4.2</link>
-            <guid isPermaLink="false">c4d57a4b-78f1-432a-a16e-18849246755e</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Long Will Desktop Linux Last?]]></title>
-            <description><![CDATA[<article><h1>How Long Will Desktop Linux Last?</h1><p>I've been a desktop Linux user for seventeen years. For eight of those years, I haven't had a copy of Windows installed on any machine in the house. Under the circumstances, I can easily drift into thinking that Linux and free software represent the whole of computing, and possibly its future as well.</p></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229411</link>
-            <guid isPermaLink="false">bfefacfd-b689-40d5-989b-da867475c9f8</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Threaded Input Has Been Revised Again For The X.Org Server - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Threaded Input Has Been Revised Again For The X.Org Server - Phoronix</h1><p>Going back six years has been work on bringing threaded input to the X.Org Server whereby the input event code would run on its own CPU thread. The work has yet to be merged in full, but Keith Packard has now revised the patches.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cadcf9af1bb1af59e060df6e357edbe667194a2.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Xorg-Threaded-Input-2016</link>
-            <guid isPermaLink="false">ef335af7-41cc-45d6-8a97-e2ba2a3b7cf1</guid>
-            <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Plasma 5.6 Makes KDE Plasma Desktop Environment More Powerful, Beautiful And Useful﻿]]></title>
@@ -75,6 +33,48 @@
             <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=GNOME-3.20.2-Released</link>
             <guid isPermaLink="false">eb1eea88-9e2c-4f9f-912a-d654b4aeef3e</guid>
             <pubDate>Fri, 13 May 2016 07:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Streams vs. GBM: The Fight Continues Over NVIDIA's Proposed Wayland Route - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Streams vs. GBM: The Fight Continues Over NVIDIA's Proposed Wayland Route - Phoronix</h1><p>It's been over one month since NVIDIA presented their proposed Weston patches for supporting Wayland with NVIDIA's Linux binary driver but the discussion over their proposed approach remains heated. NVIDIA's proposed changes for Wayland compositors has been rather controversial and largely comes down to the current compositors relying upon the GBM (Generic Buffer Manager) versus the approach preferred by NVIDIA of utilizing EGLStreams and friends.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5674a5805f77503bd75a99878c396ec20f337483.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Streams-vs-GBM-Toolkits</link>
+            <guid isPermaLink="false">666b22df-5891-428d-9fb8-cc52a3b31ae2</guid>
+            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Intel Loses Another Longtime Open-Source Graphics Driver Developer - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Intel Loses Another Longtime Open-Source Graphics Driver Developer - Phoronix</h1><p>When working on the story this week about Intel Is Preparing A Major Restructuring Of Their Graphics Driver, I found out another bit of information worth relaying: a longtime contributor to the Intel Linux graphics driver stack has left the company to focus on a new venture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d66dfc8794eaea1a4d01114ed8a008f5c3d19048.php"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=JBarnes-No-Longer-At-Intel</link>
+            <guid isPermaLink="false">ef889621-f627-4f3a-96b7-6fd581fbe526</guid>
+            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here are the 10 New Ubuntu 16.04 LTS Features Every Ubuntu User Should Know - Ubuntu Portal]]></title>
+            <description><![CDATA[<article><h1>Here are the 10 New Ubuntu 16.04 LTS Features Every Ubuntu User Should Know - Ubuntu Portal</h1><p>Ubuntu 16.04 LTS Codenamed "Xenial Xerus" has arrived. After Six month developments, Canonical officially releases the new Ubuntu 16.04 LTS on April 21, 2016. It now available to download and install on PCs, laptops and netbooks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3a1fb00006497adbd7ab0b0db1b9819ad103d11.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229353</link>
+            <guid isPermaLink="false">bbfcc17e-5b61-4b6d-9978-9be89fabc922</guid>
+            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Self-Paced Online Course Preps SysAdmins for Linux Foundation Advanced Certification]]></title>
+            <description><![CDATA[<article><h1>New Self-Paced Online Course Preps SysAdmins for Linux Foundation Advanced Certification</h1><p>The Linux Foundation has launched a new self-paced, online course to help senior Linux sysadmins prepare for the advanced Linux Foundation Certified Engineer (LFCE) exam. The Linux Networking and Administration (LFS211) course gives students access to 40-50 hours of coursework, and more than 50 hands-on labs -- practical experience that translates to real-world situations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93a0e597bcb7bb5e0f1c7dc81cd29e92df6c2025.png"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229431</link>
+            <guid isPermaLink="false">2206351f-7a7b-4d86-b74d-1d2a0d984b05</guid>
+            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[$35 open source RK3288 hacker SBC hits Indiegogo]]></title>
+            <description><![CDATA[<article><h1>$35 open source RK3288 hacker SBC hits Indiegogo</h1><p>May 12, 2016 - by Eric Brown - 60 views A tiny open source "MiQi" SBC that runs Linux or Android on a Rockchip RK3288, with HDMI, GbE, four USB ports, and expansion headers has launched on Indiegogo. A Shenzhen startup led by Benn Huang called MQMaker launched an Indiegogo campaign for a MiQi hacker board.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c8faa92195d0b9bd7bd5876ea9543703e2cf6c4.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229428</link>
+            <guid isPermaLink="false">1b728e1d-58f7-4a27-93ee-03d093fb0eca</guid>
+            <pubDate>Fri, 13 May 2016 07:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Siri Creators Offer First Demo of 'Viv', The Self-Coding Voice Assistant]]></title>
+            <description><![CDATA[<article><h1>Siri Creators Offer First Demo of 'Viv', The Self-Coding Voice Assistant</h1><p>Siri co-founders Dag Kittlaus and Adam Cheyer have offered their first public demonstration of Viv, the much-anticipated voice assistant that promises an advanced level of human-computer interaction. The demo took place yesterday at TechCrunch 's Disrupt NY event, where Viv's creators wasted no time showing what the new AI bot is capable of.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4904d5d2bae82c56028fd37d4ac9c63fb3e0bc23.jpg"></article>]]></description>
+            <link>http://www.macrumors.com/2016/05/10/siri-creators-demo-viv-voice-assistant/?utm_source=feedly&amp;utm_medium=webfeeds</link>
+            <guid isPermaLink="false">596f70dc-cdcd-4f46-9f85-11fef707f62d</guid>
+            <pubDate>Tue, 10 May 2016 10:37:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
