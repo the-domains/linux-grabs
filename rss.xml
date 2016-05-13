@@ -4,7 +4,7 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 07:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 07:51:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
@@ -12,6 +12,20 @@
             <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
             <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
             <pubDate>Wed, 27 Apr 2016 08:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fedora 24 Beta released! - Fedora Magazine]]></title>
+            <description><![CDATA[<article><h1>Fedora 24 Beta released! - Fedora Magazine</h1><p>The Fedora 24 Beta is here, on schedule for our planned June final release. Download the prerelease from our Get Fedora site: The Beta release contains all the exciting features of Fedora 24's editions in a form that anyone can help test.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/94dd748b5f27acc693ebf89cbedd8e1df0fafcfe.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229306</link>
+            <guid isPermaLink="false">71b8ea19-247d-42ae-928d-bf370a0037ae</guid>
+            <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Docker lets security bug sniffer dogs off the leash at container images]]></title>
+            <description><![CDATA[<article><h1>Docker lets security bug sniffer dogs off the leash at container images</h1><p>Docker has hit upon an idea that perhaps other platforms could potentially incorporate: scanning software components for publicly known vulnerabilities prior to deployment. Today, the software container biz will announce Docker Security Scanning, which scours private repositories in the Docker Cloud for recognized security bugs and alerts developers if any are found.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/caeca53176ec7e89ab866334ef1385b3e830fbd4.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229305</link>
+            <guid isPermaLink="false">585abeee-55fc-44ae-902e-e63feb883951</guid>
+            <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[With Pascal Ahead, A 16-Way Recap From NVIDIA's 9800 GTX To Maxwell - Phoronix]]></title>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>An introduction to data processing with Cassandra and Spark</h1><p>There's been a huge surge of interest around the Apache Cassandra database due to the increasing uptime and performance demands of modern cloud applications. So, what is Apache Cassandra? A distributed OLTP database built for high availability and linear scalability. When people ask what Cassandra is used for, think about the type of system you want close to the customer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da05f848c9187c0e3c7a7f46cd83968437d02a0e.png"></article>]]></description>
             <link>http://lxer.com/module/newswire/ext_link.php?rid=229356</link>
             <guid isPermaLink="false">7e788176-422b-403d-993e-4d26b943ed7f</guid>
-            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unity3D working on SDL, Wayland and Mir support]]></title>
-            <description><![CDATA[<article><h1>Unity3D working on SDL, Wayland and Mir support</h1><p>The folks Unity3D are currently doing a "HackWeek" when they work on special projects. It looks like the Linux team are working on using SDL instead of X11 directly which will bring Mir & Wayland support amongst other things.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29fdd158f19d4565c4fef23f0c907e4085ab9318.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229361</link>
-            <guid isPermaLink="false">9242826b-61b5-471b-9ad4-c2131580266d</guid>
-            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Intel Is Preparing A Major Restructuring Of Their Graphics Driver - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Intel Is Preparing A Major Restructuring Of Their Graphics Driver - Phoronix</h1><p>Intel is brewing a makeover of their graphics driver stack through a large restructuring and consolidating initiative that will be formally announced in the coming weeks. Up to now Intel's Windows and Linux graphics drivers have been isolated from one another with being developed by different teams at the company.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a79605cf0df367f245bde902dd9e887394ae81b.php"></article>]]></description>
-            <link>http://www.phoronix.com/vr.php?view=23163</link>
-            <guid isPermaLink="false">549d61b8-f040-4edf-87be-d854732f51ab</guid>
             <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
         </item>
     </channel>
