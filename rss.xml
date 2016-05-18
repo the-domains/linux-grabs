@@ -4,8 +4,15 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 11:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 11:21:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Opera 'Power Saving Mode' Extends Battery Life 40-50% | FOSS Force]]></title>
+            <description><![CDATA[<article><h1>Opera 'Power Saving Mode' Extends Battery Life 40-50% | FOSS Force</h1><p>Numbers supplied by Opera show that the browser's new Power Saving Mode, currently found only in developer builds, can considerably extend laptop battery life. The folks behind the free but proprietary Opera browser announced today that the latest developer build includes Power Saving Mode, a new feature that the company claims can extend [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/239732f965fffe85ea11045afa731837197dfe28.png"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229425</link>
+            <guid isPermaLink="false">890d240e-32d8-46af-9b44-b87a0567d942</guid>
+            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ZFS Finally Lands In Debian - Phoronix]]></title>
             <description><![CDATA[<article><h1>ZFS Finally Lands In Debian - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c00721673d3b18a118bb8574e4a367f42a632eb.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.omgubuntu.co.uk/2016/05/etcher-usb-image-burner-tool-linux-open-source</link>
             <guid isPermaLink="false">19f36788-739f-4b3c-bd68-db9381e85262</guid>
             <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMDGPU DRM For Linux 4.7 Will Bring Some Performance Boosts For The R9 Fury - Phoronix]]></title>
-            <description><![CDATA[<article><h1>AMDGPU DRM For Linux 4.7 Will Bring Some Performance Boosts For The R9 Fury - Phoronix</h1><p>Yesterday I published some Radeon DRM-Next performance tests for the Radeon DRM code queued up for the Linux 4.7 kernel merge window. Today I'm testing the DRM-Next-4.7 code for AMDGPU for looking at the performance improvements coming to this newer AMD DRM driver with the next Linux kernel cycle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4302b3683c32da70996358eae82416eb9147ffb.php"></article>]]></description>
-            <link>http://www.phoronix.com/vr.php?view=23181</link>
-            <guid isPermaLink="false">f393c420-8ebf-4ea2-85c9-969b5834dba2</guid>
-            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
