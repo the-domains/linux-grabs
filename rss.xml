@@ -4,8 +4,22 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 11:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 11:20:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Geary 0.11 Released, This Is What's New]]></title>
+            <description><![CDATA[<article><h1>Geary 0.11 Released, This Is What's New</h1><p>A new version of open-source email client Geary is available to download, the first update to the app in more than a year. The demise of Yorba as a non-profit software company a year or ago left the fate of their open source projects, Shotwell photo manger and Geary e-mail client among them, uncertain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b366b3d79e2fe8b999c6e6b1f82575a5bf2b30a5.jpg"></article>]]></description>
+            <link>http://www.omgubuntu.co.uk/2016/05/geary-0-11-0-released</link>
+            <guid isPermaLink="false">78a90629-f096-45b5-9ec0-a1dd35bbdd82</guid>
+            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Install the Beautiful Arc GTK Theme on Ubuntu 16.04 LTS - Updated]]></title>
+            <description><![CDATA[<article><h1>How to Install the Beautiful Arc GTK Theme on Ubuntu 16.04 LTS - Updated</h1><p>At the request of many of our readers, we decided to write the following tutorial to teach Ubuntu users how to install the very popular and gorgeous Arc GTK theme in the latest Ubuntu 16.04 LTS (Xenial Xerus) operating system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5803f044e9176d2f24ed51a070dfad96f3364fb4.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229511</link>
+            <guid isPermaLink="false">e5d6c1a8-e5c8-41e5-b8a2-0719abf31549</guid>
+            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mozilla Open Source Support (MOSS): Now Open To All Projects]]></title>
             <description><![CDATA[<article><h1>Mozilla Open Source Support (MOSS): Now Open To All Projects</h1><p>Last year, we launched the Mozilla Open Source Support Program (MOSS) - an award program specifically focused on supporting open source and free software. The first track within MOSS ("Foundational Technology") provides support for open source and free software projects that Mozilla uses or relies on. We are now adding a second track.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed4f23fb2f5d4ff920105a7e15cb4e64fb13be04.png"></article>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<article><h1>Fedora 24 Beta released! - Fedora Magazine</h1><p>The Fedora 24 Beta is here, on schedule for our planned June final release. Download the prerelease from our Get Fedora site: The Beta release contains all the exciting features of Fedora 24's editions in a form that anyone can help test.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/94dd748b5f27acc693ebf89cbedd8e1df0fafcfe.jpg"></article>]]></description>
             <link>http://lxer.com/module/newswire/ext_link.php?rid=229306</link>
             <guid isPermaLink="false">71b8ea19-247d-42ae-928d-bf370a0037ae</guid>
-            <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Docker lets security bug sniffer dogs off the leash at container images]]></title>
-            <description><![CDATA[<article><h1>Docker lets security bug sniffer dogs off the leash at container images</h1><p>Docker has hit upon an idea that perhaps other platforms could potentially incorporate: scanning software components for publicly known vulnerabilities prior to deployment. Today, the software container biz will announce Docker Security Scanning, which scours private repositories in the Docker Cloud for recognized security bugs and alerts developers if any are found.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/caeca53176ec7e89ab866334ef1385b3e830fbd4.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229305</link>
-            <guid isPermaLink="false">585abeee-55fc-44ae-902e-e63feb883951</guid>
-            <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[With Pascal Ahead, A 16-Way Recap From NVIDIA's 9800 GTX To Maxwell - Phoronix]]></title>
-            <description><![CDATA[<article><h1>With Pascal Ahead, A 16-Way Recap From NVIDIA's 9800 GTX To Maxwell - Phoronix</h1><p>In preparing to hopefully test the GeForce GTX 1070/1080 "Pascal" graphics cards under Linux in the days ahead, I've been re-testing my collection of available NVIDIA GeForce graphics cards going back to the GeForce 9800GTX up through the Maxwell-based GeForce GTX 980 Ti and GTX TITAN X.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8aa4087970a2a2db15f43aa8ab5310c301aca6d6.php"></article>]]></description>
-            <link>http://www.phoronix.com/vr.php?view=23155</link>
-            <guid isPermaLink="false">8e0694d4-7f5b-4bbd-97ad-216be2981c32</guid>
             <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
         </item>
     </channel>
