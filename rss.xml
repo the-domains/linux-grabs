@@ -4,8 +4,15 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 11:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 11:20:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Next: Open social networks]]></title>
+            <description><![CDATA[<article><h1>Next: Open social networks</h1><p>Next: Open social networks Posted: Sun 15 May, 2016, 13:05 The goal of triki and running my own personal site has always been about sharing and connecting online, but outside the mega social media/content sharing platforms, for reasons explained in a previous blog.</p></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229514</link>
+            <guid isPermaLink="false">80deaa96-ba96-4457-b350-640591b6ec51</guid>
+            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meet Etcher, A Stylish Open-Source USB Image Writer Tool - OMG! Ubuntu!]]></title>
             <description><![CDATA[<article><h1>Meet Etcher, A Stylish Open-Source USB Image Writer Tool - OMG! Ubuntu!</h1><p>Looking for an easy-to-use way to create a bootable USB stick on Linux? This new app can help. This weekend reader Ronald M. sent us the following e-mail</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a759e6ab397a4b9627e59c0b0f712bc349555cf1.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>An Everyday Linux User Review Of Ubuntu 16.04 - The Good, The Bad And The Not Quite So Ugly " Everyday Linux User</h1><p>Last month saw the release of everybody's favourite Linux distribution, Ubuntu. I have spent the past couple of weeks reading other people's opinions, watching videos and listening to podcasts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40201a43ba5d34764f3111424472268178f30c1c.png"></article>]]></description>
             <link>http://lxer.com/module/newswire/ext_link.php?rid=229612</link>
             <guid isPermaLink="false">48a21759-c3c3-46ae-a1d8-ab9e8bacb489</guid>
-            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At trial, top Android coder explains Oracle's questions on "scrubbed" source code]]></title>
-            <description><![CDATA[<article><h1>At trial, top Android coder explains Oracle's questions on "scrubbed" source code</h1><p>View all... SAN FRANCISCO-Top Android programmer Dan Bornstein returned to the stand today as the Oracle v. Google trial rolled into its sixth day. Oracle, which acquired Java when it purchased Sun Microsystems in 2010, says Google infringed its copyrights by using 37 Java APIs in Android.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73e9c14b14ecd03b3d337fcab841c8c7c81afb62.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229573</link>
-            <guid isPermaLink="false">0cbc8ede-c7ee-41f3-9726-b160cc1e5d6f</guid>
             <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
         </item>
     </channel>
