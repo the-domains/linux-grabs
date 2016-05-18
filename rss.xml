@@ -4,77 +4,77 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 11:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 11:20:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[An Everyday Linux User Review Of Ubuntu 16.04 - The Good, The Bad And The Not Quite So Ugly " Everyday Linux User]]></title>
-            <description><![CDATA[<article><h1>An Everyday Linux User Review Of Ubuntu 16.04 - The Good, The Bad And The Not Quite So Ugly " Everyday Linux User</h1><p>Last month saw the release of everybody's favourite Linux distribution, Ubuntu. I have spent the past couple of weeks reading other people's opinions, watching videos and listening to podcasts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40201a43ba5d34764f3111424472268178f30c1c.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229612</link>
-            <guid isPermaLink="false">48a21759-c3c3-46ae-a1d8-ab9e8bacb489</guid>
+            <title><![CDATA[Civilization VI for Linux, Dungeons & Robots release, and more gaming news]]></title>
+            <description><![CDATA[<article><h1>Civilization VI for Linux, Dungeons & Robots release, and more gaming news</h1><p>Hello, open gaming fans! In this week's edition, we take a look at Civilization VI for Linux, Dungeons & Robots release, and new games out for Linux. Open gaming roundup for May 7 - 13, 2016 Civilization V was a hugely popular, turn-based strategy game where each player represents the leader of a certain nation or ethnic group (a "civilization").</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8443b86c343a904e33fb65d302d2fa8c0faf43f7.png"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229505</link>
+            <guid isPermaLink="false">85f69487-6a47-4b12-9b8b-c5f5fa2083a5</guid>
+            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top programmer describes Android's nuts and bolts in Oracle v. Google]]></title>
+            <description><![CDATA[<article><h1>Top programmer describes Android's nuts and bolts in Oracle v. Google</h1><p>View all... The Oracle v. Google trial rolled into its fifth day on Friday, beginning with videotaped deposition testimony from Oracle founder Larry Ellison. Later in the day, a former Sun scientist in charge of open source testified, as well as a key Android programmer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/704d498c2241242aae1c62ef2cdef2a852675f0e.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229509</link>
+            <guid isPermaLink="false">60b69b67-c4ba-4ba7-b959-0e737b1a66ee</guid>
+            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Next: Open social networks]]></title>
+            <description><![CDATA[<article><h1>Next: Open social networks</h1><p>Next: Open social networks Posted: Sun 15 May, 2016, 13:05 The goal of triki and running my own personal site has always been about sharing and connecting online, but outside the mega social media/content sharing platforms, for reasons explained in a previous blog.</p></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229514</link>
+            <guid isPermaLink="false">80deaa96-ba96-4457-b350-640591b6ec51</guid>
+            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet Etcher, A Stylish Open-Source USB Image Writer Tool - OMG! Ubuntu!]]></title>
+            <description><![CDATA[<article><h1>Meet Etcher, A Stylish Open-Source USB Image Writer Tool - OMG! Ubuntu!</h1><p>Looking for an easy-to-use way to create a bootable USB stick on Linux? This new app can help. This weekend reader Ronald M. sent us the following e-mail</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a759e6ab397a4b9627e59c0b0f712bc349555cf1.jpg"></article>]]></description>
+            <link>http://www.omgubuntu.co.uk/2016/05/etcher-usb-image-burner-tool-linux-open-source</link>
+            <guid isPermaLink="false">19f36788-739f-4b3c-bd68-db9381e85262</guid>
+            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMDGPU DRM For Linux 4.7 Will Bring Some Performance Boosts For The R9 Fury - Phoronix]]></title>
+            <description><![CDATA[<article><h1>AMDGPU DRM For Linux 4.7 Will Bring Some Performance Boosts For The R9 Fury - Phoronix</h1><p>Yesterday I published some Radeon DRM-Next performance tests for the Radeon DRM code queued up for the Linux 4.7 kernel merge window. Today I'm testing the DRM-Next-4.7 code for AMDGPU for looking at the performance improvements coming to this newer AMD DRM driver with the next Linux kernel cycle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4302b3683c32da70996358eae82416eb9147ffb.php"></article>]]></description>
+            <link>http://www.phoronix.com/vr.php?view=23181</link>
+            <guid isPermaLink="false">f393c420-8ebf-4ea2-85c9-969b5834dba2</guid>
             <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[At trial, top Android coder explains Oracle's questions on "scrubbed" source code]]></title>
-            <description><![CDATA[<article><h1>At trial, top Android coder explains Oracle's questions on "scrubbed" source code</h1><p>View all... SAN FRANCISCO-Top Android programmer Dan Bornstein returned to the stand today as the Oracle v. Google trial rolled into its sixth day. Oracle, which acquired Java when it purchased Sun Microsystems in 2010, says Google infringed its copyrights by using 37 Java APIs in Android.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73e9c14b14ecd03b3d337fcab841c8c7c81afb62.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229573</link>
-            <guid isPermaLink="false">0cbc8ede-c7ee-41f3-9726-b160cc1e5d6f</guid>
+            <title><![CDATA[ZFS On Linux Looks Like It Will Soon Have Native Encryption Support - Phoronix]]></title>
+            <description><![CDATA[<article><h1>ZFS On Linux Looks Like It Will Soon Have Native Encryption Support - Phoronix</h1><p>The ZFS file-system upstream has offered native encryption support but unfortunately it came after ZFS was closed up by Oracle. The Illumos folks have been working on ZFS encryption while it looks like soon there will finally be encryption support available for ZFS On Linux.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=ZFS-On-Linux-Encryption-Coming</link>
+            <guid isPermaLink="false">fbdc2bfb-fc7d-481c-a6bb-d5668a48c509</guid>
             <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Ubuntu Touch OTA-12 Will Be More About Fixes than Features, Says Canonical]]></title>
-            <description><![CDATA[<article><h1>Ubuntu Touch OTA-12 Will Be More About Fixes than Features, Says Canonical</h1><p>We promised to keep our Ubuntu Phone and Ubuntu Tablet readers informed about the latest developments in the Ubuntu Touch mobile operating system, and today we have interesting news to share.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/285445f6983aa8a2363e87e5f04de80929d1f99b.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229611</link>
-            <guid isPermaLink="false">aa15eb82-3735-47c3-97da-8225f6f4da2d</guid>
+            <title><![CDATA[A Telegram Snap Package Is Available on Ubuntu 16.04 - OMG! Ubuntu!]]></title>
+            <description><![CDATA[<article><h1>A Telegram Snap Package Is Available on Ubuntu 16.04 - OMG! Ubuntu!</h1><p>Using Ubuntu 16.04 and want to install the official Telegram Linux app? Don't run off to the official website to get the official binary: there's now a Telegram app snap package available on Ubuntu 16.04. To install it you can search for 'telegram' in Ubuntu Software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bc5667596b532caedd7222ffdae161f566f1e5e.jpg"></article>]]></description>
+            <link>http://www.omgubuntu.co.uk/2016/05/telegram-snap-package-ubuntu-16-04</link>
+            <guid isPermaLink="false">301ac4d1-ef1f-409d-9c31-19a8b6428e9a</guid>
             <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Async Discard Support Comes For Linux 4.7 - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Async Discard Support Comes For Linux 4.7 - Phoronix</h1><p>Jens Axboe at Facebook sent in this morning the block I/O changes for the Linux 4.7 kernel merge window. With the core block I/O changes for the Linux 4.7 kernel merge window one feature stands out: async discard support. In the core block I/O area are also some fixes, cleaned up interfaces, some optimizations, and other changes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f0bf3b214e0f39847ebde4917a7ac25ad035930.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Async-Discard-Linux-4.7</link>
-            <guid isPermaLink="false">21354353-285f-4184-b27f-2cdf8546d90f</guid>
+            <title><![CDATA[Arch Linux-Based LinHES 8.4 OS Launches with Kodi 16.1, MythTV 0.28, and OpenPHT]]></title>
+            <description><![CDATA[<article><h1>Arch Linux-Based LinHES 8.4 OS Launches with Kodi 16.1, MythTV 0.28, and OpenPHT</h1><p>Today, LinHES maintainer Cecil Watson has announced the release of LinHES R8.4, an open source attempt to make the installation of a GNU/Linux operating system and the MythTV media center software as trivial as possible.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f482b3f57963e915edbb7c9fd92ff304302f041.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229512</link>
+            <guid isPermaLink="false">da761cab-9aa1-4d18-98c2-4c60ea15d1be</guid>
             <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5 rules for avoiding burnout]]></title>
-            <description><![CDATA[<article><h1>5 rules for avoiding burnout</h1><p>I have goals that might seem familiar to you: improve my overall working conditions, set boundaries for myself, and arrive at some sort of balance between a reasonable stream of work vs. getting things done in a resource-constrained space. If these goals are true for you, keep reading.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd843ddd89a2abf5479ca63244105d62df8a9eba.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229584</link>
-            <guid isPermaLink="false">e9c14e02-f5aa-4c3c-8494-473ee3a55c70</guid>
+            <title><![CDATA[Geary 0.11 Released, This Is What's New]]></title>
+            <description><![CDATA[<article><h1>Geary 0.11 Released, This Is What's New</h1><p>A new version of open-source email client Geary is available to download, the first update to the app in more than a year. The demise of Yorba as a non-profit software company a year or ago left the fate of their open source projects, Shotwell photo manger and Geary e-mail client among them, uncertain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b366b3d79e2fe8b999c6e6b1f82575a5bf2b30a5.jpg"></article>]]></description>
+            <link>http://www.omgubuntu.co.uk/2016/05/geary-0-11-0-released</link>
+            <guid isPermaLink="false">78a90629-f096-45b5-9ec0-a1dd35bbdd82</guid>
             <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!]]></title>
-            <description><![CDATA[<article><h1>This Nifty 'Notes' App Is Available to Install as a Snap Package - OMG! Ubuntu!</h1><p>Remember that nifty OS X inspired Notes app we wrote about a few months back? Whether you do or you don't, if you're running Ubuntu 16.04 LTS it's now super easy to install. Notes is now available as a Snap, the new Ubuntu package format installed by default in the latest long-term support release.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a10cc47983824efedb6be4afe22ae6af5176eaa1.jpg"></article>]]></description>
-            <link>http://www.omgubuntu.co.uk/2016/04/sudo-snap-install-notes-app</link>
-            <guid isPermaLink="false">eed6ab3a-0dd7-493b-9e75-eb617d927b34</guid>
-            <pubDate>Fri, 13 May 2016 07:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fedora 24 Beta released! - Fedora Magazine]]></title>
-            <description><![CDATA[<article><h1>Fedora 24 Beta released! - Fedora Magazine</h1><p>The Fedora 24 Beta is here, on schedule for our planned June final release. Download the prerelease from our Get Fedora site: The Beta release contains all the exciting features of Fedora 24's editions in a form that anyone can help test.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/94dd748b5f27acc693ebf89cbedd8e1df0fafcfe.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229306</link>
-            <guid isPermaLink="false">71b8ea19-247d-42ae-928d-bf370a0037ae</guid>
-            <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Docker lets security bug sniffer dogs off the leash at container images]]></title>
-            <description><![CDATA[<article><h1>Docker lets security bug sniffer dogs off the leash at container images</h1><p>Docker has hit upon an idea that perhaps other platforms could potentially incorporate: scanning software components for publicly known vulnerabilities prior to deployment. Today, the software container biz will announce Docker Security Scanning, which scours private repositories in the Docker Cloud for recognized security bugs and alerts developers if any are found.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/caeca53176ec7e89ab866334ef1385b3e830fbd4.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229305</link>
-            <guid isPermaLink="false">585abeee-55fc-44ae-902e-e63feb883951</guid>
-            <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[With Pascal Ahead, A 16-Way Recap From NVIDIA's 9800 GTX To Maxwell - Phoronix]]></title>
-            <description><![CDATA[<article><h1>With Pascal Ahead, A 16-Way Recap From NVIDIA's 9800 GTX To Maxwell - Phoronix</h1><p>In preparing to hopefully test the GeForce GTX 1070/1080 "Pascal" graphics cards under Linux in the days ahead, I've been re-testing my collection of available NVIDIA GeForce graphics cards going back to the GeForce 9800GTX up through the Maxwell-based GeForce GTX 980 Ti and GTX TITAN X.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8aa4087970a2a2db15f43aa8ab5310c301aca6d6.php"></article>]]></description>
-            <link>http://www.phoronix.com/vr.php?view=23155</link>
-            <guid isPermaLink="false">8e0694d4-7f5b-4bbd-97ad-216be2981c32</guid>
-            <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Goldman Sachs Talks Open Source | FOSS Force]]></title>
-            <description><![CDATA[<article><h1>Goldman Sachs Talks Open Source | FOSS Force</h1><p>The Video Screening Room As you might expect for someone who is constantly surrounded by bankers, Don Duet uses the term "intellectual property" a lot - but it's good to know that Wall Street is investing in sharing. Goldman Sachs doesn't get a lot of positive press these days (for good reason), but [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5b1ceb07ff7aa078abbc73ba947be4837793992.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229304</link>
-            <guid isPermaLink="false">da359ab5-0a62-46b9-8036-264d0bb63ba1</guid>
-            <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
+            <title><![CDATA[How to Install the Beautiful Arc GTK Theme on Ubuntu 16.04 LTS - Updated]]></title>
+            <description><![CDATA[<article><h1>How to Install the Beautiful Arc GTK Theme on Ubuntu 16.04 LTS - Updated</h1><p>At the request of many of our readers, we decided to write the following tutorial to teach Ubuntu users how to install the very popular and gorgeous Arc GTK theme in the latest Ubuntu 16.04 LTS (Xenial Xerus) operating system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5803f044e9176d2f24ed51a070dfad96f3364fb4.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229511</link>
+            <guid isPermaLink="false">e5d6c1a8-e5c8-41e5-b8a2-0719abf31549</guid>
+            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
