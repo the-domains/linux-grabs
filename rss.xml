@@ -4,22 +4,8 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 11:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 11:20:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Linux command that you should never say out loud]]></title>
-            <description><![CDATA[<article><h1>The Linux command that you should never say out loud</h1><p>If, when working on your Linux servers, you occasionally mistype a command and then curse, you might feel right at home with a very oddly named Linux command. It might even reduce the frustration you feel by helping you to correct your typing mistakes. The tool is called, well, thef?ck -- but with the ?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbc6388aaa4d73df9bc1bd8431eac85e01e24434.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229482</link>
-            <guid isPermaLink="false">89d251bc-d692-4780-ac41-ab78f42afdaf</guid>
-            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Civilization VI for Linux, Dungeons & Robots release, and more gaming news]]></title>
-            <description><![CDATA[<article><h1>Civilization VI for Linux, Dungeons & Robots release, and more gaming news</h1><p>Hello, open gaming fans! In this week's edition, we take a look at Civilization VI for Linux, Dungeons & Robots release, and new games out for Linux. Open gaming roundup for May 7 - 13, 2016 Civilization V was a hugely popular, turn-based strategy game where each player represents the leader of a certain nation or ethnic group (a "civilization").</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8443b86c343a904e33fb65d302d2fa8c0faf43f7.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229505</link>
-            <guid isPermaLink="false">85f69487-6a47-4b12-9b8b-c5f5fa2083a5</guid>
-            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Top programmer describes Android's nuts and bolts in Oracle v. Google]]></title>
             <description><![CDATA[<article><h1>Top programmer describes Android's nuts and bolts in Oracle v. Google</h1><p>View all... The Oracle v. Google trial rolled into its fifth day on Friday, beginning with videotaped deposition testimony from Oracle founder Larry Ellison. Later in the day, a former Sun scientist in charge of open source testified, as well as a key Android programmer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/704d498c2241242aae1c62ef2cdef2a852675f0e.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>Geary 0.11 Released, This Is What's New</h1><p>A new version of open-source email client Geary is available to download, the first update to the app in more than a year. The demise of Yorba as a non-profit software company a year or ago left the fate of their open source projects, Shotwell photo manger and Geary e-mail client among them, uncertain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b366b3d79e2fe8b999c6e6b1f82575a5bf2b30a5.jpg"></article>]]></description>
             <link>http://www.omgubuntu.co.uk/2016/05/geary-0-11-0-released</link>
             <guid isPermaLink="false">78a90629-f096-45b5-9ec0-a1dd35bbdd82</guid>
+            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Install the Beautiful Arc GTK Theme on Ubuntu 16.04 LTS - Updated]]></title>
+            <description><![CDATA[<article><h1>How to Install the Beautiful Arc GTK Theme on Ubuntu 16.04 LTS - Updated</h1><p>At the request of many of our readers, we decided to write the following tutorial to teach Ubuntu users how to install the very popular and gorgeous Arc GTK theme in the latest Ubuntu 16.04 LTS (Xenial Xerus) operating system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5803f044e9176d2f24ed51a070dfad96f3364fb4.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229511</link>
+            <guid isPermaLink="false">e5d6c1a8-e5c8-41e5-b8a2-0719abf31549</guid>
+            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mozilla Open Source Support (MOSS): Now Open To All Projects]]></title>
+            <description><![CDATA[<article><h1>Mozilla Open Source Support (MOSS): Now Open To All Projects</h1><p>Last year, we launched the Mozilla Open Source Support Program (MOSS) - an award program specifically focused on supporting open source and free software. The first track within MOSS ("Foundational Technology") provides support for open source and free software projects that Mozilla uses or relies on. We are now adding a second track.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed4f23fb2f5d4ff920105a7e15cb4e64fb13be04.png"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229374</link>
+            <guid isPermaLink="false">9338aabc-23ce-42c0-a7f4-daa103776a0f</guid>
             <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
         </item>
     </channel>
