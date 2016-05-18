@@ -7,10 +7,24 @@
         <lastBuildDate>Wed, 18 May 2016 11:20:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[At trial, top Android coder explains Oracle's questions on "scrubbed" source code]]></title>
+            <description><![CDATA[<article><h1>At trial, top Android coder explains Oracle's questions on "scrubbed" source code</h1><p>View all... SAN FRANCISCO-Top Android programmer Dan Bornstein returned to the stand today as the Oracle v. Google trial rolled into its sixth day. Oracle, which acquired Java when it purchased Sun Microsystems in 2010, says Google infringed its copyrights by using 37 Java APIs in Android.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73e9c14b14ecd03b3d337fcab841c8c7c81afb62.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229573</link>
+            <guid isPermaLink="false">0cbc8ede-c7ee-41f3-9726-b160cc1e5d6f</guid>
+            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ubuntu Touch OTA-12 Will Be More About Fixes than Features, Says Canonical]]></title>
             <description><![CDATA[<article><h1>Ubuntu Touch OTA-12 Will Be More About Fixes than Features, Says Canonical</h1><p>We promised to keep our Ubuntu Phone and Ubuntu Tablet readers informed about the latest developments in the Ubuntu Touch mobile operating system, and today we have interesting news to share.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/285445f6983aa8a2363e87e5f04de80929d1f99b.jpg"></article>]]></description>
             <link>http://lxer.com/module/newswire/ext_link.php?rid=229611</link>
             <guid isPermaLink="false">aa15eb82-3735-47c3-97da-8225f6f4da2d</guid>
+            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Async Discard Support Comes For Linux 4.7 - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Async Discard Support Comes For Linux 4.7 - Phoronix</h1><p>Jens Axboe at Facebook sent in this morning the block I/O changes for the Linux 4.7 kernel merge window. With the core block I/O changes for the Linux 4.7 kernel merge window one feature stands out: async discard support. In the core block I/O area are also some fixes, cleaned up interfaces, some optimizations, and other changes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f0bf3b214e0f39847ebde4917a7ac25ad035930.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Async-Discard-Linux-4.7</link>
+            <guid isPermaLink="false">21354353-285f-4184-b27f-2cdf8546d90f</guid>
             <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
         </item>
         <item>
@@ -61,20 +75,6 @@
             <link>http://lxer.com/module/newswire/ext_link.php?rid=229301</link>
             <guid isPermaLink="false">88df9eff-ace8-41ad-9b2f-9376c56406fc</guid>
             <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[$12 Orange Pi variant swaps Ethernet for WiFi]]></title>
-            <description><![CDATA[<article><h1>$12 Orange Pi variant swaps Ethernet for WiFi</h1><p>May 9, 2016 - by Eric Brown - 1,097 views Shenzhen Xunlong has launched an open-spec, $12 "Orange Pi Lite" SBC with a with a quad-core Cortex-A7 SoC, 40-pin RPi expansion, camera input, and WiFi. Shenzhen Xunlong continues to churn out new versions of old boards with slight adjustments in features and prices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf0dac91c6568d7b538a1aab5e5a6d1e5f2038b3.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229258</link>
-            <guid isPermaLink="false">a164134e-8531-476d-977c-d58df5b4d94a</guid>
-            <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The AMDGPU Additions For Linux 4.7 Are Enormous - Phoronix]]></title>
-            <description><![CDATA[<article><h1>The AMDGPU Additions For Linux 4.7 Are Enormous - Phoronix</h1><p>More AMDGPU DRM driver changes have been queued up for the Linux 4.7 kernel merge window that's expected to open next week. Last week was when AMD's Alex Deucher aligned the first PR of Radeon/AMDGPU updates for Linux 4.7.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1e926ed42fe0ff9e47ce87c6c2fe4936ff0a735.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=AMDGPU-Linux-4.7-Is-Big</link>
-            <guid isPermaLink="false">a67c11e7-7d79-4ac8-9e1b-e288a58493c5</guid>
-            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
