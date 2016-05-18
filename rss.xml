@@ -4,48 +4,13 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 11:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 11:20:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How to Install the Beautiful Arc GTK Theme on Ubuntu 16.04 LTS - Updated]]></title>
-            <description><![CDATA[<article><h1>How to Install the Beautiful Arc GTK Theme on Ubuntu 16.04 LTS - Updated</h1><p>At the request of many of our readers, we decided to write the following tutorial to teach Ubuntu users how to install the very popular and gorgeous Arc GTK theme in the latest Ubuntu 16.04 LTS (Xenial Xerus) operating system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5803f044e9176d2f24ed51a070dfad96f3364fb4.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229511</link>
-            <guid isPermaLink="false">e5d6c1a8-e5c8-41e5-b8a2-0719abf31549</guid>
-            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mozilla Open Source Support (MOSS): Now Open To All Projects]]></title>
-            <description><![CDATA[<article><h1>Mozilla Open Source Support (MOSS): Now Open To All Projects</h1><p>Last year, we launched the Mozilla Open Source Support Program (MOSS) - an award program specifically focused on supporting open source and free software. The first track within MOSS ("Foundational Technology") provides support for open source and free software projects that Mozilla uses or relies on. We are now adding a second track.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed4f23fb2f5d4ff920105a7e15cb4e64fb13be04.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229374</link>
-            <guid isPermaLink="false">9338aabc-23ce-42c0-a7f4-daa103776a0f</guid>
-            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Everyday Linux User Review Of Ubuntu 16.04 - The Good, The Bad And The Not Quite So Ugly " Everyday Linux User]]></title>
-            <description><![CDATA[<article><h1>An Everyday Linux User Review Of Ubuntu 16.04 - The Good, The Bad And The Not Quite So Ugly " Everyday Linux User</h1><p>Last month saw the release of everybody's favourite Linux distribution, Ubuntu. I have spent the past couple of weeks reading other people's opinions, watching videos and listening to podcasts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40201a43ba5d34764f3111424472268178f30c1c.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229612</link>
-            <guid isPermaLink="false">48a21759-c3c3-46ae-a1d8-ab9e8bacb489</guid>
-            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At trial, top Android coder explains Oracle's questions on "scrubbed" source code]]></title>
-            <description><![CDATA[<article><h1>At trial, top Android coder explains Oracle's questions on "scrubbed" source code</h1><p>View all... SAN FRANCISCO-Top Android programmer Dan Bornstein returned to the stand today as the Oracle v. Google trial rolled into its sixth day. Oracle, which acquired Java when it purchased Sun Microsystems in 2010, says Google infringed its copyrights by using 37 Java APIs in Android.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73e9c14b14ecd03b3d337fcab841c8c7c81afb62.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229573</link>
-            <guid isPermaLink="false">0cbc8ede-c7ee-41f3-9726-b160cc1e5d6f</guid>
-            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Ubuntu Touch OTA-12 Will Be More About Fixes than Features, Says Canonical]]></title>
             <description><![CDATA[<article><h1>Ubuntu Touch OTA-12 Will Be More About Fixes than Features, Says Canonical</h1><p>We promised to keep our Ubuntu Phone and Ubuntu Tablet readers informed about the latest developments in the Ubuntu Touch mobile operating system, and today we have interesting news to share.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/285445f6983aa8a2363e87e5f04de80929d1f99b.jpg"></article>]]></description>
             <link>http://lxer.com/module/newswire/ext_link.php?rid=229611</link>
             <guid isPermaLink="false">aa15eb82-3735-47c3-97da-8225f6f4da2d</guid>
-            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Async Discard Support Comes For Linux 4.7 - Phoronix]]></title>
-            <description><![CDATA[<article><h1>Async Discard Support Comes For Linux 4.7 - Phoronix</h1><p>Jens Axboe at Facebook sent in this morning the block I/O changes for the Linux 4.7 kernel merge window. With the core block I/O changes for the Linux 4.7 kernel merge window one feature stands out: async discard support. In the core block I/O area are also some fixes, cleaned up interfaces, some optimizations, and other changes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f0bf3b214e0f39847ebde4917a7ac25ad035930.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Async-Discard-Linux-4.7</link>
-            <guid isPermaLink="false">21354353-285f-4184-b27f-2cdf8546d90f</guid>
             <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +40,41 @@
             <link>http://lxer.com/module/newswire/ext_link.php?rid=229305</link>
             <guid isPermaLink="false">585abeee-55fc-44ae-902e-e63feb883951</guid>
             <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[With Pascal Ahead, A 16-Way Recap From NVIDIA's 9800 GTX To Maxwell - Phoronix]]></title>
+            <description><![CDATA[<article><h1>With Pascal Ahead, A 16-Way Recap From NVIDIA's 9800 GTX To Maxwell - Phoronix</h1><p>In preparing to hopefully test the GeForce GTX 1070/1080 "Pascal" graphics cards under Linux in the days ahead, I've been re-testing my collection of available NVIDIA GeForce graphics cards going back to the GeForce 9800GTX up through the Maxwell-based GeForce GTX 980 Ti and GTX TITAN X.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8aa4087970a2a2db15f43aa8ab5310c301aca6d6.php"></article>]]></description>
+            <link>http://www.phoronix.com/vr.php?view=23155</link>
+            <guid isPermaLink="false">8e0694d4-7f5b-4bbd-97ad-216be2981c32</guid>
+            <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Goldman Sachs Talks Open Source | FOSS Force]]></title>
+            <description><![CDATA[<article><h1>Goldman Sachs Talks Open Source | FOSS Force</h1><p>The Video Screening Room As you might expect for someone who is constantly surrounded by bankers, Don Duet uses the term "intellectual property" a lot - but it's good to know that Wall Street is investing in sharing. Goldman Sachs doesn't get a lot of positive press these days (for good reason), but [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5b1ceb07ff7aa078abbc73ba947be4837793992.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229304</link>
+            <guid isPermaLink="false">da359ab5-0a62-46b9-8036-264d0bb63ba1</guid>
+            <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Open Source Projects Are Transforming Machine Learning and AI]]></title>
+            <description><![CDATA[<article><h1>Open Source Projects Are Transforming Machine Learning and AI</h1><p>Machine learning and artificial intelligence have quickly gained traction with the public through applications such as Apple's Siri and Microsoft's Cortana. The true promise of these disciplines, though, extends far beyond simple speech recognition performed on our smartphones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6506fb638948c71d73300c0f36cb6e3ee49faea3.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229301</link>
+            <guid isPermaLink="false">88df9eff-ace8-41ad-9b2f-9376c56406fc</guid>
+            <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[$12 Orange Pi variant swaps Ethernet for WiFi]]></title>
+            <description><![CDATA[<article><h1>$12 Orange Pi variant swaps Ethernet for WiFi</h1><p>May 9, 2016 - by Eric Brown - 1,097 views Shenzhen Xunlong has launched an open-spec, $12 "Orange Pi Lite" SBC with a with a quad-core Cortex-A7 SoC, 40-pin RPi expansion, camera input, and WiFi. Shenzhen Xunlong continues to churn out new versions of old boards with slight adjustments in features and prices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf0dac91c6568d7b538a1aab5e5a6d1e5f2038b3.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229258</link>
+            <guid isPermaLink="false">a164134e-8531-476d-977c-d58df5b4d94a</guid>
+            <pubDate>Fri, 13 May 2016 07:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The AMDGPU Additions For Linux 4.7 Are Enormous - Phoronix]]></title>
+            <description><![CDATA[<article><h1>The AMDGPU Additions For Linux 4.7 Are Enormous - Phoronix</h1><p>More AMDGPU DRM driver changes have been queued up for the Linux 4.7 kernel merge window that's expected to open next week. Last week was when AMD's Alex Deucher aligned the first PR of Radeon/AMDGPU updates for Linux 4.7.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1e926ed42fe0ff9e47ce87c6c2fe4936ff0a735.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=AMDGPU-Linux-4.7-Is-Big</link>
+            <guid isPermaLink="false">a67c11e7-7d79-4ac8-9e1b-e288a58493c5</guid>
+            <pubDate>Fri, 13 May 2016 07:49:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
