@@ -4,8 +4,15 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 11:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 11:21:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google Open-Sources Neural Network Framework And Powerful Language Parser For Smarter AI: Meet Parsey McParseface]]></title>
+            <description><![CDATA[<article><h1>Google Open-Sources Neural Network Framework And Powerful Language Parser For Smarter AI: Meet Parsey McParseface</h1><p>Google is stepping up its game of open-sourcing tools for improved language parsing in smart AI, and Parsey McParseface is the latest name on the list. The near-unpronounceable software may sound laughable, but it is Google's instrument for understanding English. It is plausible that when they named the module, Google's engineer got inspired by Boaty McBoatface, the British research vessel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a27e65fb0499ef35ea35a893189c04d1a19f20fb.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229465</link>
+            <guid isPermaLink="false">e7e72019-9f69-41c7-a556-d37cac43a6e2</guid>
+            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ownCloud Desktop Client 2.2 Adds Notifications for Server Events and Sync Issues]]></title>
             <description><![CDATA[<article><h1>ownCloud Desktop Client 2.2 Adds Notifications for Server Events and Sync Issues</h1><p>Today, May 13, 2016, ownCloud has had the great pleasure of announcing the release of ownCloud Desktop Client 2.2.0 for all supported platforms, including GNU/Linux, Mac OS X, and Microsoft Windows.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d949fca01de5d9ad1e27f5f574651da07b021e4f.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>A Telegram Snap Package Is Available on Ubuntu 16.04 - OMG! Ubuntu!</h1><p>Using Ubuntu 16.04 and want to install the official Telegram Linux app? Don't run off to the official website to get the official binary: there's now a Telegram app snap package available on Ubuntu 16.04. To install it you can search for 'telegram' in Ubuntu Software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bc5667596b532caedd7222ffdae161f566f1e5e.jpg"></article>]]></description>
             <link>http://www.omgubuntu.co.uk/2016/05/telegram-snap-package-ubuntu-16-04</link>
             <guid isPermaLink="false">301ac4d1-ef1f-409d-9c31-19a8b6428e9a</guid>
-            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arch Linux-Based LinHES 8.4 OS Launches with Kodi 16.1, MythTV 0.28, and OpenPHT]]></title>
-            <description><![CDATA[<article><h1>Arch Linux-Based LinHES 8.4 OS Launches with Kodi 16.1, MythTV 0.28, and OpenPHT</h1><p>Today, LinHES maintainer Cecil Watson has announced the release of LinHES R8.4, an open source attempt to make the installation of a GNU/Linux operating system and the MythTV media center software as trivial as possible.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f482b3f57963e915edbb7c9fd92ff304302f041.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229512</link>
-            <guid isPermaLink="false">da761cab-9aa1-4d18-98c2-4c60ea15d1be</guid>
             <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
         </item>
     </channel>
