@@ -4,8 +4,57 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 11:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 11:21:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ZFS Finally Lands In Debian - Phoronix]]></title>
+            <description><![CDATA[<article><h1>ZFS Finally Lands In Debian - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c00721673d3b18a118bb8574e4a367f42a632eb.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=ZFS-Linux-In-Debian</link>
+            <guid isPermaLink="false">0ffba9a8-c8da-46e0-924e-372560125e1e</guid>
+            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Wayland Developer Shares His Concerns About NVIDIA's EGLStreams Proposal - Phoronix]]></title>
+            <description><![CDATA[<article><h1>A Wayland Developer Shares His Concerns About NVIDIA's EGLStreams Proposal - Phoronix</h1><p>Here is an elegant explanation by an upstream Wayland developer about what the consensus outside of NVIDIA mostly comes down to in the EGLStreams vs. GBM debate that's been occupying Wayland stakeholders the past month. There's no end in sight over the discussion of GBM (with the current approach of Wayland compositors) versus EGLStreams (the approach sought after by NVIDIA for their proprietary Linux driver).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5674a5805f77503bd75a99878c396ec20f337483.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Wayland-Dev-NV-Thoughts</link>
+            <guid isPermaLink="false">6c2a97e1-14a9-4afe-816d-af2827e64726</guid>
+            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google Open-Sources Neural Network Framework And Powerful Language Parser For Smarter AI: Meet Parsey McParseface]]></title>
+            <description><![CDATA[<article><h1>Google Open-Sources Neural Network Framework And Powerful Language Parser For Smarter AI: Meet Parsey McParseface</h1><p>Google is stepping up its game of open-sourcing tools for improved language parsing in smart AI, and Parsey McParseface is the latest name on the list. The near-unpronounceable software may sound laughable, but it is Google's instrument for understanding English. It is plausible that when they named the module, Google's engineer got inspired by Boaty McBoatface, the British research vessel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a27e65fb0499ef35ea35a893189c04d1a19f20fb.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229465</link>
+            <guid isPermaLink="false">e7e72019-9f69-41c7-a556-d37cac43a6e2</guid>
+            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ownCloud Desktop Client 2.2 Adds Notifications for Server Events and Sync Issues]]></title>
+            <description><![CDATA[<article><h1>ownCloud Desktop Client 2.2 Adds Notifications for Server Events and Sync Issues</h1><p>Today, May 13, 2016, ownCloud has had the great pleasure of announcing the release of ownCloud Desktop Client 2.2.0 for all supported platforms, including GNU/Linux, Mac OS X, and Microsoft Windows.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d949fca01de5d9ad1e27f5f574651da07b021e4f.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229484</link>
+            <guid isPermaLink="false">1fe1d654-4aed-4486-8776-76f22c182fe8</guid>
+            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Linux command that you should never say out loud]]></title>
+            <description><![CDATA[<article><h1>The Linux command that you should never say out loud</h1><p>If, when working on your Linux servers, you occasionally mistype a command and then curse, you might feel right at home with a very oddly named Linux command. It might even reduce the frustration you feel by helping you to correct your typing mistakes. The tool is called, well, thef?ck -- but with the ?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbc6388aaa4d73df9bc1bd8431eac85e01e24434.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229482</link>
+            <guid isPermaLink="false">89d251bc-d692-4780-ac41-ab78f42afdaf</guid>
+            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Civilization VI for Linux, Dungeons & Robots release, and more gaming news]]></title>
+            <description><![CDATA[<article><h1>Civilization VI for Linux, Dungeons & Robots release, and more gaming news</h1><p>Hello, open gaming fans! In this week's edition, we take a look at Civilization VI for Linux, Dungeons & Robots release, and new games out for Linux. Open gaming roundup for May 7 - 13, 2016 Civilization V was a hugely popular, turn-based strategy game where each player represents the leader of a certain nation or ethnic group (a "civilization").</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8443b86c343a904e33fb65d302d2fa8c0faf43f7.png"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229505</link>
+            <guid isPermaLink="false">85f69487-6a47-4b12-9b8b-c5f5fa2083a5</guid>
+            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top programmer describes Android's nuts and bolts in Oracle v. Google]]></title>
+            <description><![CDATA[<article><h1>Top programmer describes Android's nuts and bolts in Oracle v. Google</h1><p>View all... The Oracle v. Google trial rolled into its fifth day on Friday, beginning with videotaped deposition testimony from Oracle founder Larry Ellison. Later in the day, a former Sun scientist in charge of open source testified, as well as a key Android programmer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/704d498c2241242aae1c62ef2cdef2a852675f0e.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=229509</link>
+            <guid isPermaLink="false">60b69b67-c4ba-4ba7-b959-0e737b1a66ee</guid>
+            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Next: Open social networks]]></title>
             <description><![CDATA[<article><h1>Next: Open social networks</h1><p>Next: Open social networks Posted: Sun 15 May, 2016, 13:05 The goal of triki and running my own personal site has always been about sharing and connecting online, but outside the mega social media/content sharing platforms, for reasons explained in a previous blog.</p></article>]]></description>
@@ -25,55 +74,6 @@
             <description><![CDATA[<article><h1>AMDGPU DRM For Linux 4.7 Will Bring Some Performance Boosts For The R9 Fury - Phoronix</h1><p>Yesterday I published some Radeon DRM-Next performance tests for the Radeon DRM code queued up for the Linux 4.7 kernel merge window. Today I'm testing the DRM-Next-4.7 code for AMDGPU for looking at the performance improvements coming to this newer AMD DRM driver with the next Linux kernel cycle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4302b3683c32da70996358eae82416eb9147ffb.php"></article>]]></description>
             <link>http://www.phoronix.com/vr.php?view=23181</link>
             <guid isPermaLink="false">f393c420-8ebf-4ea2-85c9-969b5834dba2</guid>
-            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ZFS On Linux Looks Like It Will Soon Have Native Encryption Support - Phoronix]]></title>
-            <description><![CDATA[<article><h1>ZFS On Linux Looks Like It Will Soon Have Native Encryption Support - Phoronix</h1><p>The ZFS file-system upstream has offered native encryption support but unfortunately it came after ZFS was closed up by Oracle. The Illumos folks have been working on ZFS encryption while it looks like soon there will finally be encryption support available for ZFS On Linux.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f1fe517818c68cab92ad6957b3625f2ccc55cdc.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=ZFS-On-Linux-Encryption-Coming</link>
-            <guid isPermaLink="false">fbdc2bfb-fc7d-481c-a6bb-d5668a48c509</guid>
-            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Telegram Snap Package Is Available on Ubuntu 16.04 - OMG! Ubuntu!]]></title>
-            <description><![CDATA[<article><h1>A Telegram Snap Package Is Available on Ubuntu 16.04 - OMG! Ubuntu!</h1><p>Using Ubuntu 16.04 and want to install the official Telegram Linux app? Don't run off to the official website to get the official binary: there's now a Telegram app snap package available on Ubuntu 16.04. To install it you can search for 'telegram' in Ubuntu Software.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2bc5667596b532caedd7222ffdae161f566f1e5e.jpg"></article>]]></description>
-            <link>http://www.omgubuntu.co.uk/2016/05/telegram-snap-package-ubuntu-16-04</link>
-            <guid isPermaLink="false">301ac4d1-ef1f-409d-9c31-19a8b6428e9a</guid>
-            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arch Linux-Based LinHES 8.4 OS Launches with Kodi 16.1, MythTV 0.28, and OpenPHT]]></title>
-            <description><![CDATA[<article><h1>Arch Linux-Based LinHES 8.4 OS Launches with Kodi 16.1, MythTV 0.28, and OpenPHT</h1><p>Today, LinHES maintainer Cecil Watson has announced the release of LinHES R8.4, an open source attempt to make the installation of a GNU/Linux operating system and the MythTV media center software as trivial as possible.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f482b3f57963e915edbb7c9fd92ff304302f041.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229512</link>
-            <guid isPermaLink="false">da761cab-9aa1-4d18-98c2-4c60ea15d1be</guid>
-            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Geary 0.11 Released, This Is What's New]]></title>
-            <description><![CDATA[<article><h1>Geary 0.11 Released, This Is What's New</h1><p>A new version of open-source email client Geary is available to download, the first update to the app in more than a year. The demise of Yorba as a non-profit software company a year or ago left the fate of their open source projects, Shotwell photo manger and Geary e-mail client among them, uncertain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b366b3d79e2fe8b999c6e6b1f82575a5bf2b30a5.jpg"></article>]]></description>
-            <link>http://www.omgubuntu.co.uk/2016/05/geary-0-11-0-released</link>
-            <guid isPermaLink="false">78a90629-f096-45b5-9ec0-a1dd35bbdd82</guid>
-            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Install the Beautiful Arc GTK Theme on Ubuntu 16.04 LTS - Updated]]></title>
-            <description><![CDATA[<article><h1>How to Install the Beautiful Arc GTK Theme on Ubuntu 16.04 LTS - Updated</h1><p>At the request of many of our readers, we decided to write the following tutorial to teach Ubuntu users how to install the very popular and gorgeous Arc GTK theme in the latest Ubuntu 16.04 LTS (Xenial Xerus) operating system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5803f044e9176d2f24ed51a070dfad96f3364fb4.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229511</link>
-            <guid isPermaLink="false">e5d6c1a8-e5c8-41e5-b8a2-0719abf31549</guid>
-            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mozilla Open Source Support (MOSS): Now Open To All Projects]]></title>
-            <description><![CDATA[<article><h1>Mozilla Open Source Support (MOSS): Now Open To All Projects</h1><p>Last year, we launched the Mozilla Open Source Support Program (MOSS) - an award program specifically focused on supporting open source and free software. The first track within MOSS ("Foundational Technology") provides support for open source and free software projects that Mozilla uses or relies on. We are now adding a second track.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed4f23fb2f5d4ff920105a7e15cb4e64fb13be04.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229374</link>
-            <guid isPermaLink="false">9338aabc-23ce-42c0-a7f4-daa103776a0f</guid>
-            <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Everyday Linux User Review Of Ubuntu 16.04 - The Good, The Bad And The Not Quite So Ugly " Everyday Linux User]]></title>
-            <description><![CDATA[<article><h1>An Everyday Linux User Review Of Ubuntu 16.04 - The Good, The Bad And The Not Quite So Ugly " Everyday Linux User</h1><p>Last month saw the release of everybody's favourite Linux distribution, Ubuntu. I have spent the past couple of weeks reading other people's opinions, watching videos and listening to podcasts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40201a43ba5d34764f3111424472268178f30c1c.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229612</link>
-            <guid isPermaLink="false">48a21759-c3c3-46ae-a1d8-ab9e8bacb489</guid>
             <pubDate>Wed, 18 May 2016 11:19:29 GMT</pubDate>
         </item>
     </channel>
