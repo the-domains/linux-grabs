@@ -1,19 +1,4 @@
-name: Linux Grabs
-favicon: null
-layout_spectrum: 0.3179
 typography_spectrum: 0.1578390086069703
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#394342'
@@ -25,4 +10,20 @@ color:
   lightness: 0
   saturation: 1
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3179
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Linux Grabs
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Linux Junk
 purpose: []
