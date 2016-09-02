@@ -1,0 +1,41 @@
+---
+author: []
+related: []
+publisher:
+  url: 'http://www.phoronix.com'
+  name: Phoronix
+  favicon: 'http://www.phoronix.com/favicon.ico'
+  domain: www.phoronix.com
+keywords:
+  - linux
+  - opengl
+  - radeonsi
+  - phoronix
+  - radeon
+  - amdgpu
+  - vulkan
+  - benchmarks
+  - mesa
+  - intel
+description: >-
+  Phoronix is the leading technology website for Linux hardware reviews,
+  open-source news, Linux benchmarks, open-source benchmarks, and computer
+  hardware tests.
+inLanguage: en
+app_links: []
+isBasedOnUrl: 'http://www.phoronix.com/scan.php?page=news_item&px=Radeon-Mesa-20160826'
+title: 'AMDGPU SI Winsys Support, Other Radeon Changes Hit Mesa Git - Phoronix'
+datePublished: '2016-08-31T12:34:08.565Z'
+dateModified: '2016-08-31T12:25:47.486Z'
+via: {}
+starred: false
+sourcePath: >-
+  _posts/2016-08-31-amdgpu-si-winsys-support-other-radeon-changes-hit-mesa-git.md
+inFeed: true
+hasPage: false
+inNav: false
+_context: 'http://schema.org'
+_type: MediaObject
+
+---
+<article style=""><h1>AMDGPU SI Winsys Support, Other Radeon Changes Hit Mesa Git - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="http://www.phoronix.com/assets/categories/mesa.jpg" /></article>
