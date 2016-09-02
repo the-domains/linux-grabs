@@ -16,8 +16,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://feedly.com/i/category/Open%20Source'
 title: 'feedly: organize, read and share what matters to you.'
-datePublished: '2016-08-31T12:34:09.222Z'
-dateModified: '2016-08-31T12:22:26.385Z'
+datePublished: '2016-08-31T12:34:09.228Z'
+dateModified: '2016-08-31T12:21:40.927Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-31-feedly-organize-read-and-share-what-matters-to-you.md
