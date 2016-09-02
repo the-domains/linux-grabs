@@ -1,80 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Linux Grabs]]></title>
-        <description><![CDATA[Linux Grabs]]></description>
+        <title><![CDATA[Linux Junk]]></title>
+        <description><![CDATA[Linux Junk]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 11:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 12:35:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Opera 'Power Saving Mode' Extends Battery Life 40-50% | FOSS Force]]></title>
-            <description><![CDATA[<article><h1>Opera 'Power Saving Mode' Extends Battery Life 40-50% | FOSS Force</h1><p>Numbers supplied by Opera show that the browser's new Power Saving Mode, currently found only in developer builds, can considerably extend laptop battery life. The folks behind the free but proprietary Opera browser announced today that the latest developer build includes Power Saving Mode, a new feature that the company claims can extend [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/239732f965fffe85ea11045afa731837197dfe28.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229425</link>
-            <guid isPermaLink="false">890d240e-32d8-46af-9b44-b87a0567d942</guid>
-            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+            <title><![CDATA[KDE Plasma 5.7.4 Released - Phoronix]]></title>
+            <description><![CDATA[<article><h1>KDE Plasma 5.7.4 Released - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fcfd04b32324ea989cf55393387878fb/croprotate.jpg?cropheight=320&cropwidth=304&degrees=0&input=http%3A%2F%2Fwww.phoronix.com%2Fassets%2Fcategories%2Fkde.jpg&x=8&y=0"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=KDE-Plasma-5.7.4-Released</link>
+            <guid isPermaLink="false">e2adf5dd-6a1c-4dfb-9f21-675828f5aa9b</guid>
+            <pubDate>Wed, 31 Aug 2016 12:34:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ZFS Finally Lands In Debian - Phoronix]]></title>
-            <description><![CDATA[<article><h1>ZFS Finally Lands In Debian - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c00721673d3b18a118bb8574e4a367f42a632eb.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=ZFS-Linux-In-Debian</link>
-            <guid isPermaLink="false">0ffba9a8-c8da-46e0-924e-372560125e1e</guid>
-            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+            <title><![CDATA[Polychromatic Provides A Nice UI To Razer Keyboards/Mice On Linux - Phoronix]]></title>
+            <description><![CDATA[<article><h1>Polychromatic Provides A Nice UI To Razer Keyboards/Mice On Linux - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/086a10b24f327881481a627869fd59e3/noop.jpg?input=http%3A%2F%2Fwww.phoronix.com%2Fassets%2Fcategories%2Fhardware.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Polychromatic-Razer-Linux</link>
+            <guid isPermaLink="false">1fb2f4aa-acc0-4bb8-b557-79899287a07e</guid>
+            <pubDate>Wed, 31 Aug 2016 12:34:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Wayland Developer Shares His Concerns About NVIDIA's EGLStreams Proposal - Phoronix]]></title>
-            <description><![CDATA[<article><h1>A Wayland Developer Shares His Concerns About NVIDIA's EGLStreams Proposal - Phoronix</h1><p>Here is an elegant explanation by an upstream Wayland developer about what the consensus outside of NVIDIA mostly comes down to in the EGLStreams vs. GBM debate that's been occupying Wayland stakeholders the past month. There's no end in sight over the discussion of GBM (with the current approach of Wayland compositors) versus EGLStreams (the approach sought after by NVIDIA for their proprietary Linux driver).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5674a5805f77503bd75a99878c396ec20f337483.jpg"></article>]]></description>
-            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=Wayland-Dev-NV-Thoughts</link>
-            <guid isPermaLink="false">6c2a97e1-14a9-4afe-816d-af2827e64726</guid>
-            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+            <title><![CDATA[8 Best Linux Distributions For New Linux Users]]></title>
+            <description><![CDATA[<article><h1>8 Best Linux Distributions For New Linux Users</h1><p>New Linux users are always confused about choosing a best Linux distribution to start with. As there are hundreds of Linux distributions so it might always be a confusing part. But I'll help you choosing the right Linux flavour to start your Linux exploration.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5757b51b6f396d9c7f355c156ff8d0a9/noop.jpg?input=http%3A%2F%2Fwww.linuxandubuntu.com%2Fuploads%2F2%2F1%2F1%2F5%2F21152474%2Fzorin-os-system_orig.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=233125</link>
+            <guid isPermaLink="false">e7370c1e-1bcd-444e-9b42-6657e61afa08</guid>
+            <pubDate>Wed, 31 Aug 2016 12:34:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Google Open-Sources Neural Network Framework And Powerful Language Parser For Smarter AI: Meet Parsey McParseface]]></title>
-            <description><![CDATA[<article><h1>Google Open-Sources Neural Network Framework And Powerful Language Parser For Smarter AI: Meet Parsey McParseface</h1><p>Google is stepping up its game of open-sourcing tools for improved language parsing in smart AI, and Parsey McParseface is the latest name on the list. The near-unpronounceable software may sound laughable, but it is Google's instrument for understanding English. It is plausible that when they named the module, Google's engineer got inspired by Boaty McBoatface, the British research vessel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a27e65fb0499ef35ea35a893189c04d1a19f20fb.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229465</link>
-            <guid isPermaLink="false">e7e72019-9f69-41c7-a556-d37cac43a6e2</guid>
-            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+            <title><![CDATA[SUSE Linux and openSUSE Leap to Offer Better Support for ARM Systems Using EFI]]></title>
+            <description><![CDATA[<article><h1>SUSE Linux and openSUSE Leap to Offer Better Support for ARM Systems Using EFI</h1><p>The YaST development team at openSUSE and SUSE is reporting on the latest improvements that should be available in the upcoming openSUSE Leap 42.2 and SUSE Linux Enterprise 12 Service Pack 2 operating systems. The 23rd YaST development sprint 23 took place last week, and we're looking at a lot of nice features coming soon to the in-house built installation and configuration tool for openSUSE and the SUSE Linux Enterprise distributions, such as integration of the self-update feature with the SUSE Customer Center (SCC) and Subscription Management Tool (SMT) servers.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a45396d317cb6daea13a960cd3453400/noop.jpg?input=http%3A%2F%2Fi1-news.softpedia-static.com%2Fimages%2Fnews2%2Fsuse-linux-and-opensuse-leap-to-offer-better-support-for-arm-systems-using-efi-507570-2.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=233131</link>
+            <guid isPermaLink="false">4a2c983a-26f0-44be-ac81-6f600af85c71</guid>
+            <pubDate>Wed, 31 Aug 2016 12:34:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ownCloud Desktop Client 2.2 Adds Notifications for Server Events and Sync Issues]]></title>
-            <description><![CDATA[<article><h1>ownCloud Desktop Client 2.2 Adds Notifications for Server Events and Sync Issues</h1><p>Today, May 13, 2016, ownCloud has had the great pleasure of announcing the release of ownCloud Desktop Client 2.2.0 for all supported platforms, including GNU/Linux, Mac OS X, and Microsoft Windows.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d949fca01de5d9ad1e27f5f574651da07b021e4f.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229484</link>
-            <guid isPermaLink="false">1fe1d654-4aed-4486-8776-76f22c182fe8</guid>
-            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+            <title><![CDATA[QtCon Keynote: Software as a Public Service]]></title>
+            <description><![CDATA[<article><h1>QtCon Keynote: Software as a Public Service</h1><p>QtCon is happy to welcome Julia Reda, the closing keynote speaker. Member of the European Parliament for the Pirate Party and Vice-Chair of the Greens/European Free Alliance. Reda's legislative focus is on copyright and internet policy issues.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/447010add12482ba6f8e37a902ee79d4/noop.jpg?input=https%3A%2F%2Fconf.qtcon.org%2Fsystem%2Favatars%2F1387%2Flarge%2FP1012552_juliareda_portrait.jpg%3F1471512086"></article>]]></description>
+            <link>https://dot.kde.org/2016/08/24/qtcon-keynote-software-public-service</link>
+            <guid isPermaLink="false">f7a17259-6e6c-4461-9526-bd0319f4b200</guid>
+            <pubDate>Wed, 31 Aug 2016 12:34:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Linux command that you should never say out loud]]></title>
-            <description><![CDATA[<article><h1>The Linux command that you should never say out loud</h1><p>If, when working on your Linux servers, you occasionally mistype a command and then curse, you might feel right at home with a very oddly named Linux command. It might even reduce the frustration you feel by helping you to correct your typing mistakes. The tool is called, well, thef?ck -- but with the ?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbc6388aaa4d73df9bc1bd8431eac85e01e24434.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229482</link>
-            <guid isPermaLink="false">89d251bc-d692-4780-ac41-ab78f42afdaf</guid>
-            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+            <title><![CDATA[Linux notes from DarkDuck]]></title>
+            <description><![CDATA[<article><h1>Linux notes from DarkDuck</h1><p>Google Drive is a powerful tool. It is a cloud-based file storage and sharing service from the well-known software company. It is fast, reliable and popular. But there is a limitation for Linux users: the Google Drive client is not available for any Linux distribution.</p></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=233132</link>
+            <guid isPermaLink="false">7f061fa3-d74f-485f-8a60-7bfd1cfaed7f</guid>
+            <pubDate>Wed, 31 Aug 2016 12:34:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Civilization VI for Linux, Dungeons & Robots release, and more gaming news]]></title>
-            <description><![CDATA[<article><h1>Civilization VI for Linux, Dungeons & Robots release, and more gaming news</h1><p>Hello, open gaming fans! In this week's edition, we take a look at Civilization VI for Linux, Dungeons & Robots release, and new games out for Linux. Open gaming roundup for May 7 - 13, 2016 Civilization V was a hugely popular, turn-based strategy game where each player represents the leader of a certain nation or ethnic group (a "civilization").</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8443b86c343a904e33fb65d302d2fa8c0faf43f7.png"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229505</link>
-            <guid isPermaLink="false">85f69487-6a47-4b12-9b8b-c5f5fa2083a5</guid>
-            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+            <title><![CDATA[GNOME/GTK Support For Drawing Tablets On Wayland Is Feature Complete - Phoronix]]></title>
+            <description><![CDATA[<article><h1>GNOME/GTK Support For Drawing Tablets On Wayland Is Feature Complete - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/520ee13271ab02515bc652f8d6220a4dfb281d18.jpg"></article>]]></description>
+            <link>http://www.phoronix.com/scan.php?page=news_item&amp;px=GNOME-Way-Drawing-Tabs</link>
+            <guid isPermaLink="false">b963c0c1-dcf5-4bdf-8f4c-8624ec335f5e</guid>
+            <pubDate>Wed, 31 Aug 2016 12:34:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Top programmer describes Android's nuts and bolts in Oracle v. Google]]></title>
-            <description><![CDATA[<article><h1>Top programmer describes Android's nuts and bolts in Oracle v. Google</h1><p>View all... The Oracle v. Google trial rolled into its fifth day on Friday, beginning with videotaped deposition testimony from Oracle founder Larry Ellison. Later in the day, a former Sun scientist in charge of open source testified, as well as a key Android programmer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/704d498c2241242aae1c62ef2cdef2a852675f0e.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229509</link>
-            <guid isPermaLink="false">60b69b67-c4ba-4ba7-b959-0e737b1a66ee</guid>
-            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+            <title><![CDATA[That Wasn't In The Forecast - GNOME Weather Has Stopped Working - OMG! Ubuntu!]]></title>
+            <description><![CDATA[<article><h1>That Wasn't In The Forecast - GNOME Weather Has Stopped Working - OMG! Ubuntu!</h1><p>GNOME Weather is no longer able to display weather forecasts. The 3-day forecast said nothing about an API change... The National Oceanic and Atmospheric Administration of the United States (NOAA) seem to have discontinued or amended one of their APIs, one that GNOME Weather uses.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1e225d37907d26c673eb03f604359c89/noop.jpg?input=http%3A%2F%2Fwww.omgubuntu.co.uk%2Fwp-content%2Fuploads%2F2016%2F08%2Fgnome-weather-318-750x532.jpg"></article>]]></description>
+            <link>http://www.omgubuntu.co.uk/2016/08/gnome-weather-forecast-not-available</link>
+            <guid isPermaLink="false">81568712-88de-4cd2-ab95-6a14fe950899</guid>
+            <pubDate>Wed, 31 Aug 2016 12:34:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Next: Open social networks]]></title>
-            <description><![CDATA[<article><h1>Next: Open social networks</h1><p>Next: Open social networks Posted: Sun 15 May, 2016, 13:05 The goal of triki and running my own personal site has always been about sharing and connecting online, but outside the mega social media/content sharing platforms, for reasons explained in a previous blog.</p></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=229514</link>
-            <guid isPermaLink="false">80deaa96-ba96-4457-b350-640591b6ec51</guid>
-            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+            <title><![CDATA[LinuxCon: How Facebook Monitors Hundreds of Thousands of Servers with Netconsole]]></title>
+            <description><![CDATA[<article><h1>LinuxCon: How Facebook Monitors Hundreds of Thousands of Servers with Netconsole</h1><p>TORONTO - Facebook is among the largest users of Linux and open source in the world, as the company relies on them to run and maintain its operations. At the LinuxCon conference here, Calvin Owens, production engineer at Facebook, detailed how the social networking giant makes use of the open-source netconsole tool to identify potentially problematic servers.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6d96fe7a456f6a667ab28918cff61075/noop.jpg?input=http%3A%2F%2Fwww.serverwatch.com%2Fimagesvr_ce%2F7395%2Ficon-server-virtualization-r.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=233129</link>
+            <guid isPermaLink="false">10fd8b1a-b20d-4786-b246-fa5a2fe0df7b</guid>
+            <pubDate>Wed, 31 Aug 2016 12:34:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Meet Etcher, A Stylish Open-Source USB Image Writer Tool - OMG! Ubuntu!]]></title>
-            <description><![CDATA[<article><h1>Meet Etcher, A Stylish Open-Source USB Image Writer Tool - OMG! Ubuntu!</h1><p>Looking for an easy-to-use way to create a bootable USB stick on Linux? This new app can help. This weekend reader Ronald M. sent us the following e-mail</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a759e6ab397a4b9627e59c0b0f712bc349555cf1.jpg"></article>]]></description>
-            <link>http://www.omgubuntu.co.uk/2016/05/etcher-usb-image-burner-tool-linux-open-source</link>
-            <guid isPermaLink="false">19f36788-739f-4b3c-bd68-db9381e85262</guid>
-            <pubDate>Wed, 18 May 2016 11:19:30 GMT</pubDate>
+            <title><![CDATA[Live From LinuxCon: Red Hat and Microsoft Embrace On Stage]]></title>
+            <description><![CDATA[<article><h1>Live From LinuxCon: Red Hat and Microsoft Embrace On Stage</h1><p>If any LinuxCon moment so far has underscored the evolution of Linux over 25 years, it was during the transition between keynotes this morning when Red Hat CEO Jim Whitehurst found himself on stage with Microsoft's new vice president of open source, Wim Coekaerts.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ad717d367d8fcfea06c9d81fa71a56cf/noop.jpg?input=https%3A%2F%2Fwww.linux.com%2Fsites%2Flcom%2Ffiles%2Fmicrosoft-red-hat-linuxcon-2016.jpg"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=233128</link>
+            <guid isPermaLink="false">58d4119a-7e33-4cb1-9ca2-3d72a988ff84</guid>
+            <pubDate>Wed, 31 Aug 2016 12:34:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
