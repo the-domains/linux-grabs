@@ -1,4 +1,3 @@
-layout_spectrum: 0.26025348575785756
 typography_spectrum: 0.31891447911038995
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.26025348575785756
 analytics:
   google: null
   facebook: null
@@ -26,5 +26,5 @@ cta:
   version: null
 favicon: null
 title: Linux Junk
-description: This is like random shit
+description: The Automatic Linux News Grabber
 purpose: []
