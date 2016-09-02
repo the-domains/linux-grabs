@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: ''
+  email: ''
 name: Linux Grabs
 cta:
   domain: null
