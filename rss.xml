@@ -4,8 +4,15 @@
         <description><![CDATA[Linux Grabs]]></description>
         <link>https://thegrid.ai/linux-grabs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 20:05:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 20:09:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/linux-grabs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[3 copyright tips for students and educators]]></title>
+            <description><![CDATA[<article><h1>3 copyright tips for students and educators</h1><p>Copyright is a really complicated topic, and when it comes to online use of creative works, accidentally crossing the line between fair use and a copyright violation is easy. In this article, we look at a few tips to keep in mind when you're hunting for content to use in the classroom.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/469f155159d7b05c07a22d126d050ba1/noop.png?input=https%3A%2F%2Fopensource.com%2Fsites%2Fdefault%2Ffiles%2Fimages%2Feducation%2FEDUCATION_copyright.png"></article>]]></description>
+            <link>http://lxer.com/module/newswire/ext_link.php?rid=233401</link>
+            <guid isPermaLink="false">457f6c49-98c8-4abf-b7ad-27cdb84f0671</guid>
+            <pubDate>Wed, 31 Aug 2016 20:09:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mesa Has Already Seen More Code Changes This Year Than All Of 2015 - Phoronix]]></title>
             <description><![CDATA[<article><h1>Mesa Has Already Seen More Code Changes This Year Than All Of 2015 - Phoronix</h1><p>Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da94ba88-8ef4-4e9b-930a-cf74c8028981.png"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>That Wasn't In The Forecast - GNOME Weather Has Stopped Working - OMG! Ubuntu!</h1><p>GNOME Weather is no longer able to display weather forecasts. The 3-day forecast said nothing about an API change... The National Oceanic and Atmospheric Administration of the United States (NOAA) seem to have discontinued or amended one of their APIs, one that GNOME Weather uses.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1e225d37907d26c673eb03f604359c89/noop.jpg?input=http%3A%2F%2Fwww.omgubuntu.co.uk%2Fwp-content%2Fuploads%2F2016%2F08%2Fgnome-weather-318-750x532.jpg"></article>]]></description>
             <link>http://www.omgubuntu.co.uk/2016/08/gnome-weather-forecast-not-available</link>
             <guid isPermaLink="false">81568712-88de-4cd2-ab95-6a14fe950899</guid>
-            <pubDate>Wed, 31 Aug 2016 12:34:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LinuxCon: How Facebook Monitors Hundreds of Thousands of Servers with Netconsole]]></title>
-            <description><![CDATA[<article><h1>LinuxCon: How Facebook Monitors Hundreds of Thousands of Servers with Netconsole</h1><p>TORONTO - Facebook is among the largest users of Linux and open source in the world, as the company relies on them to run and maintain its operations. At the LinuxCon conference here, Calvin Owens, production engineer at Facebook, detailed how the social networking giant makes use of the open-source netconsole tool to identify potentially problematic servers.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6d96fe7a456f6a667ab28918cff61075/noop.jpg?input=http%3A%2F%2Fwww.serverwatch.com%2Fimagesvr_ce%2F7395%2Ficon-server-virtualization-r.jpg"></article>]]></description>
-            <link>http://lxer.com/module/newswire/ext_link.php?rid=233129</link>
-            <guid isPermaLink="false">10fd8b1a-b20d-4786-b246-fa5a2fe0df7b</guid>
             <pubDate>Wed, 31 Aug 2016 12:34:09 GMT</pubDate>
         </item>
     </channel>
